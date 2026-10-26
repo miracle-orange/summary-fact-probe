@@ -1,0 +1,28 @@
+{
+  "status": "ok",
+  "request_hash": "ab205bd291a8527100eabe26719670cd66abc33d42c78a8638ccd4daeec98ecf",
+  "output": {
+    "key_facts": [
+      "The project aims to create a remote control that can generate a profit of fifty million Euros.",
+      "The remote control needs to be trendy and have a price point of twenty five Euros.",
+      "The team acknowledges that twenty five Euros is a high price for a remote control.",
+      "The team considers the possibility of incorporating a gimmick such as a whistle feature to help locate lost remotes.",
+      "The team discusses the need for a unique design, including color and shape, to differentiate the remote control from competitors.",
+      "Marketing suggests evaluating market potential, competition, and design trends before finalizing the project.",
+      "The team agrees that the remote control should be attractive and have a good design.",
+      "The team decides that the Industrial Designer will research existing remote controls, focusing on shapes, colors, and materials.",
+      "The Project Manager mentions the target price of twelve Euros fifty for the remote control.",
+      "The team plans to have another meeting in half an hour to discuss further details."
+    ]
+  },
+  "metadata": {
+    "model": "small",
+    "finish_reason": "stop",
+    "usage": {
+      "prompt_tokens": 1719,
+      "total_tokens": 1919,
+      "completion_tokens": 200,
+      "prompt_tokens_details": null
+    }
+  }
+}

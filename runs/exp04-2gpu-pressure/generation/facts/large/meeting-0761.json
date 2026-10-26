@@ -1,0 +1,59 @@
+{
+  "status": "ok",
+  "request_hash": "5bd3924848889d809d56c645aec7f56678a7aa10d99396aaf6dd5ff9315e0d2b",
+  "output": {
+    "key_facts": [
+      "The House of Commons Special Committee on the COVID-19 Pandemic held a virtual meeting with various members presenting petitions.",
+      "A petition from the Canadian Perinatal Mental Health Collaborative calls for a national perinatal mental health strategy, citing 20% of women and 10% of men suffer from perinatal mental illness in Canada.",
+      "A petition related to cystic fibrosis asks the government to rescind amendments to the Patented Medicine Prices Review Board to ensure access to the drug Trikafta, which is effective for 90% of CF sufferers.",
+      "Petitioners highlight that nearly five million Canadians lack a regular family doctor, urging the government to collaborate with provinces and territories to solve this crisis.",
+      "A petition criticizes the Liberal government's approach to firearms legislation, calling for cancellation of plans to confiscate legally owned firearms and focusing on gang-related violence.",
+      "Petitioners oppose open-net salmon farming expansion in Nova Scotia due to environmental concerns and call for compliance with Bill C-68 and species-at-risk legislation.",
+      "Petitioners demand immediate halting of the Coastal GasLink project on Wet'suwet'en territory, emphasizing the need for nation-to-nation talks and adherence to UNDRIP.",
+      "A petition requests airlines to provide full refunds for cancelled flights due to the pandemic before receiving any government financial assistance.",
+      "Federal workers were instructed to prioritize speed over fraud detection in distributing pandemic benefits, with 200,000 applications flagged as potentially fraudulent.",
+      "The Prime Minister emphasized that the government will retroactively address fraud after ensuring timely distribution of support during the crisis.",
+      "The Large Employer Emergency Financing Facility includes conditions against tax evasion and avoidance but allows companies to legally benefit from tax havens.",
+      "There are concerns about high interchange fees charged by credit card companies, with petitioners asking the government to cap these fees at 0.3%, similar to Europe and Australia.",
+      "Single parents who lost spousal and child support due to the pandemic are not eligible for CERB, prompting a call for correction.",
+      "Service Canada has experienced delays in processing mail submissions, including unopened documents sent two months ago.",
+      "Farmers in Canada have been affected by the Iver Johnson rifle ban, which critics argue targets law-abiding citizens rather than addressing illegal weapons.",
+      "Seniors are being supported with a one-time payment of up to $500, but there are concerns about inadequate measures and delayed responses to their needs.",
+      "The government faces criticism for its handling of PPE procurement, with some provinces reporting shortages and issues with faulty or expired equipment.",
+      "Fishermen in the lobster industry are experiencing significant market losses due to the pandemic and require targeted support, as they are not eligible for existing programs like the wage subsidy.",
+      "Health Canada has not received an application for Trikafta, a life-saving drug for cystic fibrosis patients, despite calls for expedited approval.",
+      "The tourism sector is severely impacted by the pandemic, especially ferry services connecting Nova Scotia to Maine, requiring federal support to survive and recover.",
+      "Quebec representatives raised concerns about wealth inequality, noting CEOs earn 227 times more than average workers, and questioned whether executive compensation caps would be imposed on firms receiving crisis support.",
+      "The government announced liquidity measures for the oil and gas sector, including $500 million for large-cap companies, following prolonged delays.",
+      "Proposals for universal pharmacare were reiterated, highlighting the vulnerability of millions of Canadians who lost prescription coverage when they lost jobs.",
+      "Long-term care facilities face a crisis with poor conditions and high mortality rates, prompting demands for national standards and federal funding tied to enforcement.",
+      "Questions arose regarding transparency and accountability in government decision-making, including the Harrington Cottage renovation and leaks of pre-market economic data.",
+      "The Coastal GasLink pipeline received a $500 million loan from Export Development Canada, raising concerns about fairness compared to past forestry sector support.",
+      "Small businesses struggling with rent relief and PPE access during reopening were advised to rely on provincial involvement for landlord cooperation and federal-provincial coordination for PPE availability.",
+      "Concerns were raised about the CERB repayment threshold, where even minor earnings over $1,000 could result in losing the entire benefit, prompting reassurances of individualized support."
+    ]
+  },
+  "metadata": {
+    "attempts": 1,
+    "input_tokens_local": 22014,
+    "context_limit": 65536,
+    "request_parameters": {
+      "temperature": 0.7,
+      "top_p": 0.8,
+      "top_k": 20,
+      "min_p": 0.0,
+      "repetition_penalty": 1.05,
+      "presence_penalty": 1.0,
+      "seed": 42,
+      "max_tokens": 8192
+    },
+    "model": "large",
+    "finish_reason": "stop",
+    "usage": {
+      "prompt_tokens": 22014,
+      "total_tokens": 22893,
+      "completion_tokens": 879,
+      "prompt_tokens_details": null
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "status": "ok",
+  "request_hash": "69904bbeb5f94330778010eb7a40ef660ebf8fbe8c0975bfa7f1034ac8d4d6be",
+  "output": {
+    "summary": "The House of Commons Special Committee on the COVID-19 Pandemic convened a virtual meeting where various members presented petitions and raised concerns about different aspects of the pandemic's impact on Canadian society. The Canadian Perinatal Mental Health Collaborative petitioned for a national perinatal mental health strategy, citing the prevalence of mental illness during pregnancy and the postpartum period. A petition related to cystic fibrosis called for the rescission of amendments to the Patented Medicine Prices Review Board to ensure access to the drug Trikafta. Petitioners highlighted the severe shortage of family doctors, impacting nearly five million Canadians, and urged the government to collaborate with provinces and territories to address the crisis. Concerns were raised about the Liberal government's approach to firearms legislation, with calls to cancel plans to confiscate legally owned firearms and focus on gang-related violence. A petition opposed the expansion of open-net salmon farming in Nova Scotia, citing environmental degradation and risks to native fish stocks. Petitioners demanded the immediate halting of the Coastal GasLink project on Wet'suwet'en territory and adherence to the UN Declaration on the Rights of Indigenous Peoples. A petition requested airlines to provide full refunds for canceled flights before receiving any financial assistance. Federal workers were instructed to prioritize speed over fraud detection in distributing pandemic benefits, with 200,000 applications flagged as potentially fraudulent. The Prime Minister emphasized that the government would retroactively address fraud after ensuring timely distribution of support during the crisis. The Large Employer Emergency Financing Facility included conditions against tax evasion and avoidance but allowed companies to legally benefit from tax havens. Concerns were raised about high interchange fees charged by credit card companies, with petitioners asking the government to cap these fees at 0.3%. Single parents who lost spousal and child support due to the pandemic were not eligible for CERB, prompting a call for correction. Service Canada experienced delays in processing mail submissions, including unopened documents sent two months ago. Farmers in Canada were affected by the Iver Johnson rifle ban, which critics argued targeted law-abiding citizens rather than addressing illegal weapons. Seniors were being supported with a one-time payment of up to $500, but there were concerns about inadequate measures and delayed responses to their needs. The government faced criticism for its handling of PPE procurement, with some provinces reporting shortages and issues with faulty or expired equipment. Fishermen in the lobster industry experienced significant market losses due to the pandemic and required targeted support, as they were not eligible for existing programs like the wage subsidy. Health Canada had not received an application for Trikafta, a life-saving drug for cystic fibrosis patients, despite calls for expedited approval. The tourism sector, especially ferry services connecting Nova Scotia to Maine, was severely impacted by the pandemic and required federal support to survive and recover. Quebec representatives raised concerns about wealth inequality, noting that CEOs earned 227 times more than average workers, and questioned whether executive compensation caps would be imposed on firms receiving crisis support. The government announced liquidity measures for the oil and gas sector, including $500 million for large-cap companies, following prolonged delays. Proposals for universal pharmacare were reiterated, highlighting the vulnerability of millions of Canadians who lost prescription coverage when they lost jobs. Long-term care facilities faced a crisis with poor conditions and high mortality rates, prompting demands for national standards and federal funding tied to enforcement. Questions arose regarding transparency and accountability in government decision-making, including the Harrington Cottage renovation and leaks of pre-market economic data. The Coastal GasLink pipeline received a $500 million loan from Export Development Canada, raising concerns about fairness compared to past forestry sector support. Small businesses struggling with rent relief and PPE access during reopening were advised to rely on provincial involvement for landlord cooperation and federal-provincial coordination for PPE availability. Concerns were raised about the CERB repayment threshold, where even minor earnings over $1,000 could result in losing the entire benefit, prompting reassurances of individualized support."
+  },
+  "metadata": {
+    "attempts": 1,
+    "input_tokens_local": 22838,
+    "context_limit": 65536,
+    "request_parameters": {
+      "temperature": 0.7,
+      "top_p": 0.8,
+      "top_k": 20,
+      "min_p": 0.0,
+      "repetition_penalty": 1.05,
+      "seed": 42,
+      "max_tokens": 4096
+    },
+    "model": "small",
+    "finish_reason": "stop",
+    "usage": {
+      "prompt_tokens": 22838,
+      "total_tokens": 23661,
+      "completion_tokens": 823,
+      "prompt_tokens_details": null
+    }
+  }
+}

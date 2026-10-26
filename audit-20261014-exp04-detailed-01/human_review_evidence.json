@@ -1,0 +1,92 @@
+[
+  {
+    "sample_id": "meeting-0064",
+    "arm": "direct_s",
+    "issue": "overinclusive_reference_match",
+    "reference_id": 15,
+    "reference": "The group scheduled the next meeting for Thursday at 4:00 PM to discuss Grad A's thesis proposal.",
+    "judge_matched_sentence_id": 5,
+    "judge_matched_sentence": "They also mention the use of JavaBayes for probabilistic modeling and plan to meet again to review and provide feedback on the work.",
+    "summary": "The conversation involves graduate students and a professor discussing a semantic specification and formalism for linguistic constructions. They talk about the revised semantic specification, the notation used, and the distinction between form and meaning. They also discuss the concept of designates, semantic constraints, and the challenges of incorporating mental spaces and discourse contexts into the formalism. The group agrees to focus on defining a set of constructions and planning their work, with the intention of handling more complex issues like inheritance and mental spaces later. They also mention the use of JavaBayes for probabilistic modeling and plan to meet again to review and provide feedback on the work."
+  },
+  {
+    "sample_id": "meeting-0795",
+    "arm": "direct_l",
+    "issue": "overinclusive_reference_match",
+    "reference_id": 2,
+    "reference": "Professor F will drive the students to the airport at 6:00 AM to catch a 7:20 AM flight to OGI.",
+    "judge_matched_sentence_id": 1,
+    "judge_matched_sentence": "The group discusses plans for a field trip to OGI, logistics including an early morning departure and transportation arrangements.",
+    "summary": "The group discusses plans for a field trip to OGI, logistics including an early morning departure and transportation arrangements. They review progress on tasks like the preparation of a French test dataset, the use of HTK baselines, and the development of a three-dimensional 'cube' framework for analyzing feature extraction, training data, and testing data across multiple languages (English, Spanish, French, Italian, Finnish). They explore the feasibility of using neural networks trained on different datasets and languages, considering cross-language performance and computational constraints. The team also addresses technical challenges related to data normalization, disk space management, and the conversion of labels for different databases. Additionally, they consider Dave's potential contributions and the importance of articulatory features in improving speech recognition systems."
+  },
+  {
+    "sample_id": "meeting-0378",
+    "arm": "s_to_l",
+    "issue": "overinclusive_reference_match",
+    "reference_id": 9,
+    "reference": "Using only the silence output from the neural network improves recognition accuracy to 89.1%.",
+    "judge_matched_sentence_id": 2,
+    "judge_matched_sentence": "The baseline system achieved 82% accuracy, while using a multi-English training set with PLP and delta features improved it to 89.1%.",
+    "summary": "In the conversation, the team discusses their progress in evaluating different feature extraction and neural network configurations for speech recognition tasks, particularly focusing on the Italian mismatched digits dataset. The baseline system achieved 82% accuracy, while using a multi-English training set with PLP and delta features improved it to 89.1%. On-line normalization combined with neural networks further boosted accuracy to nearly 90%. PLP and mel cepstra features were found to perform similarly, but adding MSG features did not lead to significant improvements, likely due to processing issues such as missing filters or DC offsets. The TIMIT database, being hand-labeled, outperformed Viterbi-aligned datasets. Training on a larger, diverse dataset (French, Spanish, TIMIT, SPINE, etc.) improved results, but combining features and MLP outputs yielded mixed outcomes. The team is exploring multi-band MLP training and methods like Kleinschmidt’s to enhance noise robustness. They plan to test MLP configurations on Finnish data and evaluate training targets like articulatory and soft targets. Integration of their MLP system into the OGI system is being considered as an additional path, not an insertion into existing workflows. Variance scaling techniques for adjusting feature contributions in HTK are under discussion. CPU and memory constraints are acknowledged, and the Linux machine 'Swede' is identified as a resource for running jobs. The team is working on optimizing their setup and testing different MLPs across multiple datasets to assess performance."
+  },
+  {
+    "sample_id": "meeting-0136",
+    "arm": "l_to_l",
+    "issue": "apparently_false_negative_support",
+    "judge_unsupported_claim": "One proposed chip is a Bluetooth chip for communication.",
+    "source_start": 5155,
+    "source_end": 5955,
+    "source_excerpt": "Industrial Designer: And uh well the Bluetooth chip is just responsible to uh make the communication uh between uh the two devices .\nUser Interface: Yeah . {vocalsound} Uh {disfmarker} So this are the {disfmarker} they have to work together ? Or ? Do they have to work together or two separate choice {disfmarker}\nIndustrial Designer: No . Well , th the F_P_G_A_ will produce the the data to send .\nUser Interface: Okay .\nMarketing: Or it's something like {disfmarker} isn't hardware the first one ? And the second one is for the software .\nUser Interface: Is the is the software par alri okay .\nIndustrial Designer: Yeah .\nMarketing: Yeah to run th to make it run .\nUser Interface: Okay , okay .\nMarketing: That's it .\nUser Interface: So you can control {gap} if you want , right ?\nIndustrial Design"
+  },
+  {
+    "sample_id": "meeting-1469",
+    "arm": "s_to_s",
+    "issue": "honorific_sentence_fragmentation",
+    "sentence_count": 64,
+    "isolated_honorific_count": 28,
+    "isolated_honorific_sentence_ids": [
+      5,
+      8,
+      11,
+      14,
+      17,
+      19,
+      21,
+      23,
+      25,
+      27,
+      29,
+      31,
+      33,
+      35,
+      37,
+      39,
+      41,
+      43,
+      45,
+      47,
+      49,
+      51,
+      53,
+      55,
+      57,
+      59,
+      61,
+      63
+    ],
+    "first_sentences": [
+      "The Special Committee on the COVID-19 Pandemic convened for its seventh meeting, with the Chair, Hon.",
+      "Anthony Rota, outlining the agenda and procedures.",
+      "Various members of Parliament presented petitions and raised concerns about different aspects of the pandemic's impact on Canadian society and the economy.",
+      "Mr. Paul Manly presented a petition calling for a ban on cosmetic testing using animals in Canada, following the European Union model.",
+      "Hon.",
+      "Pierre Poilievre tabled an e-petition regarding a tragic boating accident involving his constituent's son, Joshua, and called for amendments to small vessel regulations.",
+      "The Prime Minister emphasized the government's priority of quickly distributing financial aid to Canadians and stated that fraud is unacceptable with measures in place to detect it.",
+      "Hon.",
+      "Andrew Scheer questioned the government about ignoring red flags of fraud and whether they would adjust programs to include more eligible businesses.",
+      "The Prime Minister responded that the government prioritized getting help to as many Canadians as possible quickly and would continue to tweak programs.",
+      "Hon.",
+      "Yves-Franois Blanchet questioned the government about the timeline for employment incentives accompanying the Canada emergency response benefit."
+    ]
+  }
+]

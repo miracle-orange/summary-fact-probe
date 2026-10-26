@@ -1,0 +1,29 @@
+{
+  "status": "ok",
+  "request_hash": "6cebb6b79d4fd01a011480ac560beacb2c0a25d9eaad58cf29be826cb13aa4ab",
+  "output": {
+    "summary": "The council convened to discuss Council Bill 1089, which aims to extend the minimum affordability period for affordable housing projects from 20 to 60 years. An amendment was proposed and passed to delay the effective date of the extended affordability period to February 1st, 2019, to allow for rulemaking and stakeholder input. Public testimony highlighted support for the extension, concerns about the feasibility and funding for long-term maintenance of affordable housing, and the importance of engaging developers, nonprofits, and financial experts in shaping the implementation. After extensive debate and a public hearing, the council voted to approve the bill as amended. A subsequent motion to postpone the final consideration of the bill until February 19th, 2019, failed, indicating the council's decision to proceed with the current timeline for implementation. Additionally, Council Bill 975, related to amendments in the inclusionary housing ordinance, was ordered published without a postponement."
+  },
+  "metadata": {
+    "attempts": 1,
+    "input_tokens_local": 31500,
+    "context_limit": 65536,
+    "request_parameters": {
+      "temperature": 0.7,
+      "top_p": 0.8,
+      "top_k": 20,
+      "min_p": 0.0,
+      "repetition_penalty": 1.05,
+      "seed": 42,
+      "max_tokens": 4096
+    },
+    "model": "large",
+    "finish_reason": "stop",
+    "usage": {
+      "prompt_tokens": 31500,
+      "total_tokens": 31703,
+      "completion_tokens": 203,
+      "prompt_tokens_details": null
+    }
+  }
+}

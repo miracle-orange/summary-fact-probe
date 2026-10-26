@@ -1,0 +1,29 @@
+{
+  "status": "ok",
+  "request_hash": "04224e9b2403ea2bfe30359b004811ab75da263a3cd28b02dff44fee9b04629b",
+  "output": {
+    "summary": "The council convened to discuss Council Bill 1089, which proposes extending the minimum affordability period for affordable housing from 20 years to 60 years. Councilwoman Kenny introduced an amendment to delay the effective date of the affordability extension to February 1st, 2019, allowing time for stakeholder input and rulemaking. Developers and nonprofits expressed concerns about the feasibility of maintaining affordability for 60 years without additional funding or regulatory clarity. Approximately 20,000 income-restricted units are in Denver's portfolio, with 5,000 funded by the city, and about 2,000 of these units are at risk of losing their affordability restrictions over the next five years. Some speakers supported immediate passage of the bill to address the housing crisis, while others advocated for a four-month delay to refine implementation details. Organizations like Servicios de la Raza, All in Denver, and Northeast Denver Housing Center spoke in favor of long-term affordability and highlighted community needs. The Office of Economic Development noted that peer cities like Seattle and Boulder have longer affordability periods, ranging from 50 years to perpetuity. Councilman Espinosa raised concerns about the lack of guaranteed rehabilitation funding for older affordable housing units under a 60-year affordability model. Councilwoman Ortega proposed a postponement of final consideration of the bill until February 19, 2019, but the motion failed. The amendment to delay the effective date of the affordability extension passed with 12 votes in favor. There was also a separate discussion and vote on Council Bill 975, which involves amendments to the inclusionary housing ordinance and compliance issues, ultimately passing with 11 votes in favor."
+  },
+  "metadata": {
+    "attempts": 1,
+    "input_tokens_local": 31810,
+    "context_limit": 65536,
+    "request_parameters": {
+      "temperature": 0.7,
+      "top_p": 0.8,
+      "top_k": 20,
+      "min_p": 0.0,
+      "repetition_penalty": 1.05,
+      "seed": 42,
+      "max_tokens": 4096
+    },
+    "model": "small",
+    "finish_reason": "stop",
+    "usage": {
+      "prompt_tokens": 31810,
+      "total_tokens": 32168,
+      "completion_tokens": 358,
+      "prompt_tokens_details": null
+    }
+  }
+}

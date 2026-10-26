@@ -1,0 +1,162 @@
+[
+  {
+    "excluded_samples": [
+      "meeting-0064"
+    ],
+    "dataset": "ALL",
+    "contrast": "s_to_s - direct_s",
+    "n": 29,
+    "mean_difference": 0.1592901305265657
+  },
+  {
+    "excluded_samples": [
+      "meeting-0064"
+    ],
+    "dataset": "ALL",
+    "contrast": "l_to_s - direct_s",
+    "n": 29,
+    "mean_difference": 0.16979477369253193
+  },
+  {
+    "excluded_samples": [
+      "meeting-0064"
+    ],
+    "dataset": "ALL",
+    "contrast": "l_to_l - direct_l",
+    "n": 29,
+    "mean_difference": 0.11262235861715247
+  },
+  {
+    "excluded_samples": [
+      "meeting-0064"
+    ],
+    "dataset": "ALL",
+    "contrast": "s_to_l - direct_l",
+    "n": 29,
+    "mean_difference": 0.09146072823698441
+  },
+  {
+    "excluded_samples": [
+      "meeting-0064"
+    ],
+    "dataset": "QMSum-Academic",
+    "contrast": "s_to_s - direct_s",
+    "n": 5,
+    "mean_difference": 0.054679802955665026
+  },
+  {
+    "excluded_samples": [
+      "meeting-0064"
+    ],
+    "dataset": "QMSum-Academic",
+    "contrast": "l_to_s - direct_s",
+    "n": 5,
+    "mean_difference": 0.054679802955665005
+  },
+  {
+    "excluded_samples": [
+      "meeting-0064"
+    ],
+    "dataset": "QMSum-Academic",
+    "contrast": "l_to_l - direct_l",
+    "n": 5,
+    "mean_difference": -0.013628899835796387
+  },
+  {
+    "excluded_samples": [
+      "meeting-0064"
+    ],
+    "dataset": "QMSum-Academic",
+    "contrast": "s_to_l - direct_l",
+    "n": 5,
+    "mean_difference": 0.08106606037640525
+  },
+  {
+    "excluded_samples": [
+      "meeting-0064",
+      "meeting-0378",
+      "meeting-0795"
+    ],
+    "dataset": "ALL",
+    "contrast": "s_to_s - direct_s",
+    "n": 27,
+    "mean_difference": 0.17373490209996212
+  },
+  {
+    "excluded_samples": [
+      "meeting-0064",
+      "meeting-0378",
+      "meeting-0795"
+    ],
+    "dataset": "ALL",
+    "contrast": "l_to_s - direct_s",
+    "n": 27,
+    "mean_difference": 0.17179015375441262
+  },
+  {
+    "excluded_samples": [
+      "meeting-0064",
+      "meeting-0378",
+      "meeting-0795"
+    ],
+    "dataset": "ALL",
+    "contrast": "l_to_l - direct_l",
+    "n": 27,
+    "mean_difference": 0.1324286003489345
+  },
+  {
+    "excluded_samples": [
+      "meeting-0064",
+      "meeting-0378",
+      "meeting-0795"
+    ],
+    "dataset": "ALL",
+    "contrast": "s_to_l - direct_l",
+    "n": 27,
+    "mean_difference": 0.0938264259194418
+  },
+  {
+    "excluded_samples": [
+      "meeting-0064",
+      "meeting-0378",
+      "meeting-0795"
+    ],
+    "dataset": "QMSum-Academic",
+    "contrast": "s_to_s - direct_s",
+    "n": 3,
+    "mean_difference": 0.11494252873563217
+  },
+  {
+    "excluded_samples": [
+      "meeting-0064",
+      "meeting-0378",
+      "meeting-0795"
+    ],
+    "dataset": "QMSum-Academic",
+    "contrast": "l_to_s - direct_s",
+    "n": 3,
+    "mean_difference": -0.004105090311986896
+  },
+  {
+    "excluded_samples": [
+      "meeting-0064",
+      "meeting-0378",
+      "meeting-0795"
+    ],
+    "dataset": "QMSum-Academic",
+    "contrast": "l_to_l - direct_l",
+    "n": 3,
+    "mean_difference": 0.08045977011494253
+  },
+  {
+    "excluded_samples": [
+      "meeting-0064",
+      "meeting-0378",
+      "meeting-0795"
+    ],
+    "dataset": "QMSum-Academic",
+    "contrast": "s_to_l - direct_l",
+    "n": 3,
+    "mean_difference": 0.09542756094480238
+  }
+]

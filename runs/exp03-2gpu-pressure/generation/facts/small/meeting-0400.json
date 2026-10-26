@@ -1,0 +1,58 @@
+{
+  "status": "ok",
+  "request_hash": "132816c68764e709326c57ce5627d6a14cb82460823bb6bcd695cd6b8f0e8d17",
+  "output": {
+    "key_facts": [
+      "The Welsh Government has been working with higher education (HE) and further education (FE) institutions since September 2016 to assess the impact of Brexit.",
+      "The Welsh Government has been conducting its own research on the impact of Brexit on HE, FE, and apprenticeship providers, in addition to research by Cardiff University and the Bevan Foundation.",
+      "The Higher Education Funding Council for Wales (HEFCW) has been conducting specific work on the impact of Brexit, though the extent of sharing this work is not specified.",
+      "The European transition team within Welsh Government is a central coordinating group that includes representatives from various departments, including HE and FE, and facilitates discussions with the Department for Exiting the European Union.",
+      "The Welsh Government has committed to implementing the Diamond review proposals for higher education funding.",
+      "The Welsh Government has allocated £5 million to HEFCW to mitigate the freeze in tuition fees and £5 million to kick-start postgraduate support until Diamond is fully implemented.",
+      "The Welsh Government has agreed in principle to fund the Global Wales initiative with £3.5 million to enhance international recruitment and marketing for higher education.",
+      "The Welsh Government has been working with FE colleges to address concerns related to the European Social Fund (ESF) funding and apprenticeships, particularly in sectors like farming, health and social care, construction, and hospitality and tourism.",
+      "The Welsh Government has been engaging with FE colleges and ColegauCymru to analyze the impact of Brexit on the sector, with a focus on the European Regional Development Fund (ERDF) and European Social Fund (ESF) funding.",
+      "The Welsh Government has been pushing for a 'no deal' Brexit to be avoided, as it would be catastrophic for the HE sector, particularly in terms of Horizon 2020 and Erasmus+ programs.",
+      "The Welsh Government has stated that it will not lose a penny as a result of Brexit and is expecting the UK Government to honor its commitments regarding funding.",
+      "The Welsh Government has been working with the National Union of Students (NUS) to ensure that the quality of faculty and student experiences are protected, especially for EU and international students.",
+      "The Welsh Government has been addressing the issue of EU student applications dropping due to changes in funding policies, and is working with HEFCW and institutions to ensure preparedness for Brexit.",
+      "The Welsh Government has been advocating for international students to be excluded from immigration targets and has been working to make the immigration system easier for them.",
+      "The Welsh Government has been collaborating with the FE sector to develop regional skills partnerships to align training with employer needs, particularly in sectors affected by Brexit.",
+      "The Welsh Government has been working to maintain the learning opportunities provided by EU funding in FE, and has emphasized the importance of multi-annual funding commitments for stability.",
+      "The Welsh Government has been informed that the UK Government has pledged to underwrite ESF funding for FE until 2020, providing some reassurance for the sector.",
+      "The Welsh Government has been seeking assurances that the apprenticeship program will be delivered as planned, despite uncertainties related to Brexit.",
+      "The Welsh Government has been pushing for the continuation of reciprocal arrangements with the EU to allow HE institutions to charge international fees, but has acknowledged that without such arrangements, universities would be free to charge market-driven international rates.",
+      "The Welsh Government has been working with the FE sector to address the impact of Brexit on apprenticeships and the broader economy, particularly in sectors like agriculture, health, and social care.",
+      "The Welsh Government has been committed to maintaining the sustainability of higher and further education, despite the managed deficit in higher education even without Brexit.",
+      "The Welsh Government has been involved in discussions with the UK Government to ensure that the shared prosperity fund fulfills the commitments made during the Brexit referendum.",
+      "The Welsh Government has been working with the FE sector to ensure that they are responsive to the skills needs of local employers, with a focus on reducing skills shortages in key sectors.",
+      "The Welsh Government has been advocating for the continuation of the European Social Fund (ESF) and European Regional Development Fund (ERDF) funding for the FE sector beyond 2020, as these funds have been crucial for infrastructure and training.",
+      "The Welsh Government has been emphasizing the importance of multi-annual funding commitments for the stability of HE and FE institutions, as opposed to annual budgeting.",
+      "The Welsh Government has been working with the HE sector to secure structural funds for various projects, with considerable success in the HE field.",
+      "The Welsh Government has been engaged in discussions with the UK Government to ensure that the post-study work visa system is accessible to international students in Wales.",
+      "The Welsh Government has been promoting the idea that Wales has a unique offering for students, including a warm environment and diverse educational opportunities, and is investing in initiatives like the Global Wales programme to enhance its international appeal.",
+      "The Welsh Government has been working to ensure that the FE sector continues to provide the necessary skills training for the local economy, even in the face of Brexit uncertainties.",
+      "The Welsh Government has been collaborating with the FE sector to address the impact of Brexit on apprenticeships and the broader economy, particularly in sectors like agriculture, health, and social care.",
+      "The Welsh Government has been working with the FE sector to ensure that they are responsive to the skills needs of local employers, with a focus on reducing skills shortages in key sectors.",
+      "The Welsh Government has been advocating for the continuation of the European Social Fund (ESF) and European Regional Development Fund (ERDF) funding for the FE sector beyond 2020, as these funds have been crucial for infrastructure and training.",
+      "The Welsh Government has been emphasizing the importance of multi-annual funding commitments for the stability of HE and FE institutions, as opposed to annual budgeting.",
+      "The Welsh Government has been engaged in discussions with the UK Government to ensure that the shared prosperity fund fulfills the commitments made during the Brexit referendum.",
+      "The Welsh Government has been working with the HE sector to secure structural funds for various projects, with considerable success in the HE field.",
+      "The Welsh Government has been promoting the idea that Wales has a unique offering for students, including a warm environment and diverse educational opportunities, and is investing in initiatives like the Global Wales programme to enhance its international appeal.",
+      "The Welsh Government has been working to ensure that the FE sector continues to provide the necessary skills training for the local economy, even in the face of Brexit uncertainties."
+    ]
+  },
+  "metadata": {
+    "attempts": 1,
+    "input_tokens_local": 10888,
+    "context_limit": 65536,
+    "model": "small",
+    "finish_reason": "stop",
+    "usage": {
+      "prompt_tokens": 10888,
+      "total_tokens": 12199,
+      "completion_tokens": 1311,
+      "prompt_tokens_details": null
+    }
+  }
+}

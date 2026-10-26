@@ -1,0 +1,29 @@
+{
+  "status": "ok",
+  "request_hash": "cab4fc4dd98a69e63d06178bb57abe13b383ab5a18a44fe5cd9f6670695ba544",
+  "output": {
+    "summary": "The Welsh Government, represented by Kirsty Williams and Eluned Morgan, discussed the impact of Brexit on higher education (HE) and further education (FE). They emphasized collaboration with HE and FE sectors since September 2016 to assess potential effects, noting that Cardiff University's recent research has influenced current perspectives. Concerns were raised about the 'no deal' scenario, which could lead to significant disruptions, including losing access to about 50% of Horizon 2020 activities and affecting EU student recruitment. The government highlighted the importance of maintaining international student numbers and ensuring that Welsh institutions remain competitive. They also addressed the challenges posed by the shift from multi-annual European funding to yearly budgeting, stressing the need for stability. The government is working to secure funding for apprenticeships and other programs, advocating for continued UK Government support. Additionally, they mentioned efforts to align FE training with employer needs through regional skills partnerships, particularly in vulnerable sectors like agriculture, construction, and health. The Welsh Government remains committed to implementing the Diamond and Reid reviews for HE funding reform and is investing in initiatives like the Global Wales program to enhance international recruitment."
+  },
+  "metadata": {
+    "attempts": 1,
+    "input_tokens_local": 11301,
+    "context_limit": 65536,
+    "request_parameters": {
+      "temperature": 0.7,
+      "top_p": 0.8,
+      "top_k": 20,
+      "min_p": 0.0,
+      "repetition_penalty": 1.05,
+      "seed": 42,
+      "max_tokens": 4096
+    },
+    "model": "small",
+    "finish_reason": "stop",
+    "usage": {
+      "prompt_tokens": 11301,
+      "total_tokens": 11539,
+      "completion_tokens": 238,
+      "prompt_tokens_details": null
+    }
+  }
+}

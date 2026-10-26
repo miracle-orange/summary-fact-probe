@@ -1,0 +1,29 @@
+{
+  "status": "ok",
+  "request_hash": "e524fcd869190f93cff0cee783cd59d9f3d99df94d5511b8e5915b5e38f9ea60",
+  "output": {
+    "summary": "The conversation centers on a committee session of the Children, Young People and Education Committee in Wales, focusing on the impact of Brexit on higher education (HE) and further education (FE). The Cabinet Secretary for Education, Kirsty Williams, and the Minister for Welsh Language and Lifelong Learning, Eluned Morgan, along with officials, address preparedness, risk assessments, and financial implications. Key points include the Welsh Government’s collaboration with HE and FE institutions to assess risks and develop strategies for a 'no deal' scenario, the role of the European transition team in coordinating responses, and the impact of Brexit on student recruitment, particularly for EU students. The session highlights concerns about losing access to EU funding programs, the importance of maintaining multi-annual funding for stability, and efforts to attract international students through initiatives like the Global Wales program. There are also discussions about apprenticeships, workforce skills, and inter-departmental coordination to mitigate economic disruptions caused by Brexit."
+  },
+  "metadata": {
+    "attempts": 1,
+    "input_tokens_local": 10776,
+    "context_limit": 65536,
+    "request_parameters": {
+      "temperature": 0.7,
+      "top_p": 0.8,
+      "top_k": 20,
+      "min_p": 0.0,
+      "repetition_penalty": 1.05,
+      "seed": 42,
+      "max_tokens": 4096
+    },
+    "model": "large",
+    "finish_reason": "stop",
+    "usage": {
+      "prompt_tokens": 10776,
+      "total_tokens": 10973,
+      "completion_tokens": 197,
+      "prompt_tokens_details": null
+    }
+  }
+}

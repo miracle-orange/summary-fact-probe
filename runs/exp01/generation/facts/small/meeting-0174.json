@@ -1,0 +1,20 @@
+{
+  "status": "ok",
+  "request_hash": "591a27b8b26f6af89b3bf3e6ff4013e5786f169460e19331b518cc699cdc6170",
+  "output": {
+    "key_facts": [
+      "The group discussed the structure of a belief-net for analyzing user intentions in a task-based scenario, including a middle layer for hidden variables such as whether someone is on a tour, running an errand, or in a hurry.",
+      "The group considered the inclusion of additional nodes in the belief-net, such as 'has door' and 'enterable landmark', to better capture the distinction between physically enterable and practically enterable objects."
+    ]
+  },
+  "metadata": {
+    "model": "small",
+    "finish_reason": "stop",
+    "usage": {
+      "prompt_tokens": 21024,
+      "total_tokens": 21118,
+      "completion_tokens": 94,
+      "prompt_tokens_details": null
+    }
+  }
+}

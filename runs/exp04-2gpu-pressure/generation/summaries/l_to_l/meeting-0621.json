@@ -1,0 +1,29 @@
+{
+  "status": "ok",
+  "request_hash": "0be9935c1a41f73555201bad87564ab5067591325c7227180207aa714bccd150",
+  "output": {
+    "summary": "Council Bill 245 proposes to rezone a 75,000-square-foot property at 2423–2490 South University in the University Park neighborhood of Council District six from GMC-3 to GRX-5. The rezoning would allow for buildings up to 70 feet in height, compared to the current 45 feet. The applicant, 100% owned by Knowlton of Colorado, recently acquired the property from the University of Denver and Colorado Seminary. The Planning Board unanimously recommended support for the rezoning on March 5th, and it was forwarded to City Council after passing the Land Use Transportation Committee on March 25th. A legal protest petition signed by 20% of landowners within a 200-foot buffer zone requires a supermajority of 10 affirmative votes for the bill to pass. The project aligns with the University Park Neighborhood Plan and Blueprint Denver, which promote mixed-use development and enhanced transit corridors. University Boulevard is identified as an enhanced transit corridor in Blueprint Denver, and the site is part of the Ivy Towers district, which supports moderate densities of 3 to 5 stories. The proposed development includes 236 rental housing units, 25,000 square feet of ground-floor retail, and below-grade parking, exceeding code requirements. Architectural renderings show setbacks, landscaped outdoor spaces, and sensitivity to the neighborhood context. A traffic study estimates minimal impact, projecting about 100 vehicles per hour during peak times. Neighbors raised concerns about traffic, sunlight, and property values, while supporters argue the rezoning reflects the 2008 neighborhood plan’s vision for moderate density and walkable development. Opponents question the justification for the rezoning since the 2010 zoning code update and emphasize the need for predictability in planning. The developer has committed to working with the neighborhood on design details and addressing concerns such as solar shading and traffic access points. The University of Denver supports the rezoning as it aligns with their investments and enhances the University and Evans corridors. During the public hearing, residents, developers, architects, and neighborhood representatives presented arguments for and against the proposal. The vote passed with 13 affirmative votes."
+  },
+  "metadata": {
+    "attempts": 1,
+    "input_tokens_local": 31856,
+    "context_limit": 65536,
+    "request_parameters": {
+      "temperature": 0.7,
+      "top_p": 0.8,
+      "top_k": 20,
+      "min_p": 0.0,
+      "repetition_penalty": 1.05,
+      "seed": 42,
+      "max_tokens": 4096
+    },
+    "model": "large",
+    "finish_reason": "stop",
+    "usage": {
+      "prompt_tokens": 31856,
+      "total_tokens": 32326,
+      "completion_tokens": 470,
+      "prompt_tokens_details": null
+    }
+  }
+}

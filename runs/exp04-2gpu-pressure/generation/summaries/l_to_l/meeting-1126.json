@@ -1,0 +1,29 @@
+{
+  "status": "ok",
+  "request_hash": "04224e9b2403ea2bfe30359b004811ab75da263a3cd28b02dff44fee9b04629b",
+  "output": {
+    "summary": "The council convened to discuss Council Bill 1089, which proposes extending the minimum affordability period for affordable housing in Denver from 20 years to 60 years. Councilwoman Kenny introduced an amendment to delay the effective date of the affordability extension to February 1st, 2019, to allow for stakeholder input and rulemaking. Developers and nonprofit organizations expressed concerns about the feasibility of implementing 60-year affordability without sufficient funding or regulatory clarity. The city’s Office of Economic Development highlighted that peer cities like Seattle and Boulder have longer affordability periods and emphasized the importance of long-term affordability in preventing displacement and stabilizing low-income households. Approximately 20,000 income-restricted units are in Denver’s portfolio, with 5,000 funded by the city, and 2,000 of these at risk of losing affordability over the next five years. While some speakers supported immediate passage to address the housing crisis, others advocated for a delay to refine implementation. The amendment to delay the effective date passed with 12 votes in favor, but a subsequent motion to postpone the final consideration of the bill until February 19, 2019, failed. Additionally, the council voted on Council Bill 975, which involves amendments to the inclusionary housing ordinance and compliance issues, passing with 11 votes in favor. The meeting concluded with announcements for upcoming public hearings on other zoning and preservation-related bills."
+  },
+  "metadata": {
+    "attempts": 1,
+    "input_tokens_local": 31810,
+    "context_limit": 65536,
+    "request_parameters": {
+      "temperature": 0.7,
+      "top_p": 0.8,
+      "top_k": 20,
+      "min_p": 0.0,
+      "repetition_penalty": 1.05,
+      "seed": 42,
+      "max_tokens": 4096
+    },
+    "model": "large",
+    "finish_reason": "stop",
+    "usage": {
+      "prompt_tokens": 31810,
+      "total_tokens": 32114,
+      "completion_tokens": 304,
+      "prompt_tokens_details": null
+    }
+  }
+}

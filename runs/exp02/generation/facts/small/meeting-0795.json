@@ -1,0 +1,37 @@
+{
+  "status": "ok",
+  "request_hash": "cd0b4c572dab21e574942ede6f9308ee003a93287732c55a0cdf49a2e284d946",
+  "output": {
+    "key_facts": [
+      "The group plans to take a field trip to OGI next week.",
+      "The group will meet at 6 AM to ensure timely departure for the field trip.",
+      "The field trip involves discussing logistics and potential goals for the meeting.",
+      "PhD G is preparing a French test dataset with noise added, using Aurora-2 noises.",
+      "PhD G is setting up HTK baselines for the French task.",
+      "The group is considering using the TIMIT database for training and testing.",
+      "The group is analyzing the performance of neural networks trained on different languages and datasets.",
+      "The group is planning to test the performance of neural networks trained on different feature sets such as PLP, MSG, JRASTA, and JRASTA-LDA.",
+      "The group is considering the use of a superset of phonemes for training neural networks across multiple languages.",
+      "The group is discussing the use of normalization techniques for improving speech recognition performance.",
+      "The group is exploring the use of articulatory features for training neural networks.",
+      "The group is considering the use of a multilingual database for training and testing.",
+      "The group is planning to use multiple machines for computational tasks due to the high processing requirements.",
+      "The group is discussing the allocation of disk space for storing and processing data.",
+      "The group is considering the use of a centralized file server for data storage and the use of local scratch space for computational tasks.",
+      "The group is planning to create a visual representation of their work for the next meeting.",
+      "The group is considering the use of a multilingual superset for training neural networks.",
+      "The group is discussing the feasibility of using a single neural network trained on multiple languages.",
+      "The group is considering the use of a cheating experiment to evaluate the impact of articulatory features on neural network performance."
+    ]
+  },
+  "metadata": {
+    "model": "small",
+    "finish_reason": "stop",
+    "usage": {
+      "prompt_tokens": 27399,
+      "total_tokens": 27766,
+      "completion_tokens": 367,
+      "prompt_tokens_details": null
+    }
+  }
+}

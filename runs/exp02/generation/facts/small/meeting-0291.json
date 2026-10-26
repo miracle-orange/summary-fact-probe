@@ -1,0 +1,28 @@
+{
+  "status": "ok",
+  "request_hash": "1735f11603993d25aa7dac7d49f629101c6942de16d5d9181add168399d2ca33",
+  "output": {
+    "key_facts": [
+      "The team is designing a new remote control that should be original, trendy, and user-friendly.",
+      "The selling price of the remote control is set at 25 Euros.",
+      "The target profit for the company is 50 million Euros.",
+      "The production cost should not exceed 12.50 Euros.",
+      "The remote control should be compact and multi-functional, capable of controlling various household devices such as TVs, air conditioners, and heating systems.",
+      "The team discussed adding features like a beep or blinking light to help users locate the remote control when it is lost.",
+      "The team considered using a light sensor to detect darkness and trigger a signal.",
+      "The marketing team needs to create user requirement specifications focusing on friendliness and justifying the price point with sufficient features.",
+      "The project manager mentioned that the industrial designer is responsible for the technical-functional design.",
+      "The next meeting is scheduled in thirty minutes."
+    ]
+  },
+  "metadata": {
+    "model": "small",
+    "finish_reason": "stop",
+    "usage": {
+      "prompt_tokens": 4108,
+      "total_tokens": 4300,
+      "completion_tokens": 192,
+      "prompt_tokens_details": null
+    }
+  }
+}

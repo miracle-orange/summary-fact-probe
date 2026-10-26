@@ -1,0 +1,29 @@
+{
+  "status": "ok",
+  "request_hash": "10e2e6bf7af779578f064fc4286edb75f71197c1bc3c9128cec43a609f15fe67",
+  "output": {
+    "summary": "During the seventh meeting of the Special Committee on the COVID-19 Pandemic, several petitions were presented, including a call to ban animal testing for cosmetics and one urging mandatory life jackets for children under 14 on small vessels. Prime Minister Justin Trudeau emphasized the government’s priority of distributing emergency funds quickly during the pandemic, while addressing concerns about suspected fraud in benefit applications. He reaffirmed the government’s commitment to supporting provinces in managing their jurisdictions, including long-term care and health. The Canada Emergency Response Benefit (CERB) has provided financial aid to 7.7 million Canadians, with 590,000 small business loans issued through the Canada Emergency Business Account (CEBA). The Canada Emergency Student Benefit (CESB), offering $1,250 monthly to eligible students, was set to open for applications on May 15. Discussions also centered on the need for increased support for seasonal industries, such as tourism and agriculture, with the government allocating funds to address these challenges. Concerns were raised about the Auditor General’s funding and transparency in government operations, while allegations of a data leak involving Statistics Canada were acknowledged, with an investigation being launched. Additional topics included the impact of the carbon tax on farming, the availability of life-saving medications like Trikafta, and the government’s stance on firearms regulation. The meeting concluded with a reminder about the importance of supporting interpreters and an adjournment due to the recall of the House."
+  },
+  "metadata": {
+    "attempts": 1,
+    "input_tokens_local": 31162,
+    "context_limit": 65536,
+    "request_parameters": {
+      "temperature": 0.7,
+      "top_p": 0.8,
+      "top_k": 20,
+      "min_p": 0.0,
+      "repetition_penalty": 1.05,
+      "seed": 42,
+      "max_tokens": 4096
+    },
+    "model": "large",
+    "finish_reason": "stop",
+    "usage": {
+      "prompt_tokens": 31162,
+      "total_tokens": 31465,
+      "completion_tokens": 303,
+      "prompt_tokens_details": null
+    }
+  }
+}

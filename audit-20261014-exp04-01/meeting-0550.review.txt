@@ -1,0 +1,290 @@
+meeting-0550 dataset=ECTSum source_chars=16233
+
+PILOT SMALL FACTS
+1. The documents can be found on the website marathonoil.com.
+2. Mike, Dane, and Pat will speak before the question-and-answer session.
+3. The company's results and outlook are being discussed by the speaker.
+4. The company has generated more than $1.3 billion of free cash flow year to date.
+5. The company expects to generate well over $2 billion of free cash flow for 2021 at forward curve commodity pricing.
+6. The company's reinvestment rate is below 35% for 2021.
+7. The company's free cash flow breakeven is below $35 per barrel WTI.
+8. The company is achieving bottom line results that will be compared against other energy companies and sectors in the S&P 500.
+9. The company has pulled forward its balance sheet targets.
+10. The company's balance sheet has improved to an investment-grade status.
+11. The company is accelerating the return of capital to equity holders.
+12. The company's return of capital framework prioritizes shareholders with a minimum of 40% of total cash flow from operations.
+13. The company has raised its base dividend by 20% this quarter.
+14. The company has increased its base dividend for the third consecutive quarter.
+15. The company's base dividend has seen a cumulative 100% increase since the end of 2020.
+16. The company is targeting approximately $500 million of share repurchases during the fourth quarter.
+17. $200 million of share repurchases have already been executed.
+18. The company believes its equity offers tremendous value with a free cash flow yield north of 20%.
+19. The company's business model underwrites repurchases through the cycle.
+20. The company is buying back stock for good value to reduce share count and improve per-share metrics.
+21. The company expects to return approximately 50% of its total cash flow from operations to equity holders in the fourth quarter.
+22. The company's total share repurchase authorization has been increased to $2.5 billion.
+23. The company's actions are sustainable and backed by a five-year benchmark maintenance scenario.
+24. The company is pursuing ESG excellence with top quartile safety performance, significant GHG intensity reductions, and best-in-class corporate governance.
+25. Third quarter operations were solid and on track to meet 2021 financial, operational, and ESG objectives.
+26. The company has generated over $2 billion of expected free cash flow for the full year 2021.
+27. The company's gas capture during the third quarter exceeded 99%.
+28. There is no change to the $1 billion full year 2021 capital budget.
+29. The company is maintaining its commitment to capital discipline.
+30. The company's full year production and EG equity method income guidance accounts for an unplanned outage in EG late in the third quarter.
+31. The company expects its total company oil production to increase to between 176,000 and 180,000 barrels of oil per day in the fourth quarter.
+32. The company's total company oil equivalent production is expected to remain similar to the third quarter at 345,000 barrels of oil equivalent per day.
+33. The company retired $900 million in debt during the third quarter, bringing total 2021 gross debt reduction to $1.4 billion.
+34. The company has achieved its targeted $4 billion gross debt level.
+35. The company no longer feels the need to accelerate additional debt reduction and plans to retire debt as it matures.
+36. There are no significant maturities in 2022.
+37. The company has returned over $2 billion to investors in 2021, representing over 60% of its expected full year operating cash flow.
+38. The company's base dividend is up 100% over the time period and is now at $0.06 per share per quarter.
+39. The company's annual interest savings due to lower gross debt amount to $50 million.
+40. The company's equity return framework requires delivering a minimum of 40% of cash from operations to shareholders when WTI is at or above $60 per barrel.
+41. The company's fourth quarter is expected to have strong free cash flow due to higher commodity prices and oil volumes.
+42. Operating cash flow is projected to reach approximately $1.1 billion in the fourth quarter.
+43. Dividend distributions from EG are expected to increase in the fourth quarter.
+44. Capex is expected to be lower than the third quarter peak.
+45. Fourth quarter free cash flow could almost double to north of $850 million.
+46. The company expects to return approximately 50% of its operating cash flow to investors in the fourth quarter.
+47. The company believes buying back stock at a sustainable free cash flow yield north of 20% makes sense.
+48. The company has completed its 2021 REx drilling program focused on delineating its contiguous 50,000 net acre position in the Texas Delaware oil play.
+49. The company's first multi-well pad in the Texas Delaware oil play was brought online during the third quarter.
+50. Initial production rates in both Woodford and Meramec exceeded predrill expectations.
+51. One of the Woodford wells achieved an IP30 of almost 2,100 barrels of oil per day at an oil cut of 66%.
+52. The company is seeing no evidence of interference between Woodford and Meramec due to over 700 feet of vertical separation.
+53. The company has brought online nine wells since entering the play, which have successfully delineated its position.
+54. Six wells with longer dated production have demonstrated strong long-term oil productivity.
+55. The company expects to deliver well costs comparable to those achieved in the SCOOP.
+56. The company is leveraging its experience in Oklahoma to improve well costs.
+57. The company's 2021 capital rate is sub-35%, which is the lowest in its independent E&P peer group.
+58. The company's capital intensity, measured by capex per barrel of production, is also the lowest in its independent E&P peer group.
+59. The company expects to deliver a 2021 reinvestment rate at or below the S&P 500 average.
+60. The company is delivering top quartile free cash flow yield among its peer group and well above the S&P 500 average.
+61. The company has an investment-grade balance sheet with sub-onetime net debt to EBITDA.
+62. The company's 2021 leverage profile is well below both its peer group and the S&P 500 average.
+63. The company is delivering outsized financial performance versus its peer group and the broader market with the current commodity price support.
+64. The company is well positioned to deliver competitive free cash flow and financial performance at much lower prices than currently seen, down to the $40 per barrel WTI range.
+65. The company's differentiated capital allocation framework that prioritizes the shareholder at the first call on cash flow generation will not change in 2022.
+66. The company's commitment to capital discipline will not waver in 2022.
+67. The company introduced a unique five-year maintenance scenario featuring $1 billion to $1.1 billion of annual spending, $1 billion of annual free cash flow at $50 WTI, and a 50% reinvestment rate.
+68. The company considers some level of limited inflation up to about 10% for the 2022 maintenance scenario.
+69. The 2022 maintenance scenario free cash flow could potentially reach $3 billion at recent strip pricing, which is three times the $50 benchmark outcome.
+70. The company is positioned to lead peers with a 2022 free cash flow yield above 20%.
+71. The company's minimum 40% of cash flow target translates to about $1.6 billion of equity holder returns in 2022.
+72. The company sees significant headroom to drive equity holder returns higher than the minimum target.
+73. The company expects 2022 equity holder returns to increase to approximately $2 billion if the fourth quarter run rate of 50% of CFO continues.
+74. Even at a more conservative $60 per barrel oil price environment, the company's minimum 40% of cash flow target translates to about $1.1 billion of equity holder returns in 2022.
+75. The company's return frameworks confirm its leading return of capital profile with a double-digit cash distribution yield to equity investors in 2022.
+76. The company's board has increased its share repurchase authorization to $2.5 billion to ensure sufficient runway for return of capital commitments in 2022.
+77. The company was among the first to recognize the need to move to a business model prioritizing returns, sustainable free cash flow, balance sheet improvement, and return of capital.
+78. The company has aligned executive compensation with its new business model and investor expectations.
+79. The company is successfully executing its model, delivering competitive financial outcomes and ESG excellence against both direct E&P peers and the broader market.
+
+PILOT LARGE FACTS
+1. Marathon Oil expects to generate over $2 billion in free cash flow for 2021 at a reinvestment rate below 35% and a breakeven below $35 per barrel WTI.
+2. The company raised its base dividend by 20% for the third consecutive quarter, representing a cumulative 100% increase since the end of 2020.
+3. Marathon Oil executed $200 million in share repurchases in Q4 and plans to repurchase approximately $500 million more during the fourth quarter.
+4. At forward curve commodity pricing, the company anticipates returning around 50% of operating cash flow to shareholders in Q4.
+5. The board increased the total share repurchase authorization to $2.5 billion to support ongoing return of capital commitments through 2022.
+6. Marathon Oil's 2021 full year results include $140 million in base dividends, $1.4 billion in debt reduction, and $500 million in share repurchases, totaling over $2 billion returned to investors.
+7. The company has no significant debt maturities in 2022 and plans to retire debt as it matures rather than accelerating repayments.
+8. Marathon Oil's gas capture exceeded 99% in Q3, continuing efforts to reduce GHG emissions intensity.
+9. The company's 2021 capital budget remains unchanged at $1 billion, with a focus on capital discipline and no consideration of raising spending levels.
+10. EG equity method income guidance was raised to $235 million to $255 million for 2021, reflecting stronger commodity prices and an unplanned outage impact.
+11. Fourth-quarter oil production is expected to rise to 176,000–180,000 barrels per day from 168,000 in Q3, primarily due to deferred Bakken production.
+12. Initial production rates from Marathon Oil’s first multi-well pad in the Texas Delaware Basin exceeded expectations, including a Woodford well with an IP30 of nearly 2,100 barrels of oil per day.
+13. Marathon Oil operates under a five-year maintenance scenario featuring $1 billion to $1.1 billion in annual spending and $1 billion in annual free cash flow at $50 WTI.
+14. With current strip pricing, 2022 free cash flow could reach about $3 billion, tripling the $50 WTI benchmark outcome.
+15. The company aims to maintain a minimum 40% return of cash flow to shareholders when WTI is at or above $60 per barrel, which equates to roughly $1.6 billion in equity returns in 2022.
+16. Marathon Oil’s financial priorities emphasize generating strong corporate returns, maintaining an investment-grade balance sheet, and returning significant capital to shareholders.
+17. Free cash flow yield north of 20% is expected for 2022, significantly higher than the S&P 500 average of approximately 4%.
+18. The company plans to continue disciplined exploration in the Texas Delaware Basin while adhering to a strict reinvestment rate capital allocation framework in 2022.
+19. Executive compensation is aligned with the new business model focusing on sustainable free cash flow and return of capital.
+
+REFERENCE FACTS (NOT EXHAUSTIVE GROUND TRUTH)
+1. Marathon Oil generated more than $1.3 billion of free cash flow year to date.
+2. Marathon Oil expects to generate over $2 billion of free cash flow for the full year 2021.
+3. Marathon Oil maintains a $1 billion capital budget for the full year 2021.
+4. Marathon Oil expects a full year 2021 reinvestment rate below 35%.
+5. Marathon Oil has achieved a free cash flow breakeven below $35 per barrel WTI.
+6. Marathon Oil raised its base dividend by 20% in the third quarter.
+7. Marathon Oil's base dividend has increased by a cumulative 100% since the end of 2020.
+8. Marathon Oil's current base dividend is $0.06 per share per quarter.
+9. Marathon Oil targets approximately $500 million of share repurchases during the fourth quarter.
+10. Marathon Oil's board increased the total share repurchase authorization to $2.5 billion.
+11. Marathon Oil expects to return approximately 50% of total cash flow from operations to equity holders in the fourth quarter.
+12. Marathon Oil's gas capture exceeded 99% during the third quarter.
+13. Marathon Oil raised its full year 2021 Equatorial Guinea equity method income guidance to a range of $235 million to $255 million.
+14. Marathon Oil expects fourth quarter total company oil production to range between 176,000 and 180,000 barrels of oil per day.
+15. Marathon Oil expects fourth quarter total company oil equivalent production to be approximately 345,000 barrels of oil equivalent per day.
+16. Marathon Oil retired $900 million in debt early in the third quarter.
+17. Marathon Oil achieved its targeted $4 billion gross debt level in 2021.
+18. Marathon Oil has no significant debt maturities in 2022.
+19. Marathon Oil's equity return framework commits a minimum of 40% of cash from operations to shareholders when WTI is at or above $60 per barrel.
+20. Marathon Oil holds a contiguous 50,000 net acre position in the Texas Delaware oil play with 100% working interest.
+21. One of Marathon Oil's Woodford wells achieved an IP30 of almost 2,100 barrels of oil per day.
+22. Marathon Oil anticipates potential inflation of up to 10% on its maintenance scenario capital range for 2022.
+23. Marathon Oil projects potential 2022 free cash flow of approximately $3 billion at recent strip pricing.
+
+SOURCE (EXACT CONTIGUOUS 800-CHAR BLOCKS; ZERO-BASED OFFSETS)
+
+[C000000]
+These documents can be found on our website at marathonoil.com.
+We'll also hear from Mike, Dane and Pat before we get to our question-and-answer session.
+While I get the privilege of talking about our company's impressive results and outlook today, it is their hard work that makes all of this possible.
+Through our commitment to capital discipline and our differentiated execution, we are successfully delivering outsized financial outcomes for our shareholders, highlighted by more than $1.3 billion of free cash flow year to date.
+For our $1 billion full year 2021 capital budget, at forward curve commodity pricing, we now expect to generate well over $2 billion of free cash flow this year, at a reinvestment rate below 35% and a free cash flow breakeven below $35 per barrel WTI.
+We are success
+
+[C000800]
+fully delivering on all of our financial and operational objectives and achieving bottom line results that we will put head-to-head against any other energy company and against any other sector in the S&P 500.
+This strong financial performance has enabled us to pull forward our balance sheet targets.
+And this further improvement to our already investment-grade balance sheet has given us the confidence to dramatically accelerate the return of capital to equity holders.
+Under our unique return of capital framework, our shareholders get the first call on cash flow, a minimum of 40% of our total cash flow from operations in the current price environment.
+Consistent with our commitment to shareholder returns and our objective to pay a competitive and sustainable base dividend, we have raised ou
+
+[C001600]
+r base dividend by 20% this quarter.
+This is the third quarter in a row that we have increased our base dividend, representing a cumulative 100% increase since the end of 2020, a sign of the increased confidence we have in our business.
+We are also targeting approximately $500 million of share repurchases during the fourth quarter with $200 million already executed.
+At a free cash flow yield north of 20%, we believe our equity offers tremendous value.
+Additionally, there remains a dislocation between our equity and strengthening commodity prices coupled with a more mature business model that underwrites repurchases through the cycle.
+Further, buying back our stock for good value provides the added potential of significantly reducing our share count, meaningfully improving all of our per-sh
+
+[C002400]
+are metrics even under a maintenance scenario and increasing our longer-term capacity for continued per share base dividend increase.
+Looking ahead to fourth quarter, including our base dividend and planned share repurchases, we expect to return approximately 50% of our total cash flow from operations to equity holders, fully consistent with our return of capital framework that prioritizes the shareholder first.
+Our financial flexibility and the power of our portfolio in the current commodity price environment provided the confidence for our board to also increase our total share repurchase authorization to $2.5 billion, to ensure we can continue executing on our return of capital plans as we progress through 2022.
+And perhaps most importantly, everything that we are doing is sustainable, 
+
+[C003200]
+backed by our five-year benchmark maintenance scenario and our ongoing pursuit of ESG excellence through top quartile safety performance, significant reductions to our GHG intensity and best-in-class corporate governance.
+Third quarter operations were again solid, demonstrating that we remain on track to achieve or outperform all of the key 2021 financial, operational and ESG-related objectives that we established at the beginning of the year.
+First and foremost, our consistent execution is translating to outsized financial outcomes, highlighted by over $2 billion of expected free cash flow, with a material sequential increase expected in the fourth quarter, a full year 2021, reinvestment rate below 35% and full year corporate free cash flow breakeven $35 per barrel WTI.
+Our gas capture du
+
+[C004000]
+ring third quarter also exceeded 99%, as we continue to reduce our GHG emissions intensity.
+There is no change to our $1 billion full year 2021 capital budget.
+Raising our spending levels this year has never been a consideration, consistent with our commitment to capital discipline.
+There is also no change to the midpoint of our full year total company oil or total company oil equivalent production guidance.
+We're also raising our full year 2021 EG equity method income guidance for the second consecutive quarter to a new range of $235 million to $255 million due to stronger commodity prices.
+This is a 30% increase from the guidance we provided last quarter and a 120% increase relative to our initial guidance at the beginning of the year.
+Our full year production and EG equity method income
+
+[C004800]
+ guidance truly contemplate an unplanned outage we experienced in EG late in the third quarter.
+Looking ahead to fourth quarter, we expect to finish the year strong with our total company oil production increasing to between 176,000 and 180,000 barrels of oil per day in comparison to 168,000 barrels of oil per day during the third quarter.
+Our quarterly production volumes are all subject to some normal variability associated with well timing.
+But this more significant sequential increase is due largely to deferred Bakken production associated with third-party midstream outages, strongly well performance and solid base production management.
+We also expect our fourth quarter total company oil equivalent production to be similar to the third quarter at 345,000 barrels of oil equivalent per d
+
+[C005600]
+ay, with a sequential increase in the U.S. offsetting a sequential decrease in Equatorial Guinea associated with the previously referenced outage.
+As I noted last quarter, our financial priorities are clear and unchanged, generate strong corporate returns with significant sustainable free cash flow, all prove our already investment-grade balance sheet and return significant capital to shareholders.
+Early in the third quarter, we retired $900 million in debt, bringing total 2021 gross debt reduction to $1.4 billion and achieving our targeted $4 billion gross debt level.
+With this milestone, we no longer feel the need to accelerate additional debt reduction.
+And going forward, we plan to simply retire debt as it matures.
+And please note that we have no significant maturities in 2022.
+This ba
+
+[C006400]
+lance sheet repositioning was achieved well ahead of our original schedule, which opened the door to begin returning a significant amount of capital to equity holders.
+To be clear, these are returns beyond our base dividend which we just increased for the third consecutive quarter.
+Our base dividend is actually up 100% over that time period, now at $0.06 a share per quarter and the $50 million of annual interest savings were realized due to lower gross debt will help fund a significant portion of this base dividend increase.
+Our equity return framework calls for delivering a minimum of 40% of cash from operations to shareholders when WTI is at or above $60 a barrel.
+This is a peer-leading return of capital commitment.
+It is also competitive with any sector in the S&P 500.
+Our fourth quarte
+
+[C007200]
+r is shaping up to be an exceptionally strong free cash flow quarter due to a combination of higher commodity prices and oil volumes quite a bit stronger than the third quarter.
+At recent strip pricing, this could take our operating cash flow to approximately $1.1 billion or about a 25% sequential increase versus the third quarter.
+Add to that an expected increase in dividend distributions from EG and lower capex relative to the third quarter peak and fourth quarter free cash flow could almost double to north of $850 million.
+So in Q4, we expect to have lots of flexibility to exceed our 40% of operating cash flow, a minimum threshold for equity returns.
+In fact, through our base dividend and approximately $500 million of share repurchases, we expect to return approximately 50% of our opera
+
+[C008000]
+ting cash flow to investors during the fourth quarter while further improving our cash balance and net debt position.
+As we also mentioned, we believe that buying back our stock in a disciplined fashion makes tremendous sense.
+There are many opportunities in the market right now that provide a sustainable free cash flow yield north of 20%.
+Stepping back, the full year 2021 financial delivery is exceptional, $140 million in base dividends, $1.4 billion in debt reduction and $500 million of share repurchases representing a total return to investors combined debt and equity of over $2 billion or over 60% of our expected full year operating cash flow at strip commodity prices.
+Our actions in 2021 have successfully repositioned the balance sheet and kicked off a strong track record of equity re
+
+[C008800]
+turns.
+Going forward, we're going to stay laser-focused on our financial priorities and our return of capital framework, taking into account our cash flow outlook when making return decisions.
+Because our framework is based on a minimum percentage of cash flow from operations and not free cash flow, the equity investor will have the first call on cash, not to drill a bit.
+We recently completed our 2021 REx drilling program, which was focused on the continued delineation of our contiguous 50,000 net acre position in our Texas Delaware oil plant.
+As a reminder, this is a new play concept for both the Woodford and Meramec that was secured through grassroots leasing at a very low cost of entry and with 100% working interest.
+This is essentially an exploration bolt-on that is complementary to o
+
+[C009600]
+ur already established position in the Northern Delaware.
+We brought online our first multi-well pad during the third quarter.
+And while it is still very early, initial production rates in both Woodford and Meramec are exceeding our predrill expectations.
+More specifically, one of the Woodford wells achieved an IP30 of almost 2,100 barrels of oil per day at an oil cut of 66%.
+This appears to be the strongest Woodford oil well ever drilled in any basin.
+And while we don't yet have 30-day rates for the other two wells, early indicators, including IP24s are all very positive.
+A primary objective of this three-well pad was to execute our first spacing test in the playing.
+To date, we are seeing no evidence of interference between the Woodford and Meramec, consistent with our expectations due t
+
+[C010400]
+o over 700 feet of vertical separation between the two zones.
+As I stated, it's still early and we need more production history to draw stronger conclusions, but we are certainly encouraged by the initial results from this first spacing test, including the record Woodford productivity.
+The second objective was to continue to progress our learnings and cost improvements and completed well costs.
+We expect to ultimately deliver well costs comparable to those achieved in the SCOOP and are aggressively leveraging our substantial experience in Oklahoma to that end.
+In total, we have now brought online nine wells since play entry that have successfully delineated our position.
+The six wells with longer dated production have collectively demonstrated strong long-term oil productivity.
+Oil cuts gr
+
+[C011200]
+eater than 60%, low oil ratios below one and shallow declines.
+Looking ahead to 2022, you should expect us to continue to integrate our learnings and progress our understanding of this promising play.
+However, we will do so in a disciplined manner and within our strict reinvestment rate capital allocation framework.
+I will close with a quick summary of how we have positioned our company for success and a preview of what to expect from us in 2022.
+Spoiler alert, there will be no surprises in 2022 and no compromise with respect to our capital return framework.
+If we focus on the financial benchmarks that matter, we are delivering top-tier capital efficiency, free cash flow yield and balance sheet strength.
+Our 2021 capital rate of sub-35% and capital intensity as measured by capex per barrel
+
+[C012000]
+ of production are both the lowest in our independent E&P peer group, a strong validation of our leading capital and operating efficiency.
+We are also one of the few E&Ps expecting to deliver a 2021 reinvestment rate at or below the S&P 500 average.
+We're also delivering top quartile free cash flow yield this year among our peer group and well above the S&P 500 average.
+And we are doing all of this with an investment-grade balance sheet at sub-onetime net debt to EBITDA, a 2021 leverage profile also well below both our peer group and the S&P 500 average.
+In short, we are successfully delivering outsized financial performance versus our peer group and the broader market with the commodity price support we are experiencing this year.
+Yet perhaps more importantly, we are well positioned to de
+
+[C012800]
+liver competitive free cash flow and financial performance versus the broader market at much lower prices than we see today, all the way down to the $40 per barrel WTI range.
+This is the power of our sustainable cost structure reductions, our capital and operating efficiency improvements and our commitment to capital discipline, all contributing to a sub-$35 per barrel breakeven.
+Looking ahead to 2022, our differentiated capital allocation framework that prioritizes the shareholder at the first call on cash flow generation will not change.
+Our commitment to capital discipline will not waver with maintenance oil production, the case to beat, as we finalize our 2022 budget.
+We believe the right business model for a mature industry prioritizes sustainable free cash flow, a low reinvestment ra
+
+[C013600]
+te and meaningful returns to equity investors, not growth capital.
+Recall that we introduced a unique five-year maintenance scenario earlier this year that featured $1 billion to $1.1 billion of annual spending, $1 billion of annual free cash flow at $50 WTI and a 50% reinvestment rate.
+Given we are no longer living in a $50 per barrel environment and that prices are currently north of $80 per barrel, it is both prudent and reasonable to consider some level of limited inflation up to about 10% that would yield modest pressure on the maintenance scenario capital range.
+Yet importantly, this modest level of inflation pales in comparison to the uplift to our financial performance in the current environment, with a 2022 maintenance scenario free cash flow potentially on the order of $3 billion
+
+[C014400]
+ at recent strip pricing or nominally three times the $50 benchmark outcome.
+And under such a maintenance scenario, we are positioned to lead the peers once again with a 2022 free cash flow yield above 20%, far in excess of the S&P 500 free cash flow yield of approximately 4%.
+Our minimum 40% of cash flow target translates to about $1.6 billion of equity holder returns next year.
+But that is a minimum and we see significant headroom to drive that number higher.
+At the expected 4Q run rate of 50% of CFO, 2022 equity holder returns would increase to approximately $2 billion, while still improving our cash balance and net debt position.
+Even at a more conservative $60 per barrel oil price environment, our minimum 40% of cash flow targets still translates to about $1.1 billion of equity holder
+
+[C015200]
+ returns in 2022.
+And applying 2022 consensus estimates to the return frameworks disclosed by our peers, only confirms our leading return of capital profile, with a double-digit cash distribution yield to our equity investors in 2022.
+The confidence in this outsized delivery is further supported by recent board action to increase our share repurchase authorization to $2.5 billion to ensure we have sufficient runway to continue delivering on our return of capital commitment next year.
+To close, our company was among the first to recognize the need to move to a business model that prioritizes returns, sustainable free cash flow, balance sheet improvement and return of capital.
+We have also led the way in better aligning executive compensation to this new model and with investor expectations.
+
+[C016000]
+
+We are successfully executing on our model today, delivering both financial outcomes and ESG excellence that are competitive not just with our direct E&P peers but also the broader market.
+With that, we can open up the line for Q&A.

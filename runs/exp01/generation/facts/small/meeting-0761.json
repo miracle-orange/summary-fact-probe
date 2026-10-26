@@ -1,0 +1,20 @@
+{
+  "status": "ok",
+  "request_hash": "ff953207be1baec21d1989808fd4668e16cd1091ebc3427ad57f3f255c2eccad",
+  "output": {
+    "key_facts": [
+      "The Canadian Perinatal Mental Health Collaborative is calling upon the House of Commons to create a national perinatal mental health strategy to provide direction, policy, and funding for specialized, comprehensive perinatal mental health care services, including universal screening and timely access to treatment for all women and men during pregnancy and the postpartum period.",
+      "The petitioners from Nova Scotia are calling on the government to uphold Bill C-68 and species-at-risk legislation, protect oceans, ban expansion of open-net finfish aquaculture, work to phase out existing open-net fish farming operations, and invest in land-based, closed-containment finfish aquaculture."
+    ]
+  },
+  "metadata": {
+    "model": "small",
+    "finish_reason": "stop",
+    "usage": {
+      "prompt_tokens": 22014,
+      "total_tokens": 22155,
+      "completion_tokens": 141,
+      "prompt_tokens_details": null
+    }
+  }
+}

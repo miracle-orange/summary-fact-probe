@@ -1,0 +1,29 @@
+{
+  "status": "ok",
+  "request_hash": "3f6cde2e2bb3cfe3a0205143a89f7edfd40fb33689e1e4424d69a758468061ce",
+  "output": {
+    "summary": "The council convened to discuss Council Bill 1089, which aims to revise the affordability period for affordable housing projects in Denver. Councilwoman Kenny proposed an amendment to delay the effective date of the bill’s changes from 20 to 60 years until February 1, 2019. The amendment was supported as a compromise to allow time for dialogue and clarification on implementation. After a lengthy public hearing featuring testimonies from developers, advocacy groups, and community members, the amendment passed. However, the motion to delay the final consideration of the bill until February 19, 2019, failed, indicating the council's preference to proceed with the bill as amended. The council also addressed related issues, including concerns about funding for rehabilitation and the impact on developers. Council Bill 975, concerning amendments to the inclusionary housing ordinance, was subsequently ordered published without further delay."
+  },
+  "metadata": {
+    "attempts": 1,
+    "input_tokens_local": 31366,
+    "context_limit": 65536,
+    "request_parameters": {
+      "temperature": 0.7,
+      "top_p": 0.8,
+      "top_k": 20,
+      "min_p": 0.0,
+      "repetition_penalty": 1.05,
+      "seed": 42,
+      "max_tokens": 4096
+    },
+    "model": "large",
+    "finish_reason": "stop",
+    "usage": {
+      "prompt_tokens": 31366,
+      "total_tokens": 31556,
+      "completion_tokens": 190,
+      "prompt_tokens_details": null
+    }
+  }
+}

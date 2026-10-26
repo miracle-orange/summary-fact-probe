@@ -1,0 +1,29 @@
+{
+  "status": "ok",
+  "request_hash": "bb0bf65f0cd7bc80632208e619aab79633a4f294404f4c89f9f5db86f86ad940",
+  "output": {
+    "summary": "During the sixth meeting of the House of Commons Special Committee on the COVID-19 pandemic, various members presented petitions and raised questions for ministers. Topics included the need for a national perinatal mental health strategy, concerns over pharmaceutical pricing and access to life-saving medications like Trikafta for cystic fibrosis, the shortage of family doctors in rural areas, and criticisms of firearms legislation. Members also questioned the government’s handling of the CERB program, particularly regarding the handling of suspected fraudulent applications, and raised concerns about delays in processing Service Canada mail. Discussions on economic support covered measures for large employers, small businesses, and the fishing and agriculture sectors, with a focus on ensuring equitable access to funding and resources. Issues surrounding Indigenous rights, particularly concerning the Wet'suwet'en nation and the Coastal GasLink project, were raised, alongside calls for improved housing and long-term care for seniors amid the pandemic. The government reiterated its commitment to addressing fraud, supporting vulnerable communities, and collaborating with provinces and territories to manage the crisis."
+  },
+  "metadata": {
+    "attempts": 1,
+    "input_tokens_local": 23146,
+    "context_limit": 65536,
+    "request_parameters": {
+      "temperature": 0.7,
+      "top_p": 0.8,
+      "top_k": 20,
+      "min_p": 0.0,
+      "repetition_penalty": 1.05,
+      "seed": 42,
+      "max_tokens": 4096
+    },
+    "model": "large",
+    "finish_reason": "stop",
+    "usage": {
+      "prompt_tokens": 23146,
+      "total_tokens": 23363,
+      "completion_tokens": 217,
+      "prompt_tokens_details": null
+    }
+  }
+}

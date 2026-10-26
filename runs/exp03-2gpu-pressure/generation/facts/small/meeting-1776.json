@@ -1,0 +1,23 @@
+{
+  "status": "ok",
+  "request_hash": "1d0f950b16d5205f360f6be45b06b5a9b39613d11e113c603c54f89fdf6d4f4b",
+  "output": {
+    "key_facts": [
+      "NOV reported revenues of $1.25 billion and a net loss of $115 million for the first quarter of 2021 on a U.S. GAAP basis.",
+      "NOV's consolidated revenue fell $78 million or 6% sequentially to $1.25 billion during the first quarter of 2021 due to ongoing austerity from customers, operational disruptions from severe weather and COVID-19 challenges."
+    ]
+  },
+  "metadata": {
+    "attempts": 1,
+    "input_tokens_local": 6740,
+    "context_limit": 65536,
+    "model": "small",
+    "finish_reason": "stop",
+    "usage": {
+      "prompt_tokens": 6740,
+      "total_tokens": 6840,
+      "completion_tokens": 100,
+      "prompt_tokens_details": null
+    }
+  }
+}

@@ -1,0 +1,205 @@
+[
+  {
+    "sample_id": "meeting-0064",
+    "query": "thursday",
+    "start": 111555,
+    "end": 112383,
+    "text": " you have something .\nGrad A: In the process thereof , or whatever .\nProfessor C: OK . So , what 's {disfmarker} what {disfmarker} when are we gonna meet again ?\nGrad F: When are you leaving ?\nGrad A: Fri - uh ,\nGrad F: Thursday , Friday ?\nGrad A: Thursday 's my last day here .\nGrad D: Fri\nProfessor C: Yeah .\nGrad F: OK .\nGrad A: So {disfmarker} I would suggest as soon as possible . Do you mean by we , the whole ben gang ?\nProfessor C: N no , I didn't mean y just the two of us . We {disfmarker} obviously we can {disfmarker} we can do this . But the question is do you want to , for example , send the little group , uh , a draft of your thesis proposal and get , uh , another session on feedback on that ? Or {disfmarker}\nGrad A: We can do it Th - Thursday again . Yeah .\nGrad E: Fine with me . Should we do the one PM tim"
+  },
+  {
+    "sample_id": "meeting-0064",
+    "query": "thursday",
+    "start": 111583,
+    "end": 112411,
+    "text": ": In the process thereof , or whatever .\nProfessor C: OK . So , what 's {disfmarker} what {disfmarker} when are we gonna meet again ?\nGrad F: When are you leaving ?\nGrad A: Fri - uh ,\nGrad F: Thursday , Friday ?\nGrad A: Thursday 's my last day here .\nGrad D: Fri\nProfessor C: Yeah .\nGrad F: OK .\nGrad A: So {disfmarker} I would suggest as soon as possible . Do you mean by we , the whole ben gang ?\nProfessor C: N no , I didn't mean y just the two of us . We {disfmarker} obviously we can {disfmarker} we can do this . But the question is do you want to , for example , send the little group , uh , a draft of your thesis proposal and get , uh , another session on feedback on that ? Or {disfmarker}\nGrad A: We can do it Th - Thursday again . Yeah .\nGrad E: Fine with me . Should we do the one PM time for Thursday since we were"
+  },
+  {
+    "sample_id": "meeting-0064",
+    "query": "thursday",
+    "start": 112089,
+    "end": 112917,
+    "text": "an do this . But the question is do you want to , for example , send the little group , uh , a draft of your thesis proposal and get , uh , another session on feedback on that ? Or {disfmarker}\nGrad A: We can do it Th - Thursday again . Yeah .\nGrad E: Fine with me . Should we do the one PM time for Thursday since we were on that before or {disfmarker} ?\nGrad A: Sure .\nGrad E: OK .\nProfessor C: Alright .\nGrad D: Hmm .\nGrad A: Thursday at one ? I can also maybe then sort of run through the , uh {disfmarker} the talk I have to give at EML which highlights all of our work .\nProfessor C: OK .\nGrad A: And we can make some last minute changes on that .\nProfessor C: OK .\nGrad B: You can just give him the abstract that we wrote for the paper .\nProfessor C: That - that 'll tell him exactly what 's going on . Yeah , that {disfm"
+  },
+  {
+    "sample_id": "meeting-0064",
+    "query": "thursday",
+    "start": 112169,
+    "end": 112997,
+    "text": "group , uh , a draft of your thesis proposal and get , uh , another session on feedback on that ? Or {disfmarker}\nGrad A: We can do it Th - Thursday again . Yeah .\nGrad E: Fine with me . Should we do the one PM time for Thursday since we were on that before or {disfmarker} ?\nGrad A: Sure .\nGrad E: OK .\nProfessor C: Alright .\nGrad D: Hmm .\nGrad A: Thursday at one ? I can also maybe then sort of run through the , uh {disfmarker} the talk I have to give at EML which highlights all of our work .\nProfessor C: OK .\nGrad A: And we can make some last minute changes on that .\nProfessor C: OK .\nGrad B: You can just give him the abstract that we wrote for the paper .\nProfessor C: That - that 'll tell him exactly what 's going on . Yeah , that {disfmarker} Alright .\nGrad F: Can we do {disfmarker} can we do one - thirty ?\nGrad A:"
+  },
+  {
+    "sample_id": "meeting-0064",
+    "query": "thursday",
+    "start": 112298,
+    "end": 113126,
+    "text": "do it Th - Thursday again . Yeah .\nGrad E: Fine with me . Should we do the one PM time for Thursday since we were on that before or {disfmarker} ?\nGrad A: Sure .\nGrad E: OK .\nProfessor C: Alright .\nGrad D: Hmm .\nGrad A: Thursday at one ? I can also maybe then sort of run through the , uh {disfmarker} the talk I have to give at EML which highlights all of our work .\nProfessor C: OK .\nGrad A: And we can make some last minute changes on that .\nProfessor C: OK .\nGrad B: You can just give him the abstract that we wrote for the paper .\nProfessor C: That - that 'll tell him exactly what 's going on . Yeah , that {disfmarker} Alright .\nGrad F: Can we do {disfmarker} can we do one - thirty ?\nGrad A: No .\nGrad F: Oh , you already told me no .\nGrad A: But we can do four .\nGrad F: One , OK , it 's fine . I can do one . It 's fin"
+  },
+  {
+    "sample_id": "meeting-0290",
+    "query": "274",
+    "start": 37516,
+    "end": 38339,
+    "text": "ice of this and we work very closely with our social care colleagues on that.\nLynne Neagle AM: Okay. Janet, your last question, please.\nJanet Finch-Saunders AM: The Bill's explanatory memorandum refers to an estimate of 274 offences annually where lawful chastisement was used as a defence or considered. It says there is also potential to create extra demand on out-of-hours social services teams due to the time that the offences were reported, and in order to support safeguarding measures. Have you assessed how this Bill will impact on emergency and out-of-hours local authority services?\nSally Jenkins: We have considered that, and again I think that's something that we would very much want to look at as part of implementation. We have out-of-hours provision, we have emergency duty teams already across Wales that "
+  },
+  {
+    "sample_id": "meeting-0290",
+    "query": "duty.{0,80}raise",
+    "start": 45539,
+    "end": 46395,
+    "text": "ense.\nSian Gwenllian AM: Do you, therefore, believe that this needs to be on the face of the Bill? That is, you don't say this in your evidence. I'd like to know your opinion on that. Scotland is going to be making it a duty for Scottish Ministers to raise awareness of the impact of the Bill. So far, the Welsh Government says that we don't need to do that in Wales. Wouldn't it make it clearer for you if it was a clear duty on the face of the Bill, for example as it was with the Human Transplantation (Wales) Act 2013? There was a duty in that Act for Ministers to promote transplantation. Surely, that awareness raising aspect would be clearer for everyone if it was on the face of the Bill. Do you have an opinion on that?\nHuw David: Well, Welsh Government have given that commitment, and I know the Welsh Government honour every commitment that they"
+  },
+  {
+    "sample_id": "meeting-0400",
+    "query": "3\\.5",
+    "start": 27755,
+    "end": 28578,
+    "text": " Williams AM: Well, as I said, it was part of the overall allocation to HEFCW. With specific regard to dealing with the impact of Brexit, you'll be aware that we have reached an agreement in principle on the funding of £3.5 million to the Global Wales initiative. This was an application that came in from Universities Wales looking at specifically targeting and beefing up international work and international recruitment work to support them at this time, and we're currently working with Universities Wales on the exact details and outcomes they would expect from that investment.\nJulie Morgan AM: And do you have any estimate of how many students you hope to attract by that?\nKirsty Williams AM: That is subject to continuing negotiations with Universities Wales before we let any contracts with them. What's important "
+  },
+  {
+    "sample_id": "meeting-0400",
+    "query": "100,000",
+    "start": 42557,
+    "end": 43384,
+    "text": "e confidence of our employers in committing to training in the workplace.\nLlyr Gruffydd AM: Are you confident that the Government will achieve its targets in this context?\nEluned Morgan AM: Yes. We're on target to reach 100,000 apprenticeships. I think we're slightly ahead of that target, I'm pleased to say. So, of course, our hope is to do that. But let's be clear: if there is a 'no deal' scenario, that will have an impact on the economy, and who knows what will happen then to some of these companies that are reliant on the EU.\nLlyr Gruffydd AM: Talking about the impact on the wider economy, on the point you made earlier that it's not just the direct effect on these institutions, but also on the businesses that they engage with, that is a concern in this context, that means, of course, that there is a lot of pressu"
+  },
+  {
+    "sample_id": "meeting-1020",
+    "query": "1\\.25 million",
+    "start": 74158,
+    "end": 74990,
+    "text": "uch for their contributions to our efforts. Last week we announced a suite of measures to support people with disabilities that complement existing measures that are in place. This includes a one-time payment of $600 to 1.25 million citizens with disabilities, which again is the subject matter of the legislation this afternoon, as well as a $15-million investment in an accessible workplace initiative that will ensure, moving forward.... We know that as we move back into employment situations it will be very tough for people with disabilities. Finally, there are five really exciting accessible technology initiatives, including working on point-of-sale terminals for Canadians who are blind or visually impaired.\nThe Acting Chair (Mrs. Alexandra Mends): You may have a very short question, Mr. May.\nMr. Bryan May: I want to ta"
+  },
+  {
+    "sample_id": "meeting-1020",
+    "query": "\\$600",
+    "start": 74150,
+    "end": 74974,
+    "text": "hem so much for their contributions to our efforts. Last week we announced a suite of measures to support people with disabilities that complement existing measures that are in place. This includes a one-time payment of $600 to 1.25 million citizens with disabilities, which again is the subject matter of the legislation this afternoon, as well as a $15-million investment in an accessible workplace initiative that will ensure, moving forward.... We know that as we move back into employment situations it will be very tough for people with disabilities. Finally, there are five really exciting accessible technology initiatives, including working on point-of-sale terminals for Canadians who are blind or visually impaired.\nThe Acting Chair (Mrs. Alexandra Mends): You may have a very short question, Mr. May.\nMr. Bryan M"
+  },
+  {
+    "sample_id": "meeting-1020",
+    "query": "\\$600",
+    "start": 104135,
+    "end": 104959,
+    "text": "o the honourable minister for disabilities. I certainly appreciate her work and I know her intentions are the best, but part 3 of this bill allows for the information to be shared so people can get a one-time payment of $600, which is not enough to really deal with the COVID crisis for people with disabilities. It's clearand I thank the honourable leader of the New Democratic Party for making this point clearly in question periodit will reach approximately 40% of people with disabilities because of the structure of going through the disability tax credit. To the honourable minister, are other measures under consideration to reach the rest of the people in Canada with disabilities who need help?\nHon. Carla Qualtrough: Madam Chair, the disability support payment we are proposing and that we hope to get through the "
+  },
+  {
+    "sample_id": "meeting-1020",
+    "query": "Alexis Brunelle.Duceppe:",
+    "start": 70302,
+    "end": 71146,
+    "text": " our commitment to continuing to provide assistance. That assistance can take additional forms and can include involving the Canadian Red Cross, but we remain committed to providing the assistance that Quebec needs.\nMr. Alexis Brunelle-Duceppe: If I understand correctly, negotiations are still under way with the Government of Quebec, even though it needs these soldiers. The mission ends Friday. This isn't really the time to negotiate anymore. We have to make sure that the military will stay in our long-term care homes as long as we need their services in Quebec, and until new attendants have been trained. Can the minister confirm that the mission will indeed be extended?\nHon. Bill Blair: I'd like to assure this House that we have assured Quebec that the Canadian Armed Forces will continue to provide support until such time as other "
+  },
+  {
+    "sample_id": "meeting-1020",
+    "query": "Alexis Brunelle.Duceppe:",
+    "start": 71236,
+    "end": 72080,
+    "text": "ince of Quebec. We're working with the Canadian Armed Forces and the Canadian Red Cross. We will be there for Quebeckers because they need our help, and as long as they need our help, we'll be there to support them.\nMr. Alexis Brunelle-Duceppe: This isn't the time to play cat-and-mouse. The only thing we have to do is to give the Government of Quebec what it's asking for. Quebec pays 23%of the army's budget, so Quebeckers are entitled to this support. Quebec has more than 5,000deaths from COVID-19, 90%of which have been in seniors' residences or long-term care homes. The military's presence is vital because they play an extraordinary and essential role. Will the minister commit to extending the mission now and putting an end to this uncertainty? It's certainly bad for both the military and the health care workers, who rely on this s"
+  },
+  {
+    "sample_id": "meeting-0761",
+    "query": "border.{0,80}restrict",
+    "start": 57624,
+    "end": 58459,
+    "text": " outbreak. The city of Detroit alone has more deaths than the entire province of Ontario. The border communities of Sarnia and Windsor have higher per capita infection rates than the rest of the province. Next week, the border restrictions between the U.S. and Canada expire. With the premiers of B.C., Quebec and Ontario opposing the opening of the border at this time, will the restrictions be extended, or is the Prime Minister discussing changing the restrictions?\nThe Acting Chair (Mr. Bruce Stanton): The honourable minister.\nHon. Chrystia Freeland (Deputy Prime Minister and Minister of Intergovernmental Affairs): Let me assure the honourable member that, first and foremost, all decisions about Canada's border are taken by Canadians and with the health and safety of Canadians first and foremost in mind. When it comes to the"
+  },
+  {
+    "sample_id": "meeting-0761",
+    "query": "border.{0,80}restrict",
+    "start": 57754,
+    "end": 58612,
+    "text": "dsor have higher per capita infection rates than the rest of the province. Next week, the border restrictions between the U.S. and Canada expire. With the premiers of B.C., Quebec and Ontario opposing the opening of the border at this time, will the restrictions be extended, or is the Prime Minister discussing changing the restrictions?\nThe Acting Chair (Mr. Bruce Stanton): The honourable minister.\nHon. Chrystia Freeland (Deputy Prime Minister and Minister of Intergovernmental Affairs): Let me assure the honourable member that, first and foremost, all decisions about Canada's border are taken by Canadians and with the health and safety of Canadians first and foremost in mind. When it comes to the current agreement's coming up next week, we are in very close conversations with Americans about next steps.\nMr. Brian Masse: What changes are on the ta"
+  },
+  {
+    "sample_id": "meeting-0761",
+    "query": "border.{0,80}restrict",
+    "start": 59963,
+    "end": 60798,
+    "text": "or trade, continues, and that's a good thing, too.\nMr. Brian Masse: With border communities having more rates of infection, will they receive additional PPE and financial assistance to deal with the loosening of current border restrictions that is being discussed?\nHon. Chrystia Freeland: Let me just emphasize to the honourable member that on a couple of occasions he has implied that a loosening of the current restrictions is being discussed. Let me be very clear that this is his assertion; I have not said that.\nMr. Brian Masse: Apparently, we're meeting for nothing. I'll move to the large commercial banks who are profiteering off or squeezing Canadians during this public crisis. Credit card interest rates are still high from previous price-gouging levels. Despite numerous favours from the Liberals, there have not been signi"
+  },
+  {
+    "sample_id": "meeting-0761",
+    "query": "extended",
+    "start": 57800,
+    "end": 58628,
+    "text": "an the rest of the province. Next week, the border restrictions between the U.S. and Canada expire. With the premiers of B.C., Quebec and Ontario opposing the opening of the border at this time, will the restrictions be extended, or is the Prime Minister discussing changing the restrictions?\nThe Acting Chair (Mr. Bruce Stanton): The honourable minister.\nHon. Chrystia Freeland (Deputy Prime Minister and Minister of Intergovernmental Affairs): Let me assure the honourable member that, first and foremost, all decisions about Canada's border are taken by Canadians and with the health and safety of Canadians first and foremost in mind. When it comes to the current agreement's coming up next week, we are in very close conversations with Americans about next steps.\nMr. Brian Masse: What changes are on the table?\nHon. Chryst"
+  },
+  {
+    "sample_id": "meeting-0761",
+    "query": "executive compensation",
+    "start": 48922,
+    "end": 49764,
+    "text": "legitimate for the state to impose conditions before providing its support. We in the Bloc Qubcois feel that there should be a limit, a ceiling, on the assistance provided to large companies, in order to avoid abuses in executive compensation. That is also the prevalent position in Quebec. A few years ago, after the Bombardier affair in QuebecI will not dwell on that because Quebecers are all too familiar with itthree of the four political parties that sat in the National Assembly and that still sit these took a position of that kind. A number of civil society groups in Quebec share it also. The United States, which, you will agree, is no bastion of socialism, has already implemented similar policies for periods of crisis. The idea is to offer support, but with conditions. According to a report published by the Canadian Centre for"
+  },
+  {
+    "sample_id": "meeting-0761",
+    "query": "executive compensation",
+    "start": 50288,
+    "end": 51130,
+    "text": "s are today. At this point, we are no longer talking about a gap but an abyss. Wealth is concentrated at the top of the pyramid, but clearly does not flow down to the base. Does the government intend to put a ceiling on executive compensation to ensure that they are not the only ones to profits from the support at this time of crisis? The question is clear and I am asking you to give me a clear answer. If I don't get one, I am going to have to demand a new version of the Clarity Act.\nThe Chair: The honourable Minister has the floor. I would also like to remind members to ask their questions through the Chair\nHon. Bill Morneau (Minister of Finance): Thank you, Mr.Chair. We know that our approach has to help small and medium-size companies, but also large companies in order to provide a bridge to the end of the crisis. In our opinio"
+  },
+  {
+    "sample_id": "meeting-0761",
+    "query": "executive compensation",
+    "start": 51575,
+    "end": 52417,
+    "text": "our communities. That is why we have attached a number of major conditions to our approach. We will have more details on the subject in the coming days. We established from the outset that we had to impose conditions on executive compensation. That is very important. We are going to consider the rules and conditions that are needed in order for the facility to be available to the companies, the operations and the employees. Of course, conditions are required to ensure that the facility is available for operations, not for dividends or share buybacks, for example. We will impose conditions of that kind. We also want to make sure that we are aware of the situation the companies are in. For example, we want to be sure that they are not engaged in tax evasion.\nThe Chair: We'll now go on to Ms. Sgro.\nHon. Judy A. Sgro (Humber RiverBlac"
+  },
+  {
+    "sample_id": "meeting-0761",
+    "query": "\\$300",
+    "start": 53303,
+    "end": 54127,
+    "text": "n. Deb Schulte: My colleague is right. Seniors have faced increased costs due to the COVID-19 pandemic, and our government today has responded to that with additional action. We announced a one-time, tax-free payment of $300 for seniors eligible for OAS and an additional $200 for seniors eligible for GIS. This means there will be up to $500 for the most vulnerable seniors to help them with their financial security to get through this challenging time. Beyond this, we announced $20 million to expand the new horizons for seniors program to kick-start initiatives and services that will help seniorsfor example, to get grocery deliveries right to their door and to stay connected. We've worked tirelessly on this as well as on other recent measures like the GST credit to help the most vulnerable seniors. Thank you to my"
+  },
+  {
+    "sample_id": "meeting-0761",
+    "query": "\\$300",
+    "start": 56884,
+    "end": 57708,
+    "text": "f and pork producers. Concerning the dairy sector in particular, I'm hopeful that tomorrow we will get the support of all of the parties to be able to respond to their request for an increase in their loan capacity from $300 million to $500 million. I would like to encourage all farmers to apply to the business risk management programs, including AgriStability, for which we have improved some of the mechanisms.\nThe Acting Chair (Mr. Bruce Stanton): We'll go on with questions, but I'll also just ask Mr. Blois to excuse me for mispronouncing his name. Let's go now to Mr. Masse for Windsor West. Go ahead, Mr. Masse.\nMr. Brian Masse (Windsor West, NDP): During the COVID-19 pandemic, the State of Michigan has become an epicentre of the outbreak. The city of Detroit alone has more deaths than the entire province of Ont"
+  },
+  {
+    "sample_id": "meeting-0761",
+    "query": "\\$200",
+    "start": 53355,
+    "end": 54179,
+    "text": "faced increased costs due to the COVID-19 pandemic, and our government today has responded to that with additional action. We announced a one-time, tax-free payment of $300 for seniors eligible for OAS and an additional $200 for seniors eligible for GIS. This means there will be up to $500 for the most vulnerable seniors to help them with their financial security to get through this challenging time. Beyond this, we announced $20 million to expand the new horizons for seniors program to kick-start initiatives and services that will help seniorsfor example, to get grocery deliveries right to their door and to stay connected. We've worked tirelessly on this as well as on other recent measures like the GST credit to help the most vulnerable seniors. Thank you to my colleague for her advocacy.\nThe Acting Chair (Mr. B"
+  },
+  {
+    "sample_id": "meeting-0761",
+    "query": "\\$200",
+    "start": 76297,
+    "end": 77121,
+    "text": "l and gas projects from being developed in Canada; and the oil shipping ban, Bill C-48, for the northern coast of British Columbia, which also had a negative effect on the oil industry. These two bills alone pushed over $200 billion of investment out of Canada, causing the Alberta economy to retract to recession levels. To compound Alberta's economic problems, we have an international oil price war and the COVID-19 pandemic, which caused a huge drop in demand for oil. Mr. Chair, 48 days after the finance minister promised liquidity loans to oil producers and service companies, there are still no applications open for these loans. Can the honourable Minister of Natural Resources tell us when the Liberals will act on their promise?\nHon. Seamus O'Regan (Minister of Natural Resources): Mr. Chair, I'm happy that we we"
+  },
+  {
+    "sample_id": "meeting-0078",
+    "query": "last_2500_chars",
+    "start": 36025,
+    "end": 38525,
+    "text": "t there is a cost. Nothing is free. We talk about wanting a free shuttle around the island. It's a great idea and a number of us are scrambling to figure out how to pay for that free shuttle. It was interesting to hear the example of the cell phone towers decision cited as an example, because in that particular case, it is the state of California that promulgates the regulations that apply to the placement of cell phone towers. And the planning director had certainly made that very clear, that the city city law does not. It was the word trap, but it's a local law. A local law doesn't overcome city law. We were bound by state of California regulations. So it was an exercise in a lot of time spent. A lot of speakers came up and voiced their opinions. At the end of the day, there was nothing the council could have done. And so might that have been a case where that second opinion would have said, you know, we've got a lot of items and issues before this council. Let's make sure that what we're doing really counts is really meaningful and within our within our ability to influence. So, again, I'm not saying do away with it. I'm just saying make it fairer all around. And in regards to the cell phone towers, we gave direction of prioritizing location so that when cell phone companies want to add them within the city that we have, prioritize what we think are safer, better places than on top of apartment buildings, for instance. So we did give direction to staff that they were able to use moving. Forward in. A progress that. Situation because we realized we can give direction without calling an item for appeal. But it has to be in front of us. So that's how that item came. In many ways to that issue in front of us. But anyway, I think we've probably said all we need to say. Does anyone else want to comment? Okay with that? Well, I already have a motion. I will make a motion that this council will consider revising. The city council call for a review process to appeal boarding commission decisions by requiring that two rather than just one, city council members initiate a call for review and state reason for the appeal. You have a second? I guess I'll second it then. All those in favor. I. Oppose. No. Oppose. Motion carries 3 to 2. Next Item nine be. Consider adoption resolution in support of a Congressional investigation regarding the impeachment of President Donald Trump. This item was put on the agenda at the request of Vice Mayor Vella and Council member Odie."
+  },
+  {
+    "sample_id": "meeting-1696",
+    "query": "last_2500_chars",
+    "start": 40977,
+    "end": 43477,
+    "text": "nd so I'd like to see us do more of that. Thank you. Thank you, Councilwoman. Councilman Lopez. And thank you, Mr. President. I. You know, I. I don't want to repeat everything that my colleagues have said. I think this is a good temporary fix for right now. But I all I just want to underscore the fact that, you know, it's it's January. It's it's it's not typically this warm. It's usually very cold. And this winter is a cold one. And there are human beings that are out in the cold. And although I'm I'm a fan of the tiny home village, I have seen it and seen other examples of it. I agree with my colleague, Councilor Taylor. We can't just be in the village everywhere as soon as development pops up. I think this is one of the many different parts of the solution to to end homelessness. A human being deserves a home, plain and simple. Right. And in this. And this thriving economy that we have, we've see in development pop up everywhere in cranes all over Denver. It's sad to think that that we just don't have enough units and that we're not building enough units. And, you know, next, I think. I just keep thinking in my head, you know, there are cities that are whose sidewalks are lined with tents and they're lined with just cars. And the fact that you have some of these tiny home villages where, you know, folks have a little bit of privacy, you get ready for work, they can sleep under under a roof. It's better than a tent, but it's it's only second to a real unit. And so until we until we have those units and until we make a real good progress made great progress in having those units, this is what I would rather see happen. In the interim instead of folks on sidewalks instead of folks in crowded shelters. Right. This is one of those solutions. You all did a tremendous job in bringing this forward and saying, hey, let's give this a shot. I don't want to see this move everywhere. Every time we see that, we have some kind of development. And I think this is a good temporary fix. But I think we've it's proven to be something that absolutely is a working tool. For human beings. So. Thank you. Thank you, Councilman. Seeing no other comments, Madam Secretary, roll call. Black Eye. Espinosa. Flynn. Gillmor Eye. Herndon. Cashman. Carnage. Lopez. I knew Ortega. I. Susman. I. Mr. President. I. Madam Secretary, please close the voting. Announce results. 11 eyes. 11 eyes. Comfortable. 1421 has passed. Next up, Councilwoman Ortega, will you put comfortable 1448 on the floor?"
+  },
+  {
+    "sample_id": "meeting-1719",
+    "query": "last_2500_chars",
+    "start": 33154,
+    "end": 35654,
+    "text": " that saying that if this is held in November 2020 that he would lose logic funding. So I, so I, I'm not at this point I'm not convinced I that by that argument I heard, you know, maybe people up here saying it. So I still believe that the superior decision is November 2020 when it comes to elections. Thank you. Anyone else? Okay. Can I just clarify in question? I mean, I know we are voting to put this on the April election, but you would support it if we were running the last one on the April. And this one on the November. You know, this all related to the previous one, which is April 19th over there. There are intimate there. They're intimately related. So. I guess I'm trying to understand just to see if we can if there's anything we can address. Is there is there something about what's being proposed that you have a concern with or literally the timing of it and because it's associated with the timing of the other? Well, it's the three issues. One was that, you know, you had 6000 residents saying that they want they want to have this to put to a vote, which we are doing. But from what I might take away from the leadership of that organization is they were fine with the November 2020. Yeah. Parallel to that, I did not hear a compelling evidence that that said that the project will crater if it is held in November 2020. So that's why even on this matter, because it was intimately related to item six, the to me it makes sense that it would be consistent. I should vote no. Okay. Thank you. With all due respect. No. That's fine. Okay. Anything further? All right, we have a motion. We have a second. All in favor. I opposed. Oppose. Okay, so the measure passes 4 to 1. Thank you, everyone. Um. Um. Oh, wow. That's true. You're going to go home the same night we arrived. Um. We have next on the agenda. We have city manager communications. No communications. No, no communications. You say. Okay. And then we have oral communications, not agenda. No additional speakers, none. And any council referrals this evening. Negative. Okay. None. And so. Okay. So item ten is Council Communications. Council members can address any matter not in the agenda, including reporting on conferences or meetings. Who wants to start on my right. Whilst because I put this item, this council compact that the MTC put together. I wanted to share it with the public in case they weren't aware of it. I will be doing a referral to direct staff to come back and report on solutions that we can do."
+  },
+  {
+    "sample_id": "meeting-0064",
+    "query": "last_2500_chars",
+    "start": 111237,
+    "end": 113737,
+    "text": " , you know , compute the most likely . Uh {disfmarker} Tricky . But you {disfmarker} yeah , it 's a good {disfmarker} it 's a {disfmarker} it 's a good thing to put in your thesis proposal .\nGrad A: What 's it ?\nProfessor C: So are you gonna write something for us before you go ?\nGrad A: Yes . Um .\nProfessor C: Oh , you have something .\nGrad A: In the process thereof , or whatever .\nProfessor C: OK . So , what 's {disfmarker} what {disfmarker} when are we gonna meet again ?\nGrad F: When are you leaving ?\nGrad A: Fri - uh ,\nGrad F: Thursday , Friday ?\nGrad A: Thursday 's my last day here .\nGrad D: Fri\nProfessor C: Yeah .\nGrad F: OK .\nGrad A: So {disfmarker} I would suggest as soon as possible . Do you mean by we , the whole ben gang ?\nProfessor C: N no , I didn't mean y just the two of us . We {disfmarker} obviously we can {disfmarker} we can do this . But the question is do you want to , for example , send the little group , uh , a draft of your thesis proposal and get , uh , another session on feedback on that ? Or {disfmarker}\nGrad A: We can do it Th - Thursday again . Yeah .\nGrad E: Fine with me . Should we do the one PM time for Thursday since we were on that before or {disfmarker} ?\nGrad A: Sure .\nGrad E: OK .\nProfessor C: Alright .\nGrad D: Hmm .\nGrad A: Thursday at one ? I can also maybe then sort of run through the , uh {disfmarker} the talk I have to give at EML which highlights all of our work .\nProfessor C: OK .\nGrad A: And we can make some last minute changes on that .\nProfessor C: OK .\nGrad B: You can just give him the abstract that we wrote for the paper .\nProfessor C: That - that 'll tell him exactly what 's going on . Yeah , that {disfmarker} Alright .\nGrad F: Can we do {disfmarker} can we do one - thirty ?\nGrad A: No .\nGrad F: Oh , you already told me no .\nGrad A: But we can do four .\nGrad F: One , OK , it 's fine . I can do one . It 's fine . It 's fine .\nGrad A: One or four . I don't care .\nGrad E: To me this is equal . I don't care .\nGrad A: If it 's equal for all ? What should we do ?\nGrad F: Yeah , it 's fine .\nGrad A: Four ?\nGrad F: Fine . Yeah {disfmarker} no , no , no , uh , I don't care . It 's fine .\nGrad A: It 's equal to all of us , so you can decide one or four .\nGrad B: The pressure 's on you Nancy .\nGrad A: Liz actually said she likes four because it forces the Meeting Recorder people to cut , you know {disfmarker} the discussions short .\nGrad F: OK . OK , four .\nGrad E: Well , if you insist , then .\nGrad F: OK ? OK . I am ."
+  }
+]

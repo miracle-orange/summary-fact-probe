@@ -1,0 +1,33 @@
+﻿sample_id,dataset,generator,large_only_extraction_reference_count,large_only_seen_in_small_fact_summary,large_only_seen_in_large_fact_summary,summary_gained_reference_count,summary_lost_reference_count,gained_reference_ids,lost_reference_ids
+meeting-0078,MeetingBank,s,14,11,8,1,5,[4],"[8, 9, 15, 16, 17]"
+meeting-0078,MeetingBank,l,14,7,5,1,3,[9],"[5, 10, 13]"
+meeting-0290,QMSum-Committee,s,7,2,4,4,2,"[1, 2, 3, 18]","[8, 17]"
+meeting-0290,QMSum-Committee,l,7,4,4,2,9,"[13, 19]","[1, 2, 3, 6, 7, 8, 9, 14, 15]"
+meeting-0337,MeetingBank,s,3,0,3,5,1,"[5, 6, 9, 11, 15]",[12]
+meeting-0337,MeetingBank,l,3,0,2,3,1,"[9, 11, 13]",[12]
+meeting-0378,QMSum-Academic,s,5,0,4,5,2,"[1, 2, 5, 7, 11]","[10, 13]"
+meeting-0378,QMSum-Academic,l,5,5,3,0,6,[],"[2, 3, 4, 9, 10, 11]"
+meeting-0400,QMSum-Committee,s,10,3,2,2,3,"[9, 22]","[5, 6, 13]"
+meeting-0400,QMSum-Committee,l,10,2,7,5,2,"[2, 13, 14, 15, 20]","[6, 22]"
+meeting-0475,QMSum-Academic,s,4,0,2,2,2,"[13, 15]","[8, 27]"
+meeting-0475,QMSum-Academic,l,4,0,4,5,2,"[2, 13, 15, 16, 23]","[8, 11]"
+meeting-0571,ECTSum,s,17,7,11,4,0,"[6, 9, 10, 16]",[]
+meeting-0571,ECTSum,l,17,9,14,5,0,"[4, 5, 6, 15, 16]",[]
+meeting-0795,QMSum-Academic,s,5,1,4,4,1,"[2, 11, 16, 17]",[18]
+meeting-0795,QMSum-Academic,l,5,1,4,3,3,"[11, 15, 16]","[3, 4, 12]"
+meeting-1020,QMSum-Committee,s,4,0,1,2,6,"[4, 17]","[7, 8, 15, 20, 21, 30]"
+meeting-1020,QMSum-Committee,l,4,0,1,5,4,"[4, 9, 15, 20, 31]","[7, 8, 21, 30]"
+meeting-1218,QMSum-Product,s,3,0,2,3,1,"[2, 4, 7]",[3]
+meeting-1218,QMSum-Product,l,3,2,3,1,3,[20],"[3, 4, 11]"
+meeting-1226,ECTSum,s,6,0,3,5,0,"[5, 6, 11, 16, 18]",[]
+meeting-1226,ECTSum,l,6,0,2,2,3,"[11, 14]","[16, 19, 20]"
+meeting-1386,QMSum-Committee,s,4,1,3,4,3,"[2, 3, 6, 10]","[5, 8, 9]"
+meeting-1386,QMSum-Committee,l,4,1,4,4,3,"[3, 6, 9, 11]","[8, 10, 15]"
+meeting-1557,QMSum-Product,s,3,0,3,6,1,"[2, 4, 10, 13, 18, 22]",[12]
+meeting-1557,QMSum-Product,l,3,1,2,2,0,"[2, 12]",[]
+meeting-1696,MeetingBank,s,8,3,7,5,2,"[6, 9, 11, 13, 14]","[2, 16]"
+meeting-1696,MeetingBank,l,8,6,3,1,7,[15],"[2, 3, 4, 6, 10, 11, 14]"
+meeting-1719,MeetingBank,s,7,3,5,3,1,"[5, 10, 11]",[7]
+meeting-1719,MeetingBank,l,7,2,7,5,0,"[4, 5, 7, 8, 10]",[]
+meeting-1776,ECTSum,s,19,3,16,13,2,"[4, 10, 13, 14, 15, 19, 20, 24, 25, 26, 29, 31, 32]","[17, 22]"
+meeting-1776,ECTSum,l,19,3,18,16,3,"[4, 7, 9, 10, 13, 14, 15, 19, 20, 25, 26, 27, 29, 30, 31, 32]","[11, 12, 17]"

@@ -1,0 +1,30 @@
+{
+  "status": "ok",
+  "request_hash": "ce7bdab9f3963beda580b03f936cb383e8c310e332cd7f165e6d48e61bd6c474",
+  "output": {
+    "key_facts": [
+      "The project meeting aims to present work on the remote control design and functionality.",
+      "The remote control should only be used for television and not for other purposes.",
+      "The remote control will use infrared communication to connect with the television set.",
+      "A field programmable gate array (FPGA) is proposed for the remote control's functionalities.",
+      "The remote control will have embedded batteries and a charger for recharging.",
+      "The user interface design focuses on simplicity and ease of use with a screen-based navigation system.",
+      "The remote control will have a speech recognition feature for limited vocabulary, such as channel numbers and volume control.",
+      "The remote control should support multiple languages for teletext subtitles.",
+      "The team discussed the possibility of future internet access via the television set.",
+      "The team decided to focus on the remote control design without including lighting adaptive options.",
+      "The team agreed to anticipate future changes in the television system, such as the shift to digital.",
+      "The team will have a lunch break and reconvene later."
+    ]
+  },
+  "metadata": {
+    "model": "small",
+    "finish_reason": "stop",
+    "usage": {
+      "prompt_tokens": 6684,
+      "total_tokens": 6894,
+      "completion_tokens": 210,
+      "prompt_tokens_details": null
+    }
+  }
+}

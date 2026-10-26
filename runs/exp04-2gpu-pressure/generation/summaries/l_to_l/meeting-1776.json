@@ -1,0 +1,29 @@
+{
+  "status": "ok",
+  "request_hash": "cb75d26baee74805f0355732065d15e32955f8520b113b6f73b219838422c238",
+  "output": {
+    "summary": "NOV reported first-quarter 2021 revenues of $1.25 billion and a net loss of $115 million, with results impacted by severe winter weather in Texas and Oklahoma, which shut down 63 facilities for a week or more, along with new pandemic control measures disrupting supply chains for raw materials like fiberglass and resin. Poor execution on two projects also added to the costs. Despite these challenges, results slightly exceeded the March forecast due to cost reductions and early signs of recovery in the oil field, particularly in Wellbore Technologies and North America. North American oilfield activity showed recovery during the quarter, with March revenues rising sharply from January for certain businesses, while international markets began showing early signs of recovery as well. Consolidated revenue fell 6% sequentially due to the backlog damage from 2020, and EBITDA reached breakeven, prompting further cost reductions. Oil prices went negative in April 2020, and the U.S. rig count hit its lowest level since records began in World War II in August 2020, with frac fleet utilization dropping to single digits. Over 100 North American oil and gas companies filed for Chapter 11 bankruptcy protection by year-end 2020, with combined debt exceeding $100 billion. Without a few large pre-lockdown projects, FIDs for offshore projects in 2020 would have been the lowest since 1960. Average first-quarter 2021 rig counts were down 46% for North America land, 36% for international land, and 31% for offshore compared to the previous year. NOV’s oilfield backlogs fell throughout 2020, with the first-quarter annualized revenue run rate down 45% from five quarters ago. Idled equipment became a significant competitor as utilization collapsed and service companies struggled to stay operational. Day rates in 2020 reached desperate levels as companies discounted to keep assets and crews working. Since 2014, NOV has cut costs by $12.6 billion, including $2 billion annually in fixed cost reductions. During Q1 2021, the company used $27 million in cash, with capital expenditures totaling $49 million. It ended the quarter with $1.61 billion in cash and $1.85 billion in gross debt, resulting in net debt of $244 million. NOV redeemed $183 million in senior notes due in December 2022, pushing its next bond maturity to December 2029, and interest expense is expected to decline roughly $1 million per quarter. The Wellbore Technologies segment generated $413 million in revenue, an 11% sequential increase, driven by cost cutting, improved absorption, a more favorable sales mix, and better pricing. The ReedHycalog drill bit business saw 20% revenue growth due to market share gains and improved pricing. The Downhole Tool business experienced a 13% sequential improvement in revenue, with operators seeking tools to reduce trips and maximize hydraulic flow. The WellSite Services business recorded a 16% sequential revenue increase, primarily from solid control operations, as it regained market share from competitors that exited the market. M/D Totco achieved low single-digit revenue growth, with record rental service revenue from eVolve wire drill pipe optimization services. The Tuboscope pipe coating and inspection business posted a 10% sequential revenue increase, with strong demand in the U.S. The Grant Prideco drill pipe business had a high single-digit sequential revenue increase, with a book-to-bill ratio of 104%. The Completion & Production Solutions segment generated $439 million in revenue, a 20% sequential decrease, but its book-to-bill ratio rose to 127%, the first above 100% since Q4 2019. The Fiber Glass Systems business saw a 25% sequential revenue decline due to absorption challenges and supply chain issues, though the outlook is improving with a significant pickup in orders in March. The Intervention & Stimulation Equipment business experienced a mid-single-digit sequential decline but maintained a book-to-bill ratio greater than 1 for the second consecutive quarter. Cementing equipment orders doubled from the second half of 2020, and XL Systems conductor pipe business faced a sharp sequential revenue decline but achieved a 143% book-to-bill ratio. The Subsea flexible pipe business saw a low double-digit sequential revenue decline with outsized decremental margins, though customer dialogue and order outlook have improved, especially in Brazil. The Rig Technologies segment generated $431 million in revenue, a 1% sequential decrease, with a book-to-bill ratio of 59%. Orders for rig capital equipment remained weak, though quotation levels increased 25% sequentially. NOV began manufacturing the first two rigs at its new plant in Saudi Arabia, with delivery expected by year-end 2021. The plant has a commitment for 50 drilling rigs over the next 10 years and $1.8 billion in backlog. The renewables business booked an order for a European wind turbine installation vessel, and NOV expects modest offshore wind order intake in Q1 but is pursuing over $400 million in potential projects before year-end."
+  },
+  "metadata": {
+    "attempts": 1,
+    "input_tokens_local": 7833,
+    "context_limit": 65536,
+    "request_parameters": {
+      "temperature": 0.7,
+      "top_p": 0.8,
+      "top_k": 20,
+      "min_p": 0.0,
+      "repetition_penalty": 1.05,
+      "seed": 42,
+      "max_tokens": 4096
+    },
+    "model": "large",
+    "finish_reason": "stop",
+    "usage": {
+      "prompt_tokens": 7833,
+      "total_tokens": 8950,
+      "completion_tokens": 1117,
+      "prompt_tokens_details": null
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "status": "ok",
+  "request_hash": "2abd64fb05dbb2202e1f907c02cb82ab580f1470d50cb5bf23f60cde6d012380",
+  "output": {
+    "key_facts": [
+      "Grad F presented a sheet containing revised semantic specifications and construction formalisms.",
+      "The sheet includes two sides, with one side focusing on semantic specifications and the other on construction formalisms.",
+      "There is a distinction between form and meaning types in the construction formalism.",
+      "The term 'semantic constraints' was discussed as an alternative to 'constraints', with some reservations due to potential ambiguity.",
+      "The concept of 'designates' was introduced as a way to identify the semantic head of a phrase.",
+      "The discussion included the idea of having a notation for information structure, including focus and topic.",
+      "The group agreed that the current formalism should be used as a basis for further development.",
+      "The group decided to focus on defining a set of constructions for the tourist domain and child language learning before tackling more general issues.",
+      "Grad A mentioned the possibility of using probabilistic relational models (PRMs) in conjunction with Bayes-nets for construal tasks.",
+      "Grad A proposed sending a draft thesis proposal to the group for feedback before leaving.",
+      "The group planned to meet again on Thursday at 1 PM or 4 PM, with the final decision left to Grad A."
+    ]
+  },
+  "metadata": {
+    "attempts": 1,
+    "input_tokens_local": 30558,
+    "context_limit": 65536,
+    "request_parameters": {
+      "temperature": 0.7,
+      "top_p": 0.8,
+      "top_k": 20,
+      "min_p": 0.0,
+      "repetition_penalty": 1.05,
+      "presence_penalty": 1.0,
+      "seed": 42,
+      "max_tokens": 8192
+    },
+    "model": "small",
+    "finish_reason": "stop",
+    "usage": {
+      "prompt_tokens": 30558,
+      "total_tokens": 30800,
+      "completion_tokens": 242,
+      "prompt_tokens_details": null
+    }
+  }
+}

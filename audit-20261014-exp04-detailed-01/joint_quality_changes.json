@@ -1,0 +1,50 @@
+[
+  {
+    "contrast": "s_to_s - direct_s",
+    "n": 30,
+    "coverage_improved_without_fidelity_loss": 13,
+    "coverage_improved_with_fidelity_loss": 9,
+    "pareto_improved": 9,
+    "pareto_worsened": 6
+  },
+  {
+    "contrast": "l_to_s - direct_s",
+    "n": 30,
+    "coverage_improved_without_fidelity_loss": 13,
+    "coverage_improved_with_fidelity_loss": 8,
+    "pareto_improved": 9,
+    "pareto_worsened": 9
+  },
+  {
+    "contrast": "s_to_l - direct_l",
+    "n": 30,
+    "coverage_improved_without_fidelity_loss": 13,
+    "coverage_improved_with_fidelity_loss": 9,
+    "pareto_improved": 9,
+    "pareto_worsened": 7
+  },
+  {
+    "contrast": "l_to_l - direct_l",
+    "n": 30,
+    "coverage_improved_without_fidelity_loss": 9,
+    "coverage_improved_with_fidelity_loss": 9,
+    "pareto_improved": 6,
+    "pareto_worsened": 9
+  },
+  {
+    "contrast": "gold_to_s - direct_s",
+    "n": 30,
+    "coverage_improved_without_fidelity_loss": 18,
+    "coverage_improved_with_fidelity_loss": 9,
+    "pareto_improved": 18,
+    "pareto_worsened": 2
+  },
+  {
+    "contrast": "gold_to_l - direct_l",
+    "n": 30,
+    "coverage_improved_without_fidelity_loss": 20,
+    "coverage_improved_with_fidelity_loss": 7,
+    "pareto_improved": 17,
+    "pareto_worsened": 1
+  }
+]

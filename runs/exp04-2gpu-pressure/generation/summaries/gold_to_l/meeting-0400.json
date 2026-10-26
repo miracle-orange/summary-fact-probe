@@ -1,0 +1,29 @@
+{
+  "status": "ok",
+  "request_hash": "051f6243dd80d8387c557f47a0dc635360fb91827a88122593cf258351937482",
+  "output": {
+    "summary": "The Children, Young People and Education Committee discussed the impact of Brexit on higher and further education in Wales with Cabinet Secretary for Education, Kirsty Williams AM, and Minister for Welsh Language and Lifelong Learning, Eluned Morgan AM, along with their officials. The Welsh Government has been collaborating with the higher education sector through the Higher Education Brexit Working Group since September 2016, and officials have visited institutions to assess their preparedness for a 'no deal' scenario. The UK Treasury has guaranteed funding for higher education activities until December 2020 in a 'no deal' scenario, but beyond that, Wales would likely lose 50% of current Horizon 2020 funding due to reverting to third-country status. The Government has ensured support for EU students for the next academic year and is advocating for reciprocal arrangements with the EU to preserve student and faculty rights. A significant drop in EU student applications to Welsh universities has been observed, attributed to the removal of the tuition fee grant. In contrast, further education (FE) colleges have fewer EU students and staff (around 71 EU staff), but face risks in areas like ESF funding and apprenticeships, particularly in sectors such as farming, health and social care, construction, manufacturing, and hospitality. The Welsh Government has allocated £10 million to regional skills partnerships to align FE courses with employer needs and has supported initiatives like the Global Wales program to boost international recruitment, especially in the US and Vietnam. Officials are also working to secure long-term funding for apprenticeships and to ensure the Welsh Government is prepared for the economic and skills-related consequences of Brexit. Coordination is ongoing through the European transition team, which meets fortnightly and engages with Westminster and the Department for Exiting the European Union."
+  },
+  "metadata": {
+    "attempts": 1,
+    "input_tokens_local": 11387,
+    "context_limit": 65536,
+    "request_parameters": {
+      "temperature": 0.7,
+      "top_p": 0.8,
+      "top_k": 20,
+      "min_p": 0.0,
+      "repetition_penalty": 1.05,
+      "seed": 42,
+      "max_tokens": 4096
+    },
+    "model": "large",
+    "finish_reason": "stop",
+    "usage": {
+      "prompt_tokens": 11387,
+      "total_tokens": 11752,
+      "completion_tokens": 365,
+      "prompt_tokens_details": null
+    }
+  }
+}

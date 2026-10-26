@@ -1,0 +1,29 @@
+{
+  "status": "ok",
+  "request_hash": "46836ea01c3075688d407e9e9ce79654875a2ef10fe8ead4b1fc83d852491236",
+  "output": {
+    "summary": "The Denver City Council convened for a public hearing on Council Bill 1089, which aims to extend the minimum affordability period for projects receiving city subsidies from 20 years to 60 years. Councilwoman Kniech proposed an amendment to delay the effective date of this change to February 1, 2019, to allow for stakeholder dialogue on rules and regulations while providing certainty for tax credit applications due in January and February. The amendment was passed 12-0, and the bill was ordered published as amended 11-1. Councilwoman Ortega's motion to postpone the final consideration of the bill to February 19, 2019, failed with a vote of 3 ayes and 9 nays. Various stakeholders, including nonprofit developers, for-profit developers, and community representatives, voiced concerns about the feasibility of implementing the 60-year affordability period, emphasizing the need for adequate funding, rehabilitation, and regulatory clarity. The council also addressed other bills, including Council Bill 975, which was ordered published."
+  },
+  "metadata": {
+    "attempts": 1,
+    "input_tokens_local": 31998,
+    "context_limit": 65536,
+    "request_parameters": {
+      "temperature": 0.7,
+      "top_p": 0.8,
+      "top_k": 20,
+      "min_p": 0.0,
+      "repetition_penalty": 1.05,
+      "seed": 42,
+      "max_tokens": 4096
+    },
+    "model": "small",
+    "finish_reason": "stop",
+    "usage": {
+      "prompt_tokens": 31998,
+      "total_tokens": 32224,
+      "completion_tokens": 226,
+      "prompt_tokens_details": null
+    }
+  }
+}

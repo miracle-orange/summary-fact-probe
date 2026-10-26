@@ -1,0 +1,65 @@
+{
+  "status": "ok",
+  "request_hash": "5bd3924848889d809d56c645aec7f56678a7aa10d99396aaf6dd5ff9315e0d2b",
+  "output": {
+    "key_facts": [
+      "The Canadian Perinatal Mental Health Collaborative is calling upon the House of Commons to create a national perinatal mental health strategy.",
+      "The Petitioners in Mr. Johns' riding of CourtenayAlberni are calling on the government to uphold Bill C-68 and species-at-risk legislation, protect oceans, ban expansion of open-net finfish aquaculture, and invest in land-based, closed-containment finfish aquaculture.",
+      "The petitioners in Mr. Manly's riding of NanaimoLadysmith are calling on the House of Commons to commit to upholding the UN Declaration on the Rights of Indigenous Peoples and the calls to action from the Truth and Reconciliation Commission of Canada by halting the Coastal GasLink project on Wet'suwet'en territory.",
+      "The petitioners in Ms. Ratansi's riding of Don Valley East are asking that the Government of Canada not provide any financial assistance to Canadian airlines until they provide full refunds for flights canceled due to COVID-19.",
+      "The Prime Minister stated that there is no tolerance for tax evasion and tax avoidance, and that the government is putting in place measures to carefully assess the tax structures of businesses before loaning money to them.",
+      "The government has announced a one-time special payment of up to $500 for eligible seniors to help them with their financial security during the pandemic.",
+      "The government has allocated $77.5 million for an emergency processing fund, $50 million for the surplus food program, and $125 million through AgriRecovery to support the beef and pork sectors.",
+      "The government has announced a $350 million support package for charities and non-profits to ensure they continue their work during the pandemic.",
+      "The government has denied that it sent a memo to Canada Revenue Agency employees instructing them to ignore potential fraud cases when distributing CERB payments.",
+      "The government has confirmed that it will not extend the current border restrictions between the U.S. and Canada, but is in close conversation with American authorities about next steps.",
+      "The government has committed to working with provinces to find a strategy to deliver life-saving medications like Trikafta to Canadians.",
+      "The government has acknowledged that there are delays in the procurement of personal protective equipment (PPE) and that some provinces have used expired or faulty PPE.",
+      "The government has announced a $62.5 million aid package for the fish and seafood sector, but noted that more needs to be done to directly support seafood harvesters.",
+      "The government has stated that it is looking into the breach of the Statistics Act and that appropriate actions will be taken to ensure such breaches do not occur again.",
+      "The government has announced liquidity measures for the oil and gas sector, including support for small and medium-sized businesses, and plans to further support larger players.",
+      "The government has committed to bringing forward legislation to strengthen gun control in Canada, including a buyback program.",
+      "The government has announced a $1.7 billion investment to clean up orphan wells and has provided $500 million to TC Energy for the Coastal GasLink pipeline.",
+      "The government has stated that it will continue to work with the provinces to provide essential services with PPE and that its primary focus is on frontline healthcare workers.",
+      "The government has stated that it is considering imposing conditions on executive compensation for the Large Employer Emergency Financing Facility.",
+      "The government has stated that it is working with the provinces to address the challenges faced by the dairy sector and is seeking to increase loan capacity for dairy processors.",
+      "The government has acknowledged that there are gaps in the current programs for Aboriginal businesses and is reviewing eligibility criteria for financial assistance.",
+      "The government has stated that it is working on a national pharmacare plan to ensure all Canadians can afford the medication they need.",
+      "The government has announced that it will provide a one-time, tax-free payment of $300 for seniors eligible for OAS and an additional $200 for those eligible for GIS.",
+      "The government has stated that it is targeting support to some of the most critical challenges facing the food supply chain, including the dairy sector.",
+      "The government has confirmed that the $500 million for the business credit availability program includes support for companies in default to financial institutions.",
+      "The government has stated that it is working with the provinces to ensure that seniors homes meet minimum standards and that it is prioritizing collaboration with provincial and territorial partners.",
+      "The government has announced that it will continue to work with the provinces to support the tourism sector and has allocated funds for initiatives to help seniors get grocery deliveries and stay connected.",
+      "The government has stated that it is working with the provinces to ensure that seniors homes receive necessary support and that it is collaborating with experts to establish stronger standards for long-term care.",
+      "The government has stated that it is focusing on ensuring that the CERB is available for seasonal workers and people who have run out of their fishery EI.",
+      "The government has announced that it will continue to work with the provinces to support the agriculture sector, including the dairy and horticulture sectors.",
+      "The government has stated that it is working with the provinces to ensure that the CERB is accessible to those who need it, including those who may have earned over $1,000 in a reporting period.",
+      "The government has stated that it is working with the provinces to support the tourism sector and is looking to expand initiatives to help the sector recover.",
+      "The government has stated that it is working with the provinces to ensure that the CERB is accessible to those who need it, including those who may have earned over $1,000 in a reporting period.",
+      "The government has stated that it is working with the provinces to support the tourism sector and is looking to expand initiatives to help the sector recover."
+    ]
+  },
+  "metadata": {
+    "attempts": 1,
+    "input_tokens_local": 22014,
+    "context_limit": 65536,
+    "request_parameters": {
+      "temperature": 0.7,
+      "top_p": 0.8,
+      "top_k": 20,
+      "min_p": 0.0,
+      "repetition_penalty": 1.05,
+      "presence_penalty": 1.0,
+      "seed": 42,
+      "max_tokens": 8192
+    },
+    "model": "small",
+    "finish_reason": "stop",
+    "usage": {
+      "prompt_tokens": 22014,
+      "total_tokens": 23201,
+      "completion_tokens": 1187,
+      "prompt_tokens_details": null
+    }
+  }
+}

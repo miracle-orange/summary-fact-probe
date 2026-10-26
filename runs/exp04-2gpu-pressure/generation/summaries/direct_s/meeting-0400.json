@@ -1,0 +1,29 @@
+{
+  "status": "ok",
+  "request_hash": "e524fcd869190f93cff0cee783cd59d9f3d99df94d5511b8e5915b5e38f9ea60",
+  "output": {
+    "summary": "The conversation centers on the Welsh Government's preparedness and response to the impact of Brexit on higher and further education in Wales. The discussion includes the effects of Brexit on student recruitment, particularly the decline in EU student numbers due to changes in tuition fee grants, and the challenges faced by both higher education (HE) and further education (FE) sectors. Officials from the Welsh Government emphasize the importance of maintaining EU funding programs, such as the European Social Fund (ESF), and the need for a formal 'no deal' contingency plan. The government is working with educational institutions to assess risks and develop strategies, including regional skills partnerships and initiatives like the Global Wales program to enhance international recruitment. Concerns are raised about the lack of multi-year funding commitments and the potential impact of a 'no deal' scenario on funding, staff, and student mobility. The Welsh Government also discusses its efforts to influence UK immigration policies to support international and EU students, and the importance of collaboration across departments to address the broader economic implications of Brexit."
+  },
+  "metadata": {
+    "attempts": 1,
+    "input_tokens_local": 10776,
+    "context_limit": 65536,
+    "request_parameters": {
+      "temperature": 0.7,
+      "top_p": 0.8,
+      "top_k": 20,
+      "min_p": 0.0,
+      "repetition_penalty": 1.05,
+      "seed": 42,
+      "max_tokens": 4096
+    },
+    "model": "small",
+    "finish_reason": "stop",
+    "usage": {
+      "prompt_tokens": 10776,
+      "total_tokens": 10986,
+      "completion_tokens": 210,
+      "prompt_tokens_details": null
+    }
+  }
+}

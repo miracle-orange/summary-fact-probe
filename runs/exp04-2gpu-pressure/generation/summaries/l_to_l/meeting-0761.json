@@ -1,0 +1,29 @@
+{
+  "status": "ok",
+  "request_hash": "69904bbeb5f94330778010eb7a40ef660ebf8fbe8c0975bfa7f1034ac8d4d6be",
+  "output": {
+    "summary": "During the sixth meeting of the House of Commons Special Committee on the COVID-19 Pandemic, members presented various petitions and raised questions concerning the government’s response to the crisis. Key topics included the need for a national perinatal mental health strategy, access to life-saving drugs like Trikafta for cystic fibrosis, the shortage of family doctors in rural areas, and criticisms of firearms legislation, particularly the ban on certain rifles used by farmers. Petitions also addressed environmental concerns related to open-net salmon farming in Nova Scotia and the impact of the Coastal GasLink project on Wet'suwet'en territory, urging for adherence to the UN Declaration on the Rights of Indigenous Peoples. Members raised issues about the handling of pandemic benefits, including allegations that federal workers were instructed to overlook potential fraud in CERB applications and the need for clarity on repayment thresholds. Concerns about high interchange fees charged by credit card companies and the adequacy of PPE procurement and distribution were also discussed. The lobster industry and small businesses in the agri-food and tourism sectors expressed distress over financial losses and limited access to government support programs. Questions were also posed regarding the government’s transparency in decision-making, such as the renovation of the Harrington Cottage and the leak of economic data. Additionally, there were calls for equitable support for the forestry and oil and gas sectors, as well as the implementation of universal pharmacare and improved conditions in long-term care facilities. The government emphasized its focus on providing timely support to Canadians, with assurances that retroactive actions would address fraud and inefficiencies. Ministers acknowledged the challenges faced by various sectors and pledged continued collaboration with provinces and stakeholders to mitigate the pandemic's impact."
+  },
+  "metadata": {
+    "attempts": 1,
+    "input_tokens_local": 22838,
+    "context_limit": 65536,
+    "request_parameters": {
+      "temperature": 0.7,
+      "top_p": 0.8,
+      "top_k": 20,
+      "min_p": 0.0,
+      "repetition_penalty": 1.05,
+      "seed": 42,
+      "max_tokens": 4096
+    },
+    "model": "large",
+    "finish_reason": "stop",
+    "usage": {
+      "prompt_tokens": 22838,
+      "total_tokens": 23181,
+      "completion_tokens": 343,
+      "prompt_tokens_details": null
+    }
+  }
+}

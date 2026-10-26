@@ -1,0 +1,29 @@
+{
+  "status": "ok",
+  "request_hash": "051f6243dd80d8387c557f47a0dc635360fb91827a88122593cf258351937482",
+  "output": {
+    "summary": "The Welsh Government, represented by Cabinet Secretary Kirsty Williams and Minister for Welsh Language and Lifelong Learning Eluned Morgan, discussed the impact of Brexit on higher and further education in Wales. The Higher Education Brexit working group, formed in September 2016, has been assessing potential impacts, and the Welsh Government has been collaborating with institutions to ensure preparedness for a 'no deal' Brexit. The UK Treasury has guaranteed funding for higher education activity until December 2020, even in a 'no deal' scenario. However, under a 'no deal' scenario, Wales would likely lose access to about 50% of current Horizon 2020 activity due to reverting to third-country status. The Welsh Government has guaranteed student support for EU students for the upcoming academic year but cannot commit to further guarantees without clarity from Westminster. A significant drop in EU student applications has been observed in Wales, attributed to the removal of the tuition fee grant for European students. The Welsh Government has allocated additional funding to the Higher Education Funding Council for Wales (HEFCW) to address demographic changes and EU transition. The Welsh Government is also supporting the Global Wales initiative, which aims to boost international student recruitment, particularly targeting the United States and Vietnam. For further education, the Welsh Government highlighted concerns about the impact of Brexit on European Social Fund (ESF) funding and apprenticeships, noting that approximately £15 million per year is allocated to the Welsh further education sector for apprenticeships. The European transition team within the Welsh Government meets fortnightly to coordinate Brexit preparations across all departments. The Welsh Government is working to ensure that the FE sector maintains learning opportunities under EU funding and is collaborating with regional skills partnerships to align training with employer needs. The Welsh Government has committed £5 million to HEFCW to support postgraduate studies and mitigate the freeze in tuition fees. The Welsh Government is on track to reach its target of creating 100,000 apprenticeships and is advocating for the removal of international students from UK immigration targets. The Government is also working to secure reciprocal arrangements for higher education institutions to avoid charging EU students international tuition fees in the event of a 'no deal' Brexit."
+  },
+  "metadata": {
+    "attempts": 1,
+    "input_tokens_local": 11387,
+    "context_limit": 65536,
+    "request_parameters": {
+      "temperature": 0.7,
+      "top_p": 0.8,
+      "top_k": 20,
+      "min_p": 0.0,
+      "repetition_penalty": 1.05,
+      "seed": 42,
+      "max_tokens": 4096
+    },
+    "model": "small",
+    "finish_reason": "stop",
+    "usage": {
+      "prompt_tokens": 11387,
+      "total_tokens": 11837,
+      "completion_tokens": 450,
+      "prompt_tokens_details": null
+    }
+  }
+}

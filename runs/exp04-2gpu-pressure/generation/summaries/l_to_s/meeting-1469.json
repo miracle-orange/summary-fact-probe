@@ -1,0 +1,29 @@
+{
+  "status": "ok",
+  "request_hash": "7c50d27711af35f812cdcad1e436127458b141bc1f1c030a31c2be098e5cdc66",
+  "output": {
+    "summary": "The seventh meeting of the Special Committee on the COVID-19 Pandemic featured discussions on various aspects of the pandemic's impact and government responses. Topics included petitions for banning animal testing in cosmetics, improving safety measures for children on boats, addressing fraud in benefit programs, and supporting small businesses and seasonal industries. The Prime Minister, Justin Trudeau, emphasized the government's efforts to provide financial aid and ensure the integrity of the systems, while also highlighting the importance of provincial jurisdiction in healthcare. Concerns were raised about the adequacy of support for vulnerable groups such as seniors and individuals with disabilities, with some members calling for more comprehensive and long-term solutions. The conversation also touched on issues like the national debt, the carbon tax's impact on farmers, and the handling of the Auditor General's funding. Overall, the session highlighted the ongoing challenges and the government's multifaceted approach to managing the crisis."
+  },
+  "metadata": {
+    "attempts": 1,
+    "input_tokens_local": 31062,
+    "context_limit": 65536,
+    "request_parameters": {
+      "temperature": 0.7,
+      "top_p": 0.8,
+      "top_k": 20,
+      "min_p": 0.0,
+      "repetition_penalty": 1.05,
+      "seed": 42,
+      "max_tokens": 4096
+    },
+    "model": "small",
+    "finish_reason": "stop",
+    "usage": {
+      "prompt_tokens": 31062,
+      "total_tokens": 31249,
+      "completion_tokens": 187,
+      "prompt_tokens_details": null
+    }
+  }
+}

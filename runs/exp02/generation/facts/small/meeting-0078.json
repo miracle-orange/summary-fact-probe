@@ -1,0 +1,37 @@
+{
+  "status": "ok",
+  "request_hash": "c9679d3cd99116534a35ae8d770cea9857a53b881826e194d2cbb11635920565",
+  "output": {
+    "key_facts": [
+      "A call for review by the City Council requires two council members to initiate the appeal and state a reason for the appeal.",
+      "The most recent call for review involved a planning board decision that was approved unanimously, and it was called for review by one council member, resulting in a 4 to 1 vote in favor of the planning board decision.",
+      "Homeowners spent $28,000 on experts and preparation for the appeal process and an additional $4,500 to prepare for the council review.",
+      "The business community expressed concerns about the call for review process causing unnecessary delays and financial burdens, with one speaker mentioning that businesses have spent millions due to the process.",
+      "There were six speakers on the item, including representatives from the Chamber of Commerce, residents, and community groups.",
+      "A proposed resolution to revise the call for review process received a 3 to 2 vote in favor.",
+      "The call for review process was criticized for allowing individuals to initiate appeals without providing a stated reason, potentially leading to misuse.",
+      "The process was also noted for its financial burden on the public, as it requires a monetary deposit, unlike the council members' ability to initiate appeals without such a cost.",
+      "The planning board decision on the cell phone towers was cited as an example where the council's involvement was necessary due to state regulations, and the council provided direction without needing to call for review.",
+      "The call for review process was supported by some as a way to ensure due diligence and provide a second opinion, while others argued it should be accessible to all citizens without requiring multiple council members' support.",
+      "The resolution to revise the call for review process was proposed by Council Member Ashcroft and supported by some council members, including Michael McDonough.",
+      "The process was highlighted as being used for projects with high public interest or broader community impact, with some council members noting that the number of calls for review has increased in recent years.",
+      "The process was also mentioned as being used for projects that had been approved by the planning board but faced opposition from residents or community groups.",
+      "The call for review process was described as being time-consuming and costly for both the public and the city staff, with some council members expressing concern about the burden on the city's resources.",
+      "The resolution to revise the call for review process was not universally supported, with some council members arguing that it could lead to potential bias or prejudice in the review process.",
+      "The resolution to revise the call for review process was not implemented immediately, as it would require a change to the municipal code and could take 6 to 10 months to implement.",
+      "The call for review process was also mentioned as being used for the assisted living development, which was rejected by the council.",
+      "The call for review process was criticized for allowing individuals to initiate appeals without providing a stated reason, potentially leading to misuse.",
+      "The call for review process was supported by some as a way to ensure due diligence and provide a second opinion, while others argued it should be accessible to all citizens without requiring multiple council members' support."
+    ]
+  },
+  "metadata": {
+    "model": "small",
+    "finish_reason": "stop",
+    "usage": {
+      "prompt_tokens": 8545,
+      "total_tokens": 9170,
+      "completion_tokens": 625,
+      "prompt_tokens_details": null
+    }
+  }
+}

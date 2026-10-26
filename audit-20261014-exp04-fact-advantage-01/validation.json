@@ -1,0 +1,19 @@
+{
+  "original_metrics_verified": 300,
+  "original_cache_digests_verified": 1140,
+  "selection_uses_summary_scores": false,
+  "primary_n": 16,
+  "strong_n": 8,
+  "category_counts": {
+    "small_dominant": 4,
+    "coverage_support_tradeoff": 6,
+    "large_coverage_dominant": 16,
+    "equal_coverage_higher_support": 3,
+    "metric_tie": 1
+  },
+  "input_sha256": {
+    "fact_metrics_recomputed.csv": "ef259d97b4e34ccf97095f0f99c5a51c5fe349c0d629640a512848a023395cc1",
+    "summary_metrics_recomputed.csv": "355096e7d30c436d0fd4b517e2394c833ac670d460459571f31029d8e7af931f",
+    "sample_evidence.json": "a3bad51a72bd92313ac3872427a06f56a38a8229373d284f329636bfd251b9d0"
+  }
+}

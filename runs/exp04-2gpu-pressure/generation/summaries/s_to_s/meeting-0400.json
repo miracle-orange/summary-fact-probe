@@ -1,0 +1,29 @@
+{
+  "status": "ok",
+  "request_hash": "a772ae68f9c52a58687952c73502237a7f05c91eb3f9f9af79f2b2e7b67aef4a",
+  "output": {
+    "summary": "The Welsh Government, represented by Cabinet Secretary Kirsty Williams and Minister Eluned Morgan, discussed the impact of Brexit on higher and further education (HE and FE) in Wales. They emphasized the importance of working closely with HE and FE institutions to assess and prepare for potential Brexit-related challenges, particularly in the event of a 'no deal' scenario. The conversation highlighted the concerns surrounding the loss of multi-year European funding, which affects planning and stability for educational institutions. The Welsh Government has been collaborating with institutions since September 2016, and officials have been visiting individual colleges and universities to evaluate their preparedness. The removal of the tuition fee grant for EU students has reportedly led to a decline in EU student applications, and the Welsh Government is working to address this by promoting the strengths of Welsh HE institutions and supporting international recruitment through initiatives like the Global Wales programme. Concerns were raised about the potential impact of Brexit on sectors such as farming, health and social care, construction, and hospitality and tourism, with FE institutions being particularly affected due to their reliance on European Social Fund (ESF) funding and apprenticeships. The Welsh Government has allocated £3.5 million to support international recruitment and marketing for HE institutions and has made additional funding available to HEFCW to mitigate the freeze in tuition fees and support postgraduate studies. The European transition team coordinates efforts across departments to prepare for Brexit, and the Welsh Government continues to push for a deal with the EU to avoid the worst-case scenario. There is a call for transparency and clarity on future funding commitments, particularly for EU students and the FE sector, as the Welsh Government seeks to ensure the sustainability of the education system amid Brexit uncertainties."
+  },
+  "metadata": {
+    "attempts": 1,
+    "input_tokens_local": 11321,
+    "context_limit": 65536,
+    "request_parameters": {
+      "temperature": 0.7,
+      "top_p": 0.8,
+      "top_k": 20,
+      "min_p": 0.0,
+      "repetition_penalty": 1.05,
+      "seed": 42,
+      "max_tokens": 4096
+    },
+    "model": "small",
+    "finish_reason": "stop",
+    "usage": {
+      "prompt_tokens": 11321,
+      "total_tokens": 11665,
+      "completion_tokens": 344,
+      "prompt_tokens_details": null
+    }
+  }
+}

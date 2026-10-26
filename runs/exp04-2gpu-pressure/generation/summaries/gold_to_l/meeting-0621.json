@@ -1,0 +1,29 @@
+{
+  "status": "ok",
+  "request_hash": "8946666dfba9233cb228f944ae9d61e690ac7a10d89023c6d73383543c2cb54c",
+  "output": {
+    "summary": "Council Bill 245 proposes to rezone the property at 2423-2490 South University Boulevard in Denver from General Urban Mixed Use (G-MX-3) to General Urban Residential Mixed Use (G-RX-5), allowing for five-story residential mixed-use buildings with a maximum height of 70 feet. The applicant, Node Colorado, has acquired most of the block, enabling a unified development plan. The rezoning is supported by the Denver Planning Board, which voted 9 to 0, and by the Community Planning and Development (CPD) staff, who concluded the proposal aligns with the 2008 University Park Neighborhood Plan and Blueprint Denver. The neighborhood, represented by the University Park Community Council, opposed the rezoning 11 to 0, citing concerns about traffic, density, and compatibility with the existing single-family residential context. A valid petition of protest necessitated a supermajority of ten affirmative votes for the bill to pass, and it ultimately passed with 13 affirmative votes. The developer emphasized efforts to mitigate neighborhood concerns, including underground parking, traffic studies, and collaboration with residents. Opponents argued that the 2010 zoning already provided a suitable framework for development and that conditions have not changed enough to justify rezoning. Supporters, including the University of Denver and Councilman Charlie Brown, highlighted the importance of promoting walkable, mixed-use development along an enhanced transit corridor. The proposed development aims to include approximately 230 to 240 rental units and 25,000 square feet of retail space, with a focus on pedestrian-friendly design and community engagement."
+  },
+  "metadata": {
+    "attempts": 1,
+    "input_tokens_local": 31419,
+    "context_limit": 65536,
+    "request_parameters": {
+      "temperature": 0.7,
+      "top_p": 0.8,
+      "top_k": 20,
+      "min_p": 0.0,
+      "repetition_penalty": 1.05,
+      "seed": 42,
+      "max_tokens": 4096
+    },
+    "model": "large",
+    "finish_reason": "stop",
+    "usage": {
+      "prompt_tokens": 31419,
+      "total_tokens": 31763,
+      "completion_tokens": 344,
+      "prompt_tokens_details": null
+    }
+  }
+}

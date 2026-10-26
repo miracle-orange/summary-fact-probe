@@ -1,0 +1,28 @@
+{
+  "status": "ok",
+  "request_hash": "f8ef7668513039f7bb53baa1045f976a38d61e9277b23de178f10027e7dfaa13",
+  "output": {
+    "key_facts": [
+      "Council Bill 1089 proposes extending the minimum affordability period for affordable housing projects from 20 to 60 years.",
+      "The amendment to Council Bill 1089 delays the effective date of the 60-year affordability period to February 1st, 2019, allowing time for stakeholder input and rulemaking.",
+      "There are approximately 20,000 affordable housing units in Denver's portfolio, with over 5,000 funded by the city.",
+      "About 2,000 units in the city's portfolio are at risk of expiring over the next five years.",
+      "Councilwoman Kennish moved to delay the final consideration of Council Bill 1089 until February 19, 2019, which was seconded but ultimately failed.",
+      "Council Bill 975, which involves amendments to the inclusionary housing ordinance, was ordered published after a vote.",
+      "The council adjourned the meeting with several required public hearings scheduled for upcoming dates."
+    ]
+  },
+  "metadata": {
+    "attempts": 1,
+    "input_tokens_local": 31478,
+    "context_limit": 65536,
+    "model": "small",
+    "finish_reason": "stop",
+    "usage": {
+      "prompt_tokens": 31478,
+      "total_tokens": 31698,
+      "completion_tokens": 220,
+      "prompt_tokens_details": null
+    }
+  }
+}

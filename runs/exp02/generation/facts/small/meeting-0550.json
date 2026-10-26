@@ -1,0 +1,46 @@
+{
+  "status": "ok",
+  "request_hash": "3702b22381ae7883c3f0a49584cfe9d4bc766c9cd724ff34533260af756aac11",
+  "output": {
+    "key_facts": [
+      "The documents can be found on the website marathonoil.com.",
+      "The company expects to generate well over $2 billion of free cash flow in 2021, with a reinvestment rate below 35% and a free cash flow breakeven below $35 per barrel WTI.",
+      "The company raised its base dividend by 20% this quarter, marking the third consecutive quarter of increases and a cumulative 100% increase since the end of 2020.",
+      "The company plans to target approximately $500 million of share repurchases during the fourth quarter, with $200 million already executed.",
+      "The company's equity offers a free cash flow yield north of 20%.",
+      "The company increased its total share repurchase authorization to $2.5 billion to ensure continued return of capital plans through 2022.",
+      "The company's full year 2021 capital budget remains at $1 billion, with no changes to the midpoint of its full year total company oil or total company oil equivalent production guidance.",
+      "The company's full year 2021 EG equity method income guidance was raised to a new range of $235 million to $255 million, a 30% increase from the previous quarter and a 120% increase from initial guidance.",
+      "The company expects its total company oil production to increase to between 176,000 and 180,000 barrels of oil per day in the fourth quarter, compared to 168,000 barrels of oil per day in the third quarter.",
+      "The company retired $900 million in debt during the third quarter, bringing total 2021 gross debt reduction to $1.4 billion and achieving a targeted $4 billion gross debt level.",
+      "The company's base dividend is now at $0.06 a share per quarter, representing a 100% increase over the time period.",
+      "The company's 2021 capital rate is sub-35%, and its capital intensity as measured by capex per barrel of production is the lowest in its independent E&P peer group.",
+      "The company's 2021 reinvestment rate is at or below the S&P 500 average.",
+      "The company's free cash flow yield is among the top quartile in its peer group and well above the S&P 500 average.",
+      "The company's net debt to EBITDA is sub-onetime, and its 2021 leverage profile is well below both its peer group and the S&P 500 average.",
+      "The company's 2021 full year operating cash flow is expected to be over $140 million, with $1.4 billion in debt reduction and $500 million in share repurchases representing a total return to investors of over $2 billion or over 60% of its expected full year operating cash flow at strip commodity prices.",
+      "The company's 2021 REx drilling program focused on delineating its contiguous 50,000 net acre position in the Texas Delaware oil play.",
+      "The company's first multi-well pad in the Texas Delaware oil play achieved an IP30 of almost 2,100 barrels of oil per day at an oil cut of 66%.",
+      "The company's first spacing test in the Texas Delaware oil play showed no evidence of interference between the Woodford and Meramec zones, with over 700 feet of vertical separation between them.",
+      "The company's well costs are expected to be comparable to those achieved in the SCOOP, leveraging its substantial experience in Oklahoma.",
+      "The company's 2022 maintenance scenario free cash flow could reach $3 billion at recent strip pricing, three times the $50 benchmark outcome.",
+      "The company's minimum 40% of cash flow target for equity holder returns in 2022 translates to about $1.6 billion, with the potential to drive this number higher.",
+      "The company's 2022 equity holder returns could increase to approximately $2 billion if the fourth quarter run rate of 50% of CFO is maintained.",
+      "The company's 2022 minimum 40% of cash flow target still translates to about $1.1 billion of equity holder returns in a $60 per barrel oil price environment.",
+      "The company's board action increased its share repurchase authorization to $2.5 billion to ensure sufficient runway for return of capital commitments in 2022.",
+      "The company's business model prioritizes returns, sustainable free cash flow, balance sheet improvement, and return of capital.",
+      "The company has aligned executive compensation with its new business model and investor expectations.",
+      "The company is successfully executing its model, delivering both financial outcomes and ESG excellence that are competitive with its direct E&P peers and the broader market."
+    ]
+  },
+  "metadata": {
+    "model": "small",
+    "finish_reason": "stop",
+    "usage": {
+      "prompt_tokens": 3508,
+      "total_tokens": 4543,
+      "completion_tokens": 1035,
+      "prompt_tokens_details": null
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "status": "ok",
+  "request_hash": "a772ae68f9c52a58687952c73502237a7f05c91eb3f9f9af79f2b2e7b67aef4a",
+  "output": {
+    "summary": "The Children, Young People and Education Committee discussed the impact of Brexit on higher education (HE) and further education (FE) in Wales with the Cabinet Secretary for Education and the Minister for Welsh Language and Lifelong Learning. The Welsh Government has been collaborating with HE and FE institutions since September 2016 to evaluate potential effects, particularly in a 'no deal' scenario. While the Government acknowledges that each institution faces unique challenges, it has been conducting scenario planning and engaging with stakeholders, including the Further Education Colleges of Wales (ColegauCymru), to ensure preparedness. Concerns were raised about the loss of European funding, such as the European Social Fund (ESF) and the European Regional Development Fund (ERDF), which provide critical support for apprenticeships, staff, and infrastructure. The Welsh Government has allocated £3.5 million to the Global Wales initiative to bolster international recruitment and is committed to implementing the Diamond review proposals for HE funding. A drop in EU student applications was noted, attributed to the withdrawal of the tuition fee grant for EU students, and the Government is addressing this by promoting the strengths of Welsh institutions globally. Officials also highlighted the importance of maintaining multi-year funding commitments to ensure stability for the sector. The European transition team coordinates cross-departmental efforts to prepare for Brexit impacts, and the Government is working to align training programs with employer needs through regional skills partnerships. However, uncertainties remain regarding future funding and the UK Government's adherence to its commitments."
+  },
+  "metadata": {
+    "attempts": 1,
+    "input_tokens_local": 11321,
+    "context_limit": 65536,
+    "request_parameters": {
+      "temperature": 0.7,
+      "top_p": 0.8,
+      "top_k": 20,
+      "min_p": 0.0,
+      "repetition_penalty": 1.05,
+      "seed": 42,
+      "max_tokens": 4096
+    },
+    "model": "large",
+    "finish_reason": "stop",
+    "usage": {
+      "prompt_tokens": 11321,
+      "total_tokens": 11626,
+      "completion_tokens": 305,
+      "prompt_tokens_details": null
+    }
+  }
+}

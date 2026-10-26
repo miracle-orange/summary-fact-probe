@@ -1,0 +1,53 @@
+{
+  "status": "ok",
+  "request_hash": "8baa0930048d99afa77f4305ef2405dcde2effe6a129dc1aeb7cc7dc01b94d00",
+  "output": {
+    "key_facts": [
+      "The meeting is the seventh of the Special Committee on the COVID-19 Pandemic.",
+      "Mr. Paul Manly presented a petition calling for a ban on cosmetic testing using animals, following the EU model.",
+      "Hon. Pierre Poilievre tabled e-petition 2466 with 827 signatures, advocating for mandatory life jackets for children under 14 on small vessels.",
+      "Hon. Andrew Scheer questioned the government about ignoring 200,000 cases of suspected fraud in benefit applications; Prime Minister Justin Trudeau emphasized detecting and recovering fraudulent funds.",
+      "Trudeau reaffirmed the government’s one China policy but supports Taiwan's meaningful inclusion in international bodies like the WHO.",
+      "Yves-François Blanchet asked if health care is in provincial jurisdiction and requested clarification on increasing health transfers to Quebec and other provinces; Patty Hajdu affirmed health as provincial jurisdiction and mentioned ongoing discussions.",
+      "Jagmeet Singh criticized the government for not addressing long-term care home issues adequately; Trudeau reiterated support for provincial efforts.",
+      "Poilievre pressed on how many ERB cheques were sent to those flagged as fraudulent; Jean-Yves Duclos stated 7.7 million Canadians received at least one payment without confirming the number of fraudulent cases.",
+      "Poilievre also asked about prisoners receiving benefits; Duclos denied that while others noted reports suggesting otherwise.",
+      "Anita Anand stated the government is diversely sourcing and building domestic capacity for PPE.",
+      "Navdeep Bains confirmed changes to CEBA eligibility criteria but did not commit to further modifications for owner-operators or dividend-based businesses.",
+      "Marie-Claude Bibeau addressed concerns about farm families and processing capacity bottlenecks but pointed to existing programs.",
+      "John Barlow highlighted survey results showing many businesses failed to qualify for any government program and urged expansion of eligibility.",
+      "Pat Kelly questioned the government's funding of the Office of the Auditor General, citing insufficient resources; Jean-Yves Duclos claimed increased funding and staff.",
+      "Michael Chong raised a potential criminal breach of the Statistics Act due to early leak of labor force data; Navdeep Bains called it unacceptable and pledged cooperation with investigations.",
+      "Blanchet sought confirmation of permanent and unconditional health transfer increases to provinces; Hajdu referenced past investments but gave no new commitment.",
+      "Marilne Gill highlighted struggles of seasonal industries in Quebec and asked for tailored assistance; Navdeep Bains acknowledged challenges and ongoing efforts.",
+      "Jagmeet Singh pushed for commitments to exclude companies in tax havens from public aid; Bill Morneau defended current measures and international cooperation.",
+      "Greg McLean critiqued the CECRA program for favoring landlords with mortgages and questioned conflict of interest involving BlackRock; Morneau defended the program as mutually beneficial.",
+      "Pierre Poilievre repeatedly asked about Canada's national debt and balance sheet details; Morneau avoided providing concrete figures.",
+      "Maxime Blanchette-Joncas discussed the failure of the rent assistance program for seasonal businesses; Bill Morneau dismissed criticism as premature.",
+      "Scott Duvall raised concerns about seniors’ financial insecurity and delayed disability support; Deb Schulte outlined temporary payments but no long-term solution."
+    ]
+  },
+  "metadata": {
+    "attempts": 1,
+    "input_tokens_local": 30461,
+    "context_limit": 65536,
+    "request_parameters": {
+      "temperature": 0.7,
+      "top_p": 0.8,
+      "top_k": 20,
+      "min_p": 0.0,
+      "repetition_penalty": 1.05,
+      "presence_penalty": 1.0,
+      "seed": 42,
+      "max_tokens": 8192
+    },
+    "model": "large",
+    "finish_reason": "stop",
+    "usage": {
+      "prompt_tokens": 30461,
+      "total_tokens": 31117,
+      "completion_tokens": 656,
+      "prompt_tokens_details": null
+    }
+  }
+}

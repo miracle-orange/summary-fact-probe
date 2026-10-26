@@ -1,0 +1,33 @@
+{
+  "status": "ok",
+  "request_hash": "7fe44c66a204cfb4ce76b200366534da9cae748b4e07c0278cd8c58fae91c9d0",
+  "output": {
+    "key_facts": [
+      "Council Bill 1089 proposes extending the minimum affordability period for affordable housing projects from 20 to 60 years.",
+      "The amendment to Council Bill 1089 delays the effective date of the extended affordability period to February 1st, 2019, allowing time for rulemaking and stakeholder input."
+    ]
+  },
+  "metadata": {
+    "attempts": 1,
+    "input_tokens_local": 31478,
+    "context_limit": 65536,
+    "request_parameters": {
+      "temperature": 0.7,
+      "top_p": 0.8,
+      "top_k": 20,
+      "min_p": 0.0,
+      "repetition_penalty": 1.05,
+      "presence_penalty": 1.0,
+      "seed": 42,
+      "max_tokens": 8192
+    },
+    "model": "small",
+    "finish_reason": "stop",
+    "usage": {
+      "prompt_tokens": 31478,
+      "total_tokens": 31555,
+      "completion_tokens": 77,
+      "prompt_tokens_details": null
+    }
+  }
+}

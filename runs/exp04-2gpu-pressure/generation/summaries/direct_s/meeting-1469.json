@@ -1,0 +1,29 @@
+{
+  "status": "ok",
+  "request_hash": "9a1c3c5362ae55310dd46f5af308f194224b6d9cc11086c0464aaf78999cdbff",
+  "output": {
+    "summary": "The conversation is a transcript of a parliamentary committee meeting discussing various issues related to the COVID-19 pandemic, including petitions for banning animal testing in cosmetics, improving safety measures for children on boats, addressing fraud in government benefit programs, supporting small businesses, and the impact of the pandemic on seniors and the tourism industry. The discussion also covers the government's response to economic challenges, the allocation of funds for different sectors, and the debate over the effectiveness of current support measures. Additionally, there are questions regarding the Auditor General's funding, the carbon tax's impact on farmers, and the government's stance on firearms regulations. The meeting concludes with the committee adjourning and the House recalling for a session."
+  },
+  "metadata": {
+    "attempts": 1,
+    "input_tokens_local": 30349,
+    "context_limit": 65536,
+    "request_parameters": {
+      "temperature": 0.7,
+      "top_p": 0.8,
+      "top_k": 20,
+      "min_p": 0.0,
+      "repetition_penalty": 1.05,
+      "seed": 42,
+      "max_tokens": 4096
+    },
+    "model": "small",
+    "finish_reason": "stop",
+    "usage": {
+      "prompt_tokens": 30349,
+      "total_tokens": 30495,
+      "completion_tokens": 146,
+      "prompt_tokens_details": null
+    }
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "status": "ok",
+  "request_hash": "c49568b6031cee086f010b9bdead1ecdacaea04e75f414774447aab4dd914242",
+  "output": {
+    "key_facts": [
+      "Council Bill 245 is being considered for final consideration and passage.",
+      "The bill involves a proposed rezoning of the property at 2423–2490 South University in Council District six from GMC-3 (General Urban Mixed Use Annex) to GRX-5 (General Urban Residential Mixed Use).",
+      "GRX-5 allows buildings up to 70 feet in height compared to the current 45 feet under GMC-3.",
+      "The property is located on the westernmost edge of Council District six in the University Park neighborhood.",
+      "The applicant is 100% owned by Knowlton of Colorado, who recently acquired the property formerly owned by the University of Denver and Colorado Seminary.",
+      "The property is approximately 75,000 square feet.",
+      "The Planning Board recommended support of the application with a unanimous 9–0 vote on March 5th.",
+      "It was forwarded to City Council after passing the Land Use Transportation Committee on March 25th.",
+      "A legal protest petition signed by 20% of landowners within a 200-foot buffer zone has been filed, requiring a supermajority of 10 affirmative votes for the bill to pass.",
+      "Public outreach included signs posted on the property and correspondence received from both supporters and opponents.",
+      "The project aligns with the University Park Neighborhood Plan and Blueprint Denver, promoting mixed-use development and enhanced transit corridors.",
+      "University Boulevard is identified as an enhanced transit corridor in Blueprint Denver.",
+      "The site is designated as urban residential and is part of the Ivy Towers district in the University Park Plan.",
+      "The proposed development includes 236 rental housing units, 25,000 square feet of ground-floor retail, and parking below grade, exceeding code requirements.",
+      "Architectural renderings depict a building with setbacks, landscaped outdoor spaces, and sensitivity to the surrounding neighborhood.",
+      "A traffic study estimated minimal impact on existing traffic volumes, noting that the project would generate about 100 vehicles per hour during peak times.",
+      "Neighbors raised concerns about increased traffic, reduced sunlight, and potential negative effects on property values and neighborhood character.",
+      "The developer has committed to working with the neighborhood on design details and addressing specific concerns like solar shading and traffic access points.",
+      "There is significant opposition from the neighborhood, particularly from single-family homeowners directly behind the property.",
+      "Supporters argue that the rezoning reflects the vision of the 2008 University Park Neighborhood Plan, which recommends moderate density (3 to 5 stories), and supports walkable, pedestrian-friendly development.",
+      "Opponents claim there has been insufficient justification for the rezoning since the 2010 zoning code update and question the predictability of city planning decisions.",
+      "The developer has exceeded minimum parking requirements and aims to avoid surface parking to maintain a pedestrian-friendly environment.",
+      "Underground parking is expected to cost approximately $25,000 per space, adding considerable financial burden to the project.",
+      "If approved, the project will be subject to further studies, including traffic, wastewater, and utility assessments during the administrative site development plan stage.",
+      "The University of Denver supports the rezoning as it aligns with their ongoing investments in the area and enhances the University and Evans corridors.",
+      "The neighborhood's engagement and community discussions were extensive, including petitions, meetings, and public forums.",
+      "The current zoning (GMC-3) was adopted in 2010 after collaborative efforts between the city and the neighborhood, aiming for predictable standards.",
+      "The proposed GRX-5 zoning is more restrictive than GMC-3 regarding certain commercial uses, such as auto emissions and service repair labs.",
+      "City Council members expressed varied opinions, with some emphasizing the need for adherence to the neighborhood plan and others supporting the development’s potential benefits.",
+      "The rezoning debate centered on whether the change in ownership and assembling the entire block constituted a valid 'change in circumstances' justifying the zoning amendment.",
+      "During the public hearing, speakers included residents, developers, architects, and neighborhood representatives, highlighting both pros and cons of the proposal.",
+      "The vote required 10 affirmative votes due to the legal protest and passed with 13 votes in favor."
+    ]
+  },
+  "metadata": {
+    "attempts": 1,
+    "input_tokens_local": 31044,
+    "context_limit": 65536,
+    "request_parameters": {
+      "temperature": 0.7,
+      "top_p": 0.8,
+      "top_k": 20,
+      "min_p": 0.0,
+      "repetition_penalty": 1.05,
+      "presence_penalty": 1.0,
+      "seed": 42,
+      "max_tokens": 8192
+    },
+    "model": "large",
+    "finish_reason": "stop",
+    "usage": {
+      "prompt_tokens": 31044,
+      "total_tokens": 31911,
+      "completion_tokens": 867,
+      "prompt_tokens_details": null
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "status": "ok",
+  "request_hash": "8946666dfba9233cb228f944ae9d61e690ac7a10d89023c6d73383543c2cb54c",
+  "output": {
+    "summary": "The conversation revolves around the proposed rezoning of the property at 2423-2490 South University Boulevard from G-MX-3 to G-RX-5, as outlined in Council Bill 245. The applicant, Node Colorado, has assembled ownership of the majority of the block and argues that the rezoning aligns with the 2008 University Park Neighborhood Plan and Blueprint Denver, which designate the area for moderate densities of 3 to 5 stories. The proposed development includes approximately 230 to 240 rental units and 25,000 square feet of retail space, with underground parking to minimize neighborhood impacts. Community Planning and Development (CPD) staff recommended approval based on consistency with adopted plans, while the University Park Community Council opposed the rezoning. Concerns raised by opponents include increased traffic congestion on University Boulevard and adjacent streets, as well as the perception that the rezoning lacks sufficient justification given the 2010 zoning update. The University of Denver supports the rezoning, and Councilman Charlie Brown emphasized its alignment with the neighborhood plan. Ultimately, the Denver City Council passed Council Bill 245 with 13 affirmative votes, requiring a supermajority of ten votes to override the neighborhood protest."
+  },
+  "metadata": {
+    "attempts": 1,
+    "input_tokens_local": 31419,
+    "context_limit": 65536,
+    "request_parameters": {
+      "temperature": 0.7,
+      "top_p": 0.8,
+      "top_k": 20,
+      "min_p": 0.0,
+      "repetition_penalty": 1.05,
+      "seed": 42,
+      "max_tokens": 4096
+    },
+    "model": "small",
+    "finish_reason": "stop",
+    "usage": {
+      "prompt_tokens": 31419,
+      "total_tokens": 31687,
+      "completion_tokens": 268,
+      "prompt_tokens_details": null
+    }
+  }
+}

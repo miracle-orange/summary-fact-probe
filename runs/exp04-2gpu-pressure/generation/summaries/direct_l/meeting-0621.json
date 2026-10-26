@@ -1,0 +1,29 @@
+{
+  "status": "ok",
+  "request_hash": "36e2a8dc261cd1e71a37e0ba01d4ea84ed387cc282a53ae36ed8ec1219361077",
+  "output": {
+    "summary": "The conversation revolves around a public hearing regarding Council Bill 245, which proposes a rezoning of a property on South University Boulevard in Denver from a General Urban Mixed Use Annex (GMX) three-story zoning to a General Urban Residential Mixed Use (GRX) five-story zoning. The rezoning is supported by the City Planning Department (CPD), which argues that it aligns with the city's Blueprint Denver and the University Park Neighborhood Plan, promoting sustainable infill development and enhancing the urban environment. The rezoning requires a supermajority of 10 votes to pass due to a legal protest filed by the neighborhood, and the bill ultimately passes with 13 votes in favor. The debate highlights the tension between supporting urban development and preserving neighborhood character, with speakers from both sides presenting arguments related to density, traffic, property values, and community engagement. Developers and architects emphasize the benefits of the project, such as underground parking, pedestrian-friendly design, and economic viability, while opponents express concerns about increased traffic, reduced privacy, and the precedent of allowing rezoning based on land assembly rather than substantive change in the area."
+  },
+  "metadata": {
+    "attempts": 1,
+    "input_tokens_local": 30932,
+    "context_limit": 65536,
+    "request_parameters": {
+      "temperature": 0.7,
+      "top_p": 0.8,
+      "top_k": 20,
+      "min_p": 0.0,
+      "repetition_penalty": 1.05,
+      "seed": 42,
+      "max_tokens": 4096
+    },
+    "model": "large",
+    "finish_reason": "stop",
+    "usage": {
+      "prompt_tokens": 30932,
+      "total_tokens": 31165,
+      "completion_tokens": 233,
+      "prompt_tokens_details": null
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "protocol": "generic-meeting-fact-probe-v2",
+  "seed": 42,
+  "data": {
+    "sha256": "A6DC55E50F5399B562A1F51EEBBDE6834EC9FE6D94E60A79C2132DF362833A07",
+    "scenario": "Meeting",
+    "pilot_per_dataset": 6
+  },
+  "models": {
+    "small": {
+      "id": "Qwen/Qwen3-8B",
+      "revision": "b968826d9c46dd6066d109eabc6255188de91218",
+      "path": "models/Qwen3-8B",
+      "served_name": "small"
+    },
+    "large": {
+      "id": "Qwen/Qwen3-32B",
+      "revision": "9216db5781bf21249d130ec9da846c4624c16137",
+      "path": "models/Qwen3-32B",
+      "served_name": "large"
+    }
+  },
+  "generation": {
+    "temperature": 0.7,
+    "top_p": 0.8,
+    "top_k": 20,
+    "min_p": 0.0,
+    "repetition_penalty": 1.05,
+    "seed": 42,
+    "max_tokens_extract": 8192,
+    "max_tokens_summary": 4096,
+    "request_concurrency": 4,
+    "transport_retries": 3
+  },
+  "judge": {
+    "base_url": "https://api.siliconflow.cn/v1",
+    "model": "Pro/deepseek-ai/DeepSeek-V3.2",
+    "api_key_env": "JUDGE_API_KEY",
+    "temperature": 0.0,
+    "max_tokens": 8192,
+    "concurrency": 4,
+    "transport_retries": 5
+  },
+  "report": {
+    "bootstrap_replicates": 2000,
+    "confidence": 0.95
+  }
+}

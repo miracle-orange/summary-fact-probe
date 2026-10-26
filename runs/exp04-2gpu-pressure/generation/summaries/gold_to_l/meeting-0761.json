@@ -1,0 +1,29 @@
+{
+  "status": "ok",
+  "request_hash": "7434cfe588a553d7800b17b6c25c1d2b45bbc7dbe11fe21c99bc08f8e2efb55b",
+  "output": {
+    "summary": "During the sixth meeting of the House of Commons Special Committee on the COVID-19 pandemic, several petitions were presented, addressing a wide range of issues. Ms. Heather McPherson called for a national perinatal mental health strategy, emphasizing the need for universal screening and treatment. Mr. Scott Reid's petition focused on rescinding amendments to the Patented Medicine Prices Review Board to ensure access to the Cystic Fibrosis drug Trikafta. Ms. Elizabeth May highlighted the family doctor shortage, affecting nearly five million Canadians, particularly in rural areas. Mr. Brad Vis opposed the Liberal government's firearms legislation, criticizing the classification of certain firearms as military-style assault rifles and calling for a focus on public safety through anti-gang enforcement and border security. Mr. Gord Johns presented a petition against the expansion of open-net salmon farming, citing environmental and economic concerns. Mr. Paul Manly called for the immediate halting of the Coastal GasLink project on Wet'suwet'en territory, advocating for the rights of Indigenous peoples. Ms. Yasmin Ratansi urged the government to withhold financial assistance to airlines until they provide refunds for cancelled flights due to the pandemic.\n\nIn the questioning of ministers, Prime Minister Justin Trudeau emphasized the government's priority of swiftly distributing funds through the Canada Emergency Response Benefit (CERB) to support Canadians during the pandemic, acknowledging that retroactive verification of potential fraud would follow. He confirmed the inclusion of conditions in the Large Employer Emergency Financing Facility to assess tax structures and prevent tax evasion. Minister Ahmed Hussen denied that unopened mail is a widespread issue at Service Canada. Minister Bill Blair clarified that the firearms ban targets weapons designed for military use, not those used for hunting or sport. Minister Diane Lebouthillier denied that the Canada Revenue Agency instructed employees to ignore potential fraud in CERB applications. Minister Carolyn Bennett stressed the importance of Wet'suwet'en-led engagement on land rights and title. Minister Deb Schulte announced a one-time payment for seniors, while Minister Anita Anand discussed the procurement of personal protective equipment (PPE) for healthcare workers and essential services. Minister Bernadette Jordan acknowledged the challenges faced by the fishing industry and the need for tailored support. Minister Patty Hajdu confirmed that Vertex Pharmaceuticals has not yet applied to sell Trikafta in Canada and emphasized the importance of affordable medication. Minister Bill Morneau outlined conditions on executive compensation for large corporations and noted that banks have reduced credit card fees. Minister Navdeep Bains confirmed an investigation into a breach involving leaked economic data. Minister Seamus O'Regan announced liquidity measures for the oil and gas sector, while Minister Patty Hajdu addressed the crisis in long-term care homes, acknowledging the need for stronger standards. Export and Development Canada's $500 million loan to TC Energy for the Coastal GasLink pipeline raised concerns about the government's commitment to a green economy. Minister Carla Qualtrough assured that Service Canada will work with CERB recipients to avoid undue hardship if they slightly exceed income thresholds. The meeting concluded with the committee standing adjourned until the following day."
+  },
+  "metadata": {
+    "attempts": 1,
+    "input_tokens_local": 22712,
+    "context_limit": 65536,
+    "request_parameters": {
+      "temperature": 0.7,
+      "top_p": 0.8,
+      "top_k": 20,
+      "min_p": 0.0,
+      "repetition_penalty": 1.05,
+      "seed": 42,
+      "max_tokens": 4096
+    },
+    "model": "large",
+    "finish_reason": "stop",
+    "usage": {
+      "prompt_tokens": 22712,
+      "total_tokens": 23343,
+      "completion_tokens": 631,
+      "prompt_tokens_details": null
+    }
+  }
+}

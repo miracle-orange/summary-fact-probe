@@ -1,0 +1,41 @@
+{
+  "status": "ok",
+  "request_hash": "9703842ed4b007df6fd056091b942c647d60559aa602ba8edbd9b35e36da6261",
+  "output": {
+    "key_facts": [
+      "The team decided to drop the speech recognition feature.",
+      "The team agreed to keep the LCD screen and use a single curved design.",
+      "The team opted for an integrated scroll-wheel push-button instead of multiple physical buttons.",
+      "The team concluded that the design would cost 28 points on a seven-point evaluation scale.",
+      "The team discussed the use of a hand dynamo as a power source but ultimately decided against it due to energy concerns.",
+      "The team decided to use plastic with a special color for the casing.",
+      "The team determined that the remote control is not very easy to use, scoring a six on the evaluation scale.",
+      "The team evaluated the design as being better than average, scoring higher than the initial user requirements.",
+      "The team decided to rename the remote control as 'Real Remote' and incorporate the initials into the logo.",
+      "The team discussed the need for recalibration of the drawing tool during the meeting."
+    ]
+  },
+  "metadata": {
+    "attempts": 1,
+    "input_tokens_local": 19324,
+    "context_limit": 65536,
+    "request_parameters": {
+      "temperature": 0.7,
+      "top_p": 0.8,
+      "top_k": 20,
+      "min_p": 0.0,
+      "repetition_penalty": 1.05,
+      "presence_penalty": 1.0,
+      "seed": 42,
+      "max_tokens": 8192
+    },
+    "model": "small",
+    "finish_reason": "stop",
+    "usage": {
+      "prompt_tokens": 19324,
+      "total_tokens": 19517,
+      "completion_tokens": 193,
+      "prompt_tokens_details": null
+    }
+  }
+}

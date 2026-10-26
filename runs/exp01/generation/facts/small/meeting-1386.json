@@ -1,0 +1,38 @@
+{
+  "status": "ok",
+  "request_hash": "e5b2f5d2913e049fc31d9bb21e3845a08401ba828a3e39e920fc592443c413a1",
+  "output": {
+    "key_facts": [
+      "The Welsh baccalaureate is valued by learners and teachers for its broad and balanced curriculum and skill development, with Qualifications Wales's review indicating positive experiences and its use in university admissions.",
+      "The Welsh baccalaureate is considered equivalent to A-levels by most Welsh universities, with some Russell Group universities using it as part of their admissions process or valuing it in personal statements and interviews.",
+      "There are concerns about the variability in the delivery of the Welsh baccalaureate across schools, with some schools delivering it poorly and others effectively, and the Welsh Government is working to address this through professional learning and performance measures.",
+      "The Welsh Government is working with Qualifications Wales and stakeholders to improve the Welsh baccalaureate, including addressing workload issues for teachers and ensuring consistent delivery.",
+      "The Welsh baccalaureate is not an obligation but an entitlement for students, with flexibility allowed for those who may not benefit from it due to well-being or other factors.",
+      "The Welsh baccalaureate is seen as a valuable qualification by universities, as it develops skills that are beneficial for university-level work and transition from school to higher education.",
+      "The Welsh Government is developing a national approach to professional learning to support teachers in delivering the Welsh baccalaureate effectively, including resources and support from regional consortia and the WJEC.",
+      "The Welsh baccalaureate is not universally adopted yet, with the goal of achieving universal adoption by 2020, and there are concerns about some schools not being able to deliver it well.",
+      "The Welsh baccalaureate is not seen as a disadvantage for Welsh students by universities, with some institutions using it as a third qualification or adjusting offers based on its completion.",
+      "The Welsh Government is working to ensure that the Welsh baccalaureate is communicated effectively to employers and the public, as it is a relatively new qualification compared to traditional GCSEs and A-levels.",
+      "The Welsh baccalaureate is being supported by initiatives such as a bilingual MOOC (Massive Open Online Course) developed by the University of Bath and Aberystwyth University to assist students with their individual projects.",
+      "There are concerns about the impact of the Welsh baccalaureate on students' mental health and well-being, particularly when combined with other qualifications, and the Welsh Government acknowledges the need for support during this stressful period.",
+      "Some schools and colleges in Wales are making students take the Welsh baccalaureate, which has led to concerns from parents and the need for clearer guidance and flexibility in its delivery.",
+      "The Welsh Government is not currently pausing the universal roll-out of the Welsh baccalaureate, despite concerns about its delivery in some schools, and is focusing on professional learning and support for teachers.",
+      "The Welsh baccalaureate is not seen as causing a narrowing of the curriculum, but rather as contributing to a broader educational experience that includes a range of skills and knowledge.",
+      "There are concerns that some students are avoiding the Welsh baccalaureate by attending institutions in England, but the Welsh Government acknowledges that there are multiple reasons for students' decisions on where to study.",
+      "The Welsh Government is working with universities to ensure they understand the value of the Welsh baccalaureate, and there is a belief that it is beneficial for students' transition to higher education.",
+      "The Welsh Government is not currently in a position to change the policy of the WJEC regarding resitting the Welsh baccalaureate, as this is regulated by the WJEC and Qualifications Wales.",
+      "The Welsh Government is committed to ensuring that the Welsh baccalaureate is delivered in a way that is consistent and of high quality, with a focus on professional learning and teacher development.",
+      "The Welsh Government is working to ensure that the Welsh baccalaureate is seen as a valuable qualification by employers and the public, with a focus on communication and engagement with stakeholders."
+    ]
+  },
+  "metadata": {
+    "model": "small",
+    "finish_reason": "stop",
+    "usage": {
+      "prompt_tokens": 16611,
+      "total_tokens": 17427,
+      "completion_tokens": 816,
+      "prompt_tokens_details": null
+    }
+  }
+}

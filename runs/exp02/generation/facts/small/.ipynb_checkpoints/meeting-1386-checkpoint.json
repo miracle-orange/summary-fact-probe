@@ -1,0 +1,38 @@
+{
+  "status": "ok",
+  "request_hash": "64e729e3ac62bc4c61696687b270e7e2e2fcef996bf26181e5e1ce920b5bcbff",
+  "output": {
+    "key_facts": [
+      "The Welsh baccalaureate is valued by learners and teachers for providing a broad and balanced curriculum and developing skills for further study and the world of work.",
+      "Qualifications Wales conducted a review of the Welsh baccalaureate, highlighting both positive feedback from learners and concerns about workload and well-being for some students.",
+      "The Welsh baccalaureate is considered a graded qualification since 2015, which has improved its rigor and is recognized as equivalent to A-levels by most Welsh universities.",
+      "Some stakeholders, including teachers and parents, have expressed concerns about the Welsh baccalaureate being spoon-fed or poorly implemented, particularly in post-16 settings.",
+      "Universities in Wales, including Russell Group institutions, accept the Welsh baccalaureate as an equivalent to A-levels, though there is variability in how it is used in admissions processes.",
+      "The Welsh Government aims for universal adoption of the Welsh baccalaureate by 2020, emphasizing it as an entitlement rather than an obligation for students.",
+      "There are concerns about the impact of the Welsh baccalaureate on student well-being, particularly when combined with other qualifications, and the Welsh Government acknowledges the need for flexibility.",
+      "The Welsh Government is working with Qualifications Wales and regional consortia to improve the delivery and understanding of the Welsh baccalaureate, including through professional learning and communication strategies.",
+      "A MOOC (massive open online course) has been launched by the University of Bath and Aberystwyth University to support students with the individual project component of the Welsh baccalaureate.",
+      "The Welsh Government is not currently considering changing the name of the Welsh baccalaureate, citing the risk of undermining its brand and the importance of developing understanding of the qualification.",
+      "There is a concern that some FE colleges are exempting students from taking the Welsh baccalaureate due to it being seen as a distraction, and the Welsh Government is addressing this through communication and collaboration with stakeholders.",
+      "The Welsh Government has received evidence suggesting that some students are leaving Wales to study in England to avoid the Welsh baccalaureate, though it acknowledges that there are multiple factors influencing students' decisions on where to study.",
+      "The Welsh Government is committed to ensuring that all schools and colleges are equipped to deliver the Welsh baccalaureate effectively, through professional learning and support mechanisms.",
+      "The Welsh Government has sent a letter to all vice-chancellors regarding the Welsh baccalaureate, emphasizing its value and seeking to align university practices with its recognition.",
+      "The Welsh Government is working on a national approach to professional learning, incorporating pedagogical shifts such as project-based learning, which aligns with the Welsh baccalaureate's requirements.",
+      "There is a concern about the resitting policy of the Welsh baccalaureate by WJEC, which caps grades when students resit, and the Welsh Government is aware of this issue but notes it is regulated by WJEC and Qualifications Wales.",
+      "The Welsh Government is addressing inconsistencies in the delivery of the Welsh baccalaureate by focusing on professional learning, performance measures, and stakeholder engagement.",
+      "The Welsh Government is collaborating with employers to enhance the understanding and value of the Welsh baccalaureate, recognizing its relevance to the world of work.",
+      "The Welsh Government is working with universities to ensure they recognize the Welsh baccalaureate as a valuable qualification, particularly in the context of university applications and personal statements.",
+      "The Welsh Government is aware of the polarized experiences of students and teachers regarding the Welsh baccalaureate, with some schools delivering it effectively and others struggling with implementation."
+    ]
+  },
+  "metadata": {
+    "model": "small",
+    "finish_reason": "stop",
+    "usage": {
+      "prompt_tokens": 16611,
+      "total_tokens": 17373,
+      "completion_tokens": 762,
+      "prompt_tokens_details": null
+    }
+  }
+}

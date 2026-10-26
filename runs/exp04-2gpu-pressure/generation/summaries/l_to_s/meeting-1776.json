@@ -1,0 +1,29 @@
+{
+  "status": "ok",
+  "request_hash": "cb75d26baee74805f0355732065d15e32955f8520b113b6f73b219838422c238",
+  "output": {
+    "summary": "NOV reported first-quarter 2021 revenues of $1.25 billion and a net loss of $115 million, with consolidated revenue declining 6% sequentially due to the impact of the 2020 oil supply price war and global pandemic, which led to a sharp decline in demand for oilfield equipment and consumables. The first quarter was also affected by severe winter weather in Texas and Oklahoma, which shut down 63 NOV facilities for a week or more, and new pandemic control measures that disrupted supply chains for raw materials like fiberglass and resin. Higher costs from poor execution on two projects further impacted the results. Despite these challenges, the results slightly exceeded the March forecast due to cost reductions and early signs of recovery in the oil field, especially in Wellbore Technologies and North America. North American oilfield activity showed recovery during the quarter, with March revenues up sharply from January for some businesses, while international markets also began showing early signs of recovery. However, the sequential decline in capital equipment revenues reflected the pummeling of the backlog in 2020, leading to an annualized revenue run rate down 45% from five quarters ago. EBITDA fell to breakeven, prompting further cost reductions. The downturn in the oilfield industry is considered the worst in history, with oil prices going negative in April 2020 and the U.S. rig count hitting its lowest level since records began in World War II in August 2020. Over 100 North American oil and gas companies filed for Chapter 11 bankruptcy protection by year-end 2020 with combined debt exceeding $100 billion. While the recovery has begun in many markets, average first-quarter 2021 rig counts were down 46% for North America land, 36% for international land, and 31% for offshore compared to the previous year. NOV's oilfield backlogs fell throughout 2020, and the company has been steadfast in reducing costs, improving cash flow, and investing in next-generation technologies. Wellbore Technologies generated $413 million in revenue during Q1 2021, an 11% sequential increase, with ReedHycalog drill bit business seeing 20% revenue growth, Downhole Tool business experiencing a 13% sequential improvement in revenue, and WellSite Services recording a 16% sequential revenue increase. The Completion & Production Solutions segment generated $439 million in revenue during Q1 2021, a 20% sequential decrease, but achieved a book-to-bill ratio of 127%, its first above 100% since Q4 2019. The Rig Technologies segment generated $431 million in revenue during Q1 2021, a 1% sequential decrease, with a book-to-bill ratio of 59%. NOV started manufacturing the first two rigs at its new plant in Saudi Arabia, with delivery expected by year-end 2021, and the Saudi plant has a commitment for 50 drilling rigs over the next 10 years and $1.8 billion in backlog. The company also booked an order for design, jacking systems, and crane for a European wind turbine installation vessel, indicating growth in its renewables business. NOV ended Q1 2021 with $1.61 billion in cash and $1.85 billion in gross debt, resulting in net debt of $244 million, and redeemed $183 million in senior notes due in December 2022, pushing its next bond maturity to December 2029. The company anticipates continued improvement in its results as the year progresses, driven by rising oil prices, higher rig counts, and the recovery of the oilfield industry."
+  },
+  "metadata": {
+    "attempts": 1,
+    "input_tokens_local": 7833,
+    "context_limit": 65536,
+    "request_parameters": {
+      "temperature": 0.7,
+      "top_p": 0.8,
+      "top_k": 20,
+      "min_p": 0.0,
+      "repetition_penalty": 1.05,
+      "seed": 42,
+      "max_tokens": 4096
+    },
+    "model": "small",
+    "finish_reason": "stop",
+    "usage": {
+      "prompt_tokens": 7833,
+      "total_tokens": 8640,
+      "completion_tokens": 807,
+      "prompt_tokens_details": null
+    }
+  }
+}

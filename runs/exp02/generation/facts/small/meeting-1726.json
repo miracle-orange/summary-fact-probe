@@ -1,0 +1,38 @@
+{
+  "status": "ok",
+  "request_hash": "7c949775068992f98470200c88b9d27b55099c497ebae4ee165d29ec4953829a",
+  "output": {
+    "key_facts": [
+      "The Water Emergency Transportation Authority (WETA) is seeking approval for a six-year lease for a maintenance and operation center on 4.73 acres of undeveloped land and 3.4 acres of submerged lands at Alameda Point.",
+      "A memorandum of understanding (MOU) is being proposed between the city of Alameda and WETA, which includes a $100,000 holding fund for planning, design, and construction of a new seal haul-out, with the city having the right to take over the project if WETA fails to meet deadlines.",
+      "The lease agreement includes provisions for the installation of above-ground fuel storage tanks and underground fuel lines, with double-walled pipes for spill prevention, and a requirement for an oil spill response plan certified by the Coast Guard.",
+      "The lease agreement is expected to bring 100 new jobs to Alameda and 50 new jobs to Aida, and includes a commitment to construct $2.5 million in infrastructure as part of the master infrastructure plan for Alameda Point.",
+      "The lease requires four votes from the city council for approval, while the MOU requires three votes.",
+      "The property is zoned for commercial maritime use and is located in an open space district, with the fueling station falling within an enterprise zone.",
+      "The lease agreement does not include provisions for the design of the building, which will be determined through the planning board process and may require three votes for approval.",
+      "The project is intended to serve as an emergency operations center in the event of a regional disaster and will support ferry services in the central San Francisco Bay.",
+      "There are concerns about the impact of the project on the harbor seal haul-out and the surrounding ecosystem, with the National Marine Fisheries Service being cited as the primary authority for making decisions on this matter.",
+      "Public concerns have been raised about the lack of community engagement and transparency in the process, with some suggesting that the public should have a greater role in determining the location of the seal haul-out.",
+      "The project is supported by various stakeholders, including the Alameda Chamber of Commerce, the Carpenters Union, and local businesses, who see it as an opportunity for job creation and economic growth.",
+      "The lease agreement includes a provision that allows the city to take over the project if WETA is unable to commence construction due to the inability to obtain third-party permits.",
+      "The project is expected to be reviewed by the Planning Board on March 23rd, with the planning board determining conditions related to hours of operations, truck traffic, and building design.",
+      "The lease agreement includes a commitment to maintain the new seal haul-out in good order and repair once construction is complete.",
+      "The project is part of a larger effort to expand the regional transit network and reduce traffic congestion on the I-80 corridor.",
+      "The lease agreement includes a provision that allows the city to terminate the lease and take back the property if WETA fails to meet its obligations.",
+      "The lease agreement includes a provision that allows the city to use the $100,000 holding fund to complete the seal haul-out if WETA is unable to do so.",
+      "The lease agreement includes a provision that allows the city to use the $100,000 holding fund to complete the seal haul-out if WETA is unable to do so.",
+      "The lease agreement includes a provision that allows the city to use the $100,000 holding fund to complete the seal haul-out if WETA is unable to do so.",
+      "The lease agreement includes a provision that allows the city to use the $100,000 holding fund to complete the seal haul-out if WETA is unable to do so."
+    ]
+  },
+  "metadata": {
+    "model": "small",
+    "finish_reason": "stop",
+    "usage": {
+      "prompt_tokens": 15494,
+      "total_tokens": 16256,
+      "completion_tokens": 762,
+      "prompt_tokens_details": null
+    }
+  }
+}

@@ -1,0 +1,276 @@
+﻿sample_id,dataset,kind,arm_or_source,claim_id,claim
+meeting-0031,ECTSum,summary,l_to_l,25,Projects like Boundary Raider showcased exceptional returns.
+meeting-0031,ECTSum,summary,l_to_l,27,Projects like Cobra showcased exceptional returns.
+meeting-0031,ECTSum,summary,l_to_l,30,Projects like Boundary Raider and Cobra reinforce the company's strategic focus on ESG goals.
+meeting-0031,ECTSum,summary,gold_to_l,24,Devon Energy's Boundary Raider and Cobra projects delivered cost efficiencies.
+meeting-0064,QMSum-Academic,extraction,small,7,The group agreed that the current formalism should be used as a basis for further development.
+meeting-0064,QMSum-Academic,extraction,small,12,"The meeting recorder was mentioned as a factor in deciding the meeting time, with some members suggesting shorter meetings to accommodate the recorder's workload."
+meeting-0064,QMSum-Academic,summary,s_to_s,16,The exact meeting time was to be decided by Grad A.
+meeting-0064,QMSum-Academic,summary,s_to_s,17,Grad A was to consider the meeting recorder's workload when deciding the exact meeting time.
+meeting-0064,QMSum-Academic,summary,s_to_l,18,The scheduling of the next meeting depends on logistics.
+meeting-0064,QMSum-Academic,summary,s_to_l,19,The scheduling of the next meeting depends on the Meeting Recorder’s capacity.
+meeting-0064,QMSum-Academic,summary,l_to_l,5,A tentative decision was made to rename or reconsider the term 'constraints.'
+meeting-0064,QMSum-Academic,summary,gold_to_s,4,The presentation highlighted the integration of mental spaces.
+meeting-0064,QMSum-Academic,summary,gold_to_s,9,The group agreed to defer the integration of mental spaces.
+meeting-0078,MeetingBank,extraction,small,1,A call for review process by the City Council requires two council members to initiate an appeal and state a reason for the appeal.
+meeting-0078,MeetingBank,extraction,large,3,"The financial burden of preparing for a call for review falls entirely on the applicant, who must pay a deposit ranging from $750 to $2200, while council members incur no such cost."
+meeting-0078,MeetingBank,summary,direct_s,9,Opponents express worries about the potential for abuse.
+meeting-0078,MeetingBank,summary,direct_l,4,The public must pay a fee to initiate a call for review.
+meeting-0078,MeetingBank,summary,s_to_l,6,Appeals are later upheld.
+meeting-0078,MeetingBank,summary,l_to_s,10,"Supporters highlight the financial burden on applicants, who must pay a deposit ranging from $750 to $2200 for the appeal process."
+meeting-0078,MeetingBank,summary,l_to_l,5,The current system does not require providing justification.
+meeting-0136,QMSum-Product,extraction,small,5,The Industrial Designer indicated that the remote control should not be wired and that it should be designed to work with conventional TVs without requiring a specific model.
+meeting-0136,QMSum-Product,extraction,small,10,"The User Interface noted that the processing of data should occur on the TV set rather than the remote control, given the TV's processing capabilities."
+meeting-0136,QMSum-Product,extraction,large,3,The industrial designer proposes using batteries embedded in the remote control instead of relying on external power sources.
+meeting-0136,QMSum-Product,extraction,large,5,Two programmable chips are suggested: one for software functionalities (FPGA) and another for communication (Bluetooth).
+meeting-0136,QMSum-Product,extraction,large,9,Processing should ideally occur on the TV set itself rather than the remote controller to ensure compatibility with existing models.
+meeting-0136,QMSum-Product,summary,direct_s,19,The meeting concludes with a decision to proceed with the proposed design.
+meeting-0136,QMSum-Product,summary,direct_l,13,The industrial designer proposed a separate Bluetooth chip for communication.
+meeting-0136,QMSum-Product,summary,s_to_s,19,Marketing focused on including a microphone for speech recognition.
+meeting-0136,QMSum-Product,summary,s_to_l,22,Marketing recommended including a microphone for voice commands.
+meeting-0136,QMSum-Product,summary,l_to_s,6,Two programmable chips are considered: one for software functionalities (FPGA) and another for communication (Bluetooth).
+meeting-0136,QMSum-Product,summary,l_to_l,9,One proposed chip is a Bluetooth chip for communication.
+meeting-0136,QMSum-Product,summary,l_to_l,23,Multilingual support is deemed non-essential for the current project.
+meeting-0136,QMSum-Product,summary,l_to_l,24,Teletext options are deemed non-essential for the current project.
+meeting-0136,QMSum-Product,summary,gold_to_s,3,The discussion focuses on replacing outdated lighting adaptive features with modern solutions.
+meeting-0136,QMSum-Product,summary,gold_to_s,19,The team plans to incorporate this (internet access via television) into the remote's design.
+meeting-0160,QMSum-Product,extraction,small,1,The project aims to create a remote control with a profit margin of fifty million Euros.
+meeting-0160,QMSum-Product,extraction,small,2,The remote control needs to be trendy and have a competitive price point of twenty five Euros.
+meeting-0160,QMSum-Product,extraction,small,7,"The team plans to allocate tasks, with the User Interface designer researching shapes, colors, and materials for the remote control."
+meeting-0160,QMSum-Product,extraction,small,10,The Project Manager states the target price for the remote control is twelve Euros fifty.
+meeting-0160,QMSum-Product,extraction,small,11,The Project Manager mentions receiving warnings for future meetings.
+meeting-0160,QMSum-Product,summary,direct_s,15,The assigned tasks include preparing for future meetings.
+meeting-0160,QMSum-Product,summary,direct_l,11,Ideas include ensuring the remote has an ergonomic shape.
+meeting-0160,QMSum-Product,summary,direct_l,23,The marketing expert will research design trends.
+meeting-0160,QMSum-Product,summary,s_to_s,2,The remote control has a profit margin of fifty million Euros.
+meeting-0160,QMSum-Product,summary,l_to_s,9,Most existing remote controls are basic and unattractive.
+meeting-0160,QMSum-Product,summary,l_to_s,20,There is uncertainty about whether a price of twelve Euros fifty can accommodate the desired features and aesthetics.
+meeting-0160,QMSum-Product,summary,gold_to_s,19,The team acknowledges the challenge of achieving a profit of fifty million Euros with this pricing.
+meeting-0160,QMSum-Product,summary,gold_to_l,18,User-friendliness is highlighted as a crucial factor to attract consumers.
+meeting-0174,QMSum-Academic,summary,s_to_s,13,The aim of the trial run was to test the system's ability to interpret user intent.
+meeting-0174,QMSum-Academic,summary,s_to_l,7,The trial run aimed to evaluate the system's ability to interpret user intent realistically.
+meeting-0174,QMSum-Academic,summary,l_to_l,10,Liz is the subject for the trial run.
+meeting-0174,QMSum-Academic,summary,l_to_l,13,The aim of the trial run is to improve the system's understanding of user behavior.
+meeting-0174,QMSum-Academic,summary,l_to_l,21,The expansion aims to enhance the system's adaptability and responsiveness.
+meeting-0214,QMSum-Product,extraction,small,2,"The remote includes a scroll wheel, LCD display, and voice recognition features, but lacks a mute button and locator."
+meeting-0214,QMSum-Product,extraction,small,4,"The budget was twelve point five, and the team decided to remove the sample sensor and locator to stay within budget."
+meeting-0214,QMSum-Product,extraction,small,5,"The remote was evaluated on seven criteria using a seven-point scale, with most criteria receiving a score of seven except for one that received a five."
+meeting-0214,QMSum-Product,extraction,large,8,Voice recognition received a high score of 7 for being technologically innovative despite using existing technologies in new combinations.
+meeting-0214,QMSum-Product,extraction,large,12,A patent for the remote's unique features—such as the flip-open design and vibration feedback—was considered possible but unverified.
+meeting-0214,QMSum-Product,summary,s_to_s,10,The remote lacked a mute button.
+meeting-0214,QMSum-Product,summary,s_to_s,11,The remote lacked a locator.
+meeting-0214,QMSum-Product,summary,s_to_l,17,The team removed the locator to stay within budget.
+meeting-0214,QMSum-Product,summary,s_to_l,22,The criterion that received a five was related to intuitiveness and ergonomic design.
+meeting-0214,QMSum-Product,summary,l_to_s,35,Voice recognition was rated highly for its innovative use of existing technologies.
+meeting-0214,QMSum-Product,summary,l_to_s,39,Time constraints were particularly a challenge in refining ergonomic details.
+meeting-0214,QMSum-Product,summary,l_to_s,45,Unique features considered for a patent include vibration feedback.
+meeting-0214,QMSum-Product,summary,l_to_l,5,The design was ultimately deemed intuitive.
+meeting-0214,QMSum-Product,summary,l_to_l,17,Technological innovation received a high score.
+meeting-0214,QMSum-Product,summary,l_to_l,22,The team reflected positively on time management.
+meeting-0214,QMSum-Product,summary,gold_to_s,5,The remote features a scroll wheel for volume control.
+meeting-0214,QMSum-Product,summary,gold_to_s,27,The collaborative process included brainstorming.
+meeting-0214,QMSum-Product,summary,gold_to_l,7,The external interface includes a scroll wheel on the side for volume control.
+meeting-0214,QMSum-Product,summary,gold_to_l,8,Mute functionality is achieved by holding the scroll wheel.
+meeting-0214,QMSum-Product,summary,gold_to_l,11,The speaker was removed to meet a 12.50 Euro budget.
+meeting-0214,QMSum-Product,summary,gold_to_l,23,The product received positive feedback for its ergonomic design.
+meeting-0281,QMSum-Academic,extraction,small,4,The results from the second row are considered as a baseline with OGI features without the combo processing.
+meeting-0281,QMSum-Academic,extraction,small,9,"The deadline for submitting data is set for three PM European time on the 31st, which corresponds to midnight in the local time zone."
+meeting-0281,QMSum-Academic,extraction,large,6,"The weighted evaluation metric uses 40% for TI-digits, 35% for medium mismatch conditions, and 25% for high mismatch conditions, though it's unclear whether this applies to percentages or raw errors."
+meeting-0281,QMSum-Academic,extraction,large,10,"A deadline for submitting results is set for 3 PM European time, which translates to early morning in the local timezone."
+meeting-0281,QMSum-Academic,summary,s_to_s,24,The deadline for submitting data is set for 3 PM European time on the 31st.
+meeting-0281,QMSum-Academic,summary,s_to_s,25,The deadline corresponds to midnight in the local time zone.
+meeting-0281,QMSum-Academic,summary,s_to_l,21,They plan to submit data by 3 PM European time on the 31st.
+meeting-0281,QMSum-Academic,summary,s_to_l,22,3 PM European time on the 31st is equivalent to midnight locally.
+meeting-0281,QMSum-Academic,summary,l_to_s,14,A deadline for submitting results is set for 3 PM European time.
+meeting-0281,QMSum-Academic,summary,l_to_s,15,3 PM European time is early morning in the local timezone.
+meeting-0281,QMSum-Academic,summary,l_to_l,5,The KLT forms the basis of the system's feature extraction.
+meeting-0281,QMSum-Academic,summary,l_to_l,19,A submission deadline of 3 PM European time is noted.
+meeting-0281,QMSum-Academic,summary,gold_to_l,2,The 'combo' system processes OGI features through two Multi-Layer Perceptrons (MLPs).
+meeting-0281,QMSum-Academic,summary,gold_to_l,3,The 'combo' system combines the outputs of the two MLPs using a Karhunen-Loève Transform (KLT).
+meeting-0281,QMSum-Academic,summary,gold_to_l,12,Reducing KLT dimensionality significantly impacts performance in mismatched scenarios.
+meeting-0290,QMSum-Committee,summary,s_to_l,8,The witnesses stress that detailed definitions of corporal punishment are not necessary on the face of the legislation.
+meeting-0290,QMSum-Committee,summary,s_to_l,18,Some suggest that placing a duty on the Welsh Government to raise awareness would provide clarity.
+meeting-0290,QMSum-Committee,summary,s_to_l,19,Some suggest that placing a duty on the Welsh Government to raise awareness would ensure the success of the Bill.
+meeting-0290,QMSum-Committee,summary,gold_to_s,7,The need for clarity in the legislation is to ensure the best interests of children are prioritized.
+meeting-0290,QMSum-Committee,summary,gold_to_s,8,The witnesses argued that the current legal framework allows for an arbitrary level of violence.
+meeting-0290,QMSum-Committee,summary,gold_to_s,9,The witnesses argued that the current legal framework allowing for an arbitrary level of violence can lead to more serious forms of abuse.
+meeting-0291,QMSum-Product,summary,gold_to_s,7,The group discussions are for functional designs.
+meeting-0291,QMSum-Product,summary,gold_to_s,8,The group discussions are for conceptual designs.
+meeting-0291,QMSum-Product,summary,gold_to_s,9,The group discussions are for detailed designs.
+meeting-0337,MeetingBank,extraction,small,8,Council members voted against some of the on call contracts to encourage more detailed reporting and prior information sharing.
+meeting-0337,MeetingBank,summary,s_to_s,16,Concerns were raised particularly regarding the contracts' association with the Washington Street design project.
+meeting-0337,MeetingBank,summary,l_to_l,10,These contracts are processed quickly.
+meeting-0378,QMSum-Academic,summary,s_to_s,13,CPU and memory constraints are being addressed by optimizing the current setup.
+meeting-0378,QMSum-Academic,summary,s_to_l,2,Using a multi-English training set with PLP and delta features improved accuracy to 89.1%.
+meeting-0378,QMSum-Academic,summary,s_to_l,6,The lack of significant improvement from MSG features was likely due to processing issues such as missing filters or DC offsets.
+meeting-0378,QMSum-Academic,summary,s_to_l,8,"Training on a larger, diverse dataset (French, Spanish, TIMIT, SPINE, etc.) improved results."
+meeting-0378,QMSum-Academic,summary,l_to_s,19,MLPs sometimes decrease accuracy when combined with poorly normalized features.
+meeting-0378,QMSum-Academic,summary,l_to_l,9,The multi-English training set's outperformance is likely due to better data quality and alignment.
+meeting-0378,QMSum-Academic,summary,gold_to_l,3,"A neural network trained on a large multilingual database performed better than one trained only on French, Spanish, and English."
+meeting-0400,QMSum-Committee,extraction,small,2,"Cardiff University conducted research that has superseded previous sector analyses, including reports on the impact of Brexit on the Welsh economy."
+meeting-0400,QMSum-Committee,extraction,small,3,There is no formal risk assessment available for scrutiny regarding the impact of Brexit on HE and FE sectors.
+meeting-0400,QMSum-Committee,extraction,small,9,The Welsh Government is exploring multi-year funding settlements for HE and FE sectors beyond Brexit.
+meeting-0400,QMSum-Committee,summary,direct_s,6,Officials from the Welsh Government emphasize the need for a formal 'no deal' contingency plan.
+meeting-0400,QMSum-Committee,summary,s_to_s,17,The Welsh Government is exploring multi-year funding settlements for the HE sector.
+meeting-0400,QMSum-Committee,summary,s_to_s,18,The Welsh Government is exploring multi-year funding settlements for the FE sector.
+meeting-0400,QMSum-Committee,summary,s_to_l,8,"The European transition team addresses concerns in sectors like farming, health, and manufacturing."
+meeting-0400,QMSum-Committee,summary,l_to_s,13,The drop in EU student applications in Wales is attributed to Brexit uncertainty.
+meeting-0400,QMSum-Committee,summary,l_to_l,10,The decline in EU student applications is attributed to Brexit uncertainty.
+meeting-0400,QMSum-Committee,summary,l_to_l,14,Swansea University is not a high-tariff institution.
+meeting-0506,ECTSum,extraction,large,3,The company had minimal exposure to Hurricane Delta and no exposure to Laura or West Coast wildfires.
+meeting-0506,ECTSum,extraction,large,5,"The company secured close to 75% of its first-event reinsurance capacity for June 1, 2021, during Q4 2020."
+meeting-0506,ECTSum,summary,direct_s,8,The weather events contributed to a GAAP EPS loss of $0.90 for the year.
+meeting-0506,ECTSum,summary,direct_s,12,Adjusted operating income rose 14.2% to $1.1 billion.
+meeting-0506,ECTSum,summary,s_to_s,3,"Weather events included Hurricanes Sally, PCS, Zeta, and Eta."
+meeting-0506,ECTSum,summary,s_to_s,4,Weather events included the Midwest Derecho.
+meeting-0506,ECTSum,summary,s_to_s,7,The company had no exposure to Texas or Louisiana weather.
+meeting-0506,ECTSum,summary,s_to_l,6,The company had no exposure to Texas or Louisiana weather.
+meeting-0506,ECTSum,summary,s_to_l,8,"The company doesn't operate in those markets (Texas, Louisiana, West Coast wildfires)."
+meeting-0506,ECTSum,summary,l_to_s,5,The weather events included the Midwest Derecho.
+meeting-0506,ECTSum,summary,l_to_s,8,The company had no exposure to Texas or Louisiana weather.
+meeting-0506,ECTSum,summary,l_to_s,30,The growth in direct premiums written was primarily due to improved policy retention.
+meeting-0506,ECTSum,summary,l_to_l,4,"Hurricanes Sally, Zeta, and Eta resulted in over 10,000 claims in the fourth quarter."
+meeting-0506,ECTSum,summary,l_to_l,11,"The company secured 75% of its first-event reinsurance capacity for June 1, 2021, during Q4 2020."
+meeting-0506,ECTSum,summary,l_to_l,17,Earnings per share showed a loss on a GAAP basis for the year.
+meeting-0506,ECTSum,summary,l_to_l,24,The rise in direct premiums written reflected improved retention in several markets.
+meeting-0506,ECTSum,summary,gold_to_s,10,"The weather events included, to a lesser extent, the Midwest Derecho."
+meeting-0550,ECTSum,summary,direct_l,10,Shareholders received a 20% base dividend increase for the third consecutive quarter.
+meeting-0550,ECTSum,summary,s_to_s,23,"In the third quarter, Marathon Oil's production volumes increased."
+meeting-0550,ECTSum,summary,l_to_l,9,"In Q4, Marathon Oil executed $200 million in share repurchases."
+meeting-0571,ECTSum,summary,direct_l,6,EBITDA margin rose to 31.7%.
+meeting-0571,ECTSum,summary,direct_l,12,The company demonstrated resilience.
+meeting-0571,ECTSum,summary,direct_l,13,The company outperformed expectations.
+meeting-0571,ECTSum,summary,l_to_s,7,EBITDA margin improved to 21.7%.
+meeting-0571,ECTSum,summary,l_to_s,8,EBITDA margin was up 270 basis points from 19% in 2020.
+meeting-0571,ECTSum,summary,gold_to_l,6,The rise in adjusted earnings per share was driven by successful diversification efforts.
+meeting-0571,ECTSum,summary,gold_to_l,7,The rise in adjusted earnings per share was driven by improved performance in non-transportation markets.
+meeting-0621,MeetingBank,extraction,small,1,Council Bill 245 proposes a rezoning from Gmc's 32grx5 to General Urban Residential Mixed Use five story.
+meeting-0621,MeetingBank,extraction,small,3,"The applicant is no doubt Colorado, and they recently closed on a property previously owned by the University of Denver and Colorado Seminary."
+meeting-0621,MeetingBank,extraction,small,4,"The current site is zoned C-Max five, with adjacent areas including G and U 12 and Tr x five."
+meeting-0621,MeetingBank,summary,s_to_s,4,The proposed rezoning is from Gmc's 32grx5 to General Urban Residential Mixed Use five story.
+meeting-0621,MeetingBank,summary,s_to_s,5,The applicant is no doubt Colorado.
+meeting-0621,MeetingBank,summary,s_to_s,8,The current zoning of the site is C-Max five.
+meeting-0621,MeetingBank,summary,s_to_s,9,Adjacent areas include G and U 12 and Tr x five.
+meeting-0621,MeetingBank,summary,s_to_l,3,The applicant is No Doubt Colorado.
+meeting-0621,MeetingBank,summary,s_to_l,4,No Doubt Colorado recently acquired the property from the University of Denver and Colorado Seminary.
+meeting-0621,MeetingBank,summary,l_to_s,5,The applicant is Knowlton of Colorado.
+meeting-0621,MeetingBank,summary,l_to_l,5,The current zoning is General Urban Mixed Use Annex (GMU) three-story.
+meeting-0621,MeetingBank,summary,l_to_l,7,The proposed rezoning is to General Urban Residential Mixed Use (GRX) five-story.
+meeting-0621,MeetingBank,summary,l_to_l,9,The applicant is Knowlton of Colorado.
+meeting-0621,MeetingBank,summary,l_to_l,10,Knowlton of Colorado recently acquired the property.
+meeting-0621,MeetingBank,summary,gold_to_s,3,The applicant is Node Colorado.
+meeting-0621,MeetingBank,summary,gold_to_l,6,The applicant is Node Colorado.
+meeting-0621,MeetingBank,summary,gold_to_l,33,The bill's passage marks a significant shift in the area's development trajectory.
+meeting-0761,QMSum-Committee,extraction,large,9,"Federal workers have been told to ignore obvious signs of fraud in applications for government benefits, raising concerns about accountability."
+meeting-0761,QMSum-Committee,summary,gold_to_s,11,Petitions were presented concerning the impact of the pandemic on seniors.
+meeting-0761,QMSum-Committee,summary,gold_to_s,12,Petitions were presented concerning the impact of the pandemic on healthcare workers.
+meeting-0761,QMSum-Committee,summary,gold_to_s,13,Petitions were presented concerning the impact of the pandemic on the tourism sector.
+meeting-0761,QMSum-Committee,summary,gold_to_s,14,Petitions were presented concerning the impact of the pandemic on the agriculture sector.
+meeting-0795,QMSum-Academic,extraction,small,7,A proposal was made to conduct experiments comparing the effectiveness of using a multilingual dataset versus a single language dataset for training.
+meeting-0795,QMSum-Academic,summary,direct_s,6,The purpose of the trip includes analyzing data.
+meeting-0795,QMSum-Academic,summary,direct_s,7,The purpose of the trip includes testing different features for speech recognition.
+meeting-0795,QMSum-Academic,summary,direct_s,8,The purpose of the trip includes testing different training methods for speech recognition.
+meeting-0795,QMSum-Academic,summary,l_to_s,13,It is noted that cross-language training and testing might be beneficial.
+meeting-0795,QMSum-Academic,summary,l_to_s,14,It is noted that cross-language training and testing is not the primary concern at the moment.
+meeting-0795,QMSum-Academic,summary,l_to_s,26,The goal of these experiments is to gain insights into cross-language performance.
+meeting-1020,QMSum-Committee,summary,direct_l,30,The crisis is ongoing.
+meeting-1020,QMSum-Committee,summary,s_to_s,4,Two petitions were presented.
+meeting-1020,QMSum-Committee,summary,s_to_s,32,The Minister of Health acknowledged the importance of fighting discrimination but not committing to immediate action on the gay blood ban.
+meeting-1020,QMSum-Committee,summary,gold_to_s,6,Petitions were on the issue of the treatment of veterans.
+meeting-1020,QMSum-Committee,summary,gold_to_s,7,Petitions were on the issue of the treatment of seniors.
+meeting-1218,QMSum-Product,extraction,small,1,"The remote control was designed to be a snowman-shaped device with no LCD display, no talk-back feature, and intended to use kinetic power and battery with rubber buttons."
+meeting-1218,QMSum-Product,extraction,small,6,"The remote control has four colored buttons, with one button serving as the power button when held for two seconds."
+meeting-1218,QMSum-Product,extraction,small,11,"The team agreed that the remote control should be styled with a fruit-inspired color scheme, primarily yellow, representing the company's colors."
+meeting-1218,QMSum-Product,extraction,large,4,"An LCD screen was added for displaying functions like brightness and contrast, accessed via a scroll wheel and confirm button."
+meeting-1218,QMSum-Product,extraction,large,16,"Ninjia Homer is the name chosen for the prototype, referencing its shape resembling Homer Simpson."
+meeting-1218,QMSum-Product,summary,direct_s,4,The design specifications include the removal of advanced functions.
+meeting-1218,QMSum-Product,summary,direct_s,14,The team possibly decides on special colored buttons.
+meeting-1218,QMSum-Product,summary,direct_l,16,The team aimed for a compact size.
+meeting-1218,QMSum-Product,summary,s_to_s,4,The remote control's focus is on kinetic power and battery.
+meeting-1218,QMSum-Product,summary,s_to_s,5,The remote control has rubber buttons.
+meeting-1218,QMSum-Product,summary,s_to_s,18,The remote control is styled with a fruit-inspired color scheme.
+meeting-1218,QMSum-Product,summary,s_to_s,20,The remote control has four colored buttons.
+meeting-1218,QMSum-Product,summary,l_to_s,10,An LCD screen was added for displaying functions like brightness and contrast.
+meeting-1218,QMSum-Product,summary,l_to_s,11,The LCD screen functions are accessed via a scroll wheel and confirm button.
+meeting-1218,QMSum-Product,summary,l_to_l,14,The case is likely yellow.
+meeting-1218,QMSum-Product,summary,l_to_l,30,Whiteboards were deemed clunky.
+meeting-1218,QMSum-Product,summary,gold_to_s,15,The design was evaluated as stylish.
+meeting-1218,QMSum-Product,summary,gold_to_s,16,The design was evaluated as functional.
+meeting-1218,QMSum-Product,summary,gold_to_s,22,The final design cost is within the 12.50 Euro budget.
+meeting-1218,QMSum-Product,summary,gold_to_l,20,The Marketing Expert praised the design's simplicity and style.
+meeting-1386,QMSum-Committee,summary,direct_l,4,The qualification is not universally valued due to its novelty.
+meeting-1386,QMSum-Committee,summary,s_to_l,2,The Welsh baccalaureate qualification is generally valued by teachers.
+meeting-1386,QMSum-Committee,summary,s_to_l,24,The policy of capping grades on resits may limit opportunities for some students.
+meeting-1386,QMSum-Committee,summary,l_to_s,6,Qualifications Wales's review indicates that many teachers appreciate the Welsh baccalaureate qualification.
+meeting-1386,QMSum-Committee,summary,l_to_l,23,Cardiff University is a stakeholder that has expressed reservations about the Welsh bac.
+meeting-1386,QMSum-Committee,summary,gold_to_l,22,The Cabinet Secretary dismissed claims that students are leaving Wales to avoid the Welsh Baccalaureate.
+meeting-1386,QMSum-Committee,summary,gold_to_l,27,The Cabinet Secretary noted the WJEC's policy of capping resit grades as a concern for students affected by variability in delivery.
+meeting-1469,QMSum-Committee,extraction,small,13,"Hon. Pierre Poilievre questioned if 200,000 cheques had been sent to fraudulent applicants, and Duclos clarified that the number was approximately 200,000."
+meeting-1469,QMSum-Committee,extraction,small,14,"Hon. Grard Deltell asked if 200,000 people had fraudulently used emergency assistance, and Duclos reiterated that the number was approximately 200,000."
+meeting-1469,QMSum-Committee,extraction,small,18,Hon. John Barlow noted that the government had set aside funds for cattle and pork producers but claimed they had already disappeared.
+meeting-1469,QMSum-Committee,extraction,small,22,"Hon. Larry Maguire questioned the effectiveness of the commercial rent assistance program, noting only one in ten businesses could benefit from it."
+meeting-1469,QMSum-Committee,extraction,small,25,Hon. Ben Lobb questioned the government about the exclusion of general partnerships from the wage subsidy program and the discrimination in the rent assistance program based on mortgage status.
+meeting-1469,QMSum-Committee,extraction,small,30,Hon. Jean-Yves Duclos stated that the Canada emergency commercial rent assistance program was too restrictive for businesses and optional for landlords.
+meeting-1469,QMSum-Committee,extraction,large,8,Poilievre asked how many ERB cheques were sent to flagged fraudulent applicants; Jean-Yves Duclos avoided providing a direct number.
+meeting-1469,QMSum-Committee,extraction,large,9,Poilievre also questioned how many prisoners received benefits; Duclos responded that the program was an emergency measure.
+meeting-1469,QMSum-Committee,extraction,large,15,Kelly also inquired about debt servicing costs and potential effects of downgrading Canada's AAA credit rating; Bill Morneau deferred detailed responses.
+meeting-1469,QMSum-Committee,extraction,large,27,"Pierre Poilievre asked about government assets, liabilities, and equity; Bill Morneau avoided providing figures but reiterated fiscal strength."
+meeting-1469,QMSum-Committee,summary,s_to_s,28,"Hon. Jean-Yves Duclos reiterated that the number was approximately 200,000."
+meeting-1469,QMSum-Committee,summary,s_to_s,36,Hon. John Barlow claimed the funds for cattle and pork producers had already disappeared.
+meeting-1469,QMSum-Committee,summary,s_to_s,58,Hon. Jean-Yves Duclos stated that the Canada emergency commercial rent assistance program was too restrictive for businesses.
+meeting-1469,QMSum-Committee,summary,s_to_s,59,Hon. Jean-Yves Duclos stated that the Canada emergency commercial rent assistance program was optional for landlords.
+meeting-1469,QMSum-Committee,summary,s_to_l,19,"The government responded by confirming that approximately 200,000 CERB recipients had been flagged for fraud."
+meeting-1469,QMSum-Committee,summary,l_to_l,14,Others pressed for clarity on the number of fraudulent benefit cheques and prisoners who received them.
+meeting-1557,QMSum-Product,extraction,small,3,The team reduced the number of physical buttons from fifteen to four arrows and a menu button.
+meeting-1557,QMSum-Product,extraction,small,4,"The special color of the buttons was kept, but the overall design was made in plastic with a single curve."
+meeting-1557,QMSum-Product,extraction,small,7,"The final design includes one button with a special color, an LCD screen, and uses kinetic energy as a power source."
+meeting-1557,QMSum-Product,summary,s_to_s,6,The team decided to drop the special color of the buttons.
+meeting-1557,QMSum-Product,summary,s_to_s,12,Choosing the integrated scroll-wheel push-button saved costs.
+meeting-1557,QMSum-Product,summary,s_to_l,4,The speech recognition feature was dropped due to its high cost.
+meeting-1557,QMSum-Product,summary,s_to_l,5,The speech recognition feature was dropped due to its complexity.
+meeting-1557,QMSum-Product,summary,s_to_l,10,The number of physical buttons was reduced to just four arrows and a menu button.
+meeting-1557,QMSum-Product,summary,s_to_l,21,The score of around 3.1 reflects mixed performance on usability and innovation.
+meeting-1557,QMSum-Product,summary,l_to_s,3,"Initially, they consider replacing the LCD screen with a simpler alternative."
+meeting-1557,QMSum-Product,summary,l_to_s,6,The LCD screen is more popular than speech recognition.
+meeting-1557,QMSum-Product,summary,l_to_s,10,The reason for replacing physical buttons is to simplify the design.
+meeting-1557,QMSum-Product,summary,l_to_s,17,The logo consists of two R's and a number one.
+meeting-1557,QMSum-Product,summary,l_to_s,27,The meeting concludes with the team agreeing to prepare presentations.
+meeting-1557,QMSum-Product,summary,l_to_l,13,A change was integrating a scroll-wheel push-button for channel adjustments.
+meeting-1557,QMSum-Product,summary,l_to_l,14,A change was integrating a scroll-wheel push-button for volume adjustments.
+meeting-1557,QMSum-Product,summary,gold_to_s,4,Removing the number buttons saves 4.50 Euros.
+meeting-1557,QMSum-Product,summary,gold_to_s,26,Marketing prefers the digital pen over the Smartboard.
+meeting-1557,QMSum-Product,summary,gold_to_s,27,Marketing's preference is for the digital pen's effectiveness in their work.
+meeting-1557,QMSum-Product,summary,gold_to_l,1,The project team aimed to reduce the production cost of a remote control from 25 Euros to 12.50 Euros.
+meeting-1557,QMSum-Product,summary,gold_to_l,7,The LCD screen was more popular than speech recognition according to Marketing data.
+meeting-1696,MeetingBank,summary,direct_s,1,A proposal exists to rezone a property at 142038 Street in Denver.
+meeting-1696,MeetingBank,summary,direct_s,2,The property's current zoning is to be changed to CMC's eight.
+meeting-1696,MeetingBank,summary,direct_l,1,Council Bill 1421 proposes a rezoning of a parcel at 38th and Blake.
+meeting-1696,MeetingBank,summary,s_to_s,1,Council Bill 1421 seeks to rezone a parcel at 14 2038 street.
+meeting-1696,MeetingBank,summary,l_to_l,1,Council Bill 1421 aims to rezone a vacant parcel at 38th and Blake.
+meeting-1719,MeetingBank,summary,direct_s,4,The fiscal responsibility measure is Item 60.
+meeting-1719,MeetingBank,summary,direct_s,8,The competing ordinance is Item 66.
+meeting-1719,MeetingBank,summary,direct_l,5,Item 6D aims to ensure fiscal responsibility.
+meeting-1719,MeetingBank,summary,s_to_l,6,"Concerns were raised about the complexity and potential confusion of including multiple measures, particularly regarding funding mechanisms."
+meeting-1719,MeetingBank,summary,s_to_l,7,"Concerns were raised about the complexity and potential confusion of including multiple measures, particularly regarding legal implications."
+meeting-1719,MeetingBank,summary,s_to_l,13,Some council members emphasized the importance of ensuring that the measures align with the city’s priorities.
+meeting-1719,MeetingBank,summary,l_to_s,7,Some council members prefer to keep the fiscal responsibility measure on the ballot to ensure transparency for voters.
+meeting-1719,MeetingBank,summary,l_to_s,8,Some council members prefer to keep the fiscal responsibility measure on the ballot to ensure clarity for voters.
+meeting-1719,MeetingBank,summary,gold_to_s,15,Councilmembers Vella was tasked with drafting arguments against the Carrying Alameda Act.
+meeting-1719,MeetingBank,summary,gold_to_s,16,The Mayor was tasked with drafting arguments against the Carrying Alameda Act.
+meeting-1719,MeetingBank,summary,gold_to_l,4,The Fiscal Responsibility Measure aims to require the City Attorney to identify a funding source before implementation.
+meeting-1719,MeetingBank,summary,gold_to_l,13,Councilmember Vella and the Mayor were tasked with drafting opposing arguments for the Carrying Alameda Act.
+meeting-1726,MeetingBank,extraction,small,3,"The lease agreement would bring 100 new jobs to Alameda and 50 new jobs to Aida, and involves a payment of $5,125 per year instead of a development impact fee of $714,640."
+meeting-1726,MeetingBank,extraction,small,13,"An oil spill response plan is required for the facility, and WETA has a history of no oil spills in the last 18 years."
+meeting-1726,MeetingBank,extraction,small,14,"The facility will be adjacent to existing ferry operations, including Aida, which previously had an incident involving an oil spill but played a role in protecting the coastline during the ASCO Busan wreck."
+meeting-1726,MeetingBank,extraction,large,5,The project will create 100 new jobs in Alameda and 50 additional jobs.
+meeting-1726,MeetingBank,extraction,large,32,Member Ashcroft acknowledges the collaborative process but stresses the need for more community engagement and transparency.
+meeting-1726,MeetingBank,summary,s_to_s,8,The lease would bring 50 new jobs to Aida.
+meeting-1726,MeetingBank,summary,s_to_s,35,Aida previously had an incident involving an oil spill.
+meeting-1726,MeetingBank,summary,s_to_s,43,The memorandum of understanding was approved with a vote of 3-2.
+meeting-1726,MeetingBank,summary,s_to_l,7,The project aims to create 50 new jobs in Aida.
+meeting-1726,MeetingBank,summary,s_to_l,10,"Instead of paying the development impact fee, WETA will contribute $5,125 annually."
+meeting-1726,MeetingBank,summary,s_to_l,31,The MOU passed with a 3-2 vote.
+meeting-1726,MeetingBank,summary,l_to_s,8,The facility will create 50 additional jobs.
+meeting-1726,MeetingBank,summary,l_to_l,10,The project is expected to create 50 additional jobs elsewhere.
+meeting-1726,MeetingBank,summary,gold_to_s,7,The facility will serve as a facility for WETA's ferry operations.
+meeting-1776,ECTSum,summary,direct_l,31,Risks include global economic uncertainties.

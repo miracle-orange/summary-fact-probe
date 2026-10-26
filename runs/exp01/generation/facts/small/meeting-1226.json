@@ -1,0 +1,39 @@
+{
+  "status": "ok",
+  "request_hash": "4125fcc6bd156565bafd280f4fab013333f5d2bd57a3bdffe20c8e078e8c91e5",
+  "output": {
+    "key_facts": [
+      "The company raised its full year revenue guidance and adjusted earnings per share guidance for the remainder of 2021.",
+      "The company's third quarter revenue increased by 18.6% year-over-year, with nine months ended September 30 revenue up by 14.5% year-over-year.",
+      "Same unit revenue for the third quarter grew by 8.3% compared with last year, and for the nine months, same unit revenue grew by 7.3% compared with last year.",
+      "The Financial Services group's total revenue grew by 20.4% in the third quarter and by 16% for the nine months ended September 30.",
+      "The benefits and insurance group's total revenue grew by 16.1% in the third quarter and by 12.4% for the nine months ended September 30.",
+      "The company's adjusted earnings per share for the nine months was $1.84, up 30.5% from $1.41 a year earlier.",
+      "The company's income before tax margin declined in the third quarter from 11.4% to 10.3% due to higher expenses, but improved by 120 basis points to 15.2% for the nine months.",
+      "The company closed five acquisition transactions that will contribute approximately $72 million of annualized revenue.",
+      "The company has used $74.8 million for acquisition purposes through September 30, with future earn-out payments estimated at approximately $6.6 million for the balance of 2021, $26.7 million in 2022, $19.3 million in 2023, $22.9 million in 2024, and approximately $6 million in 2025.",
+      "The company repurchased approximately 2.7 million shares through September 30, with an additional 258,000 shares repurchased through October 26, leading to an expected full year share count within a range of 53.5 million to 54 million shares.",
+      "The company's debt outstanding on its unsecured $400 million credit line was $190.2 million at September 30, with $201.6 million of unused capacity.",
+      "Adjusted EBITDA for the nine months this year was $153.5 million, up 21% from $126.9 million a year ago.",
+      "The company's day sales outstanding on receivables was 88 days at September 30, reflecting improvements over the past 12 to 18 months.",
+      "Bad debt expense through September 30 this year was approximately 10 basis points of revenue compared with 41 basis points a year ago.",
+      "The company's effective tax rate for the nine months was approximately 24.5%, with a full year effective tax rate expected within a range of 24% to 24.5%.",
+      "The company expects total revenue growth in 2021 within a range of 12% to 15% over 2020.",
+      "Adjusted earnings-per-share growth is expected within a range of 20% to 24% over the $1.42 earnings per share recorded in 2020.",
+      "The company completed the acquisition of Shea Labagh Dobberstein, an accounting, tax, and advisory services firm based in San Francisco, Bay Area, in early September.",
+      "The acquisition of Shea Labagh Dobberstein is part of the company's long-term growth strategy on the West Coast and complements its existing geographic footprint.",
+      "The company's full year outlook includes a projected slight operating loss in newly acquired operations in the fourth quarter due to typical seasonality of these businesses.",
+      "The company's vacation expense accruals followed a more normal pattern this year, resulting in no significant favorable adjustment projected in the fourth quarter compared to last year."
+    ]
+  },
+  "metadata": {
+    "model": "small",
+    "finish_reason": "stop",
+    "usage": {
+      "prompt_tokens": 3244,
+      "total_tokens": 4090,
+      "completion_tokens": 846,
+      "prompt_tokens_details": null
+    }
+  }
+}

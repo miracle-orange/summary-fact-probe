@@ -1,0 +1,30 @@
+{
+  "status": "ok",
+  "request_hash": "05a00443f381967d5f8c6e53f9ea82e7c94216248d7f59f7d25d3ad7bf4a5a6f",
+  "output": {
+    "key_facts": [
+      "The on call contracts have a total capacity of up to $4 million each over the next three years, with a total potential spending of $56 million.",
+      "The on call contracts are used for projects under $500,000, including engineering services for intersection designs, signal design, small roadway projects, and general rehab projects.",
+      "A regular report on the spending of on call contracts will be sent to the council by the end of the week, including details on how much has been used and capacity remaining.",
+      "The Park Hill Drainage Project and the National Western Center are separate from the on call contracts, as they exceed the on call contract limits and are publicly procured separately.",
+      "The on call contracts are part of the 2017 budget and subsequent budgets for three years.",
+      "The city has a website where all construction projects, including those using on call contracts, are listed.",
+      "Projects within the boundaries of the Park Hill Drainage Project or the National Western Center will be tracked separately to avoid overlap with public works funds.",
+      "The Washington Street design project is a separate project due to its large scale and will be handled through a hard bid process.",
+      "The administration has stated that the on call contracts are not associated with any malfeasance or corruption.",
+      "Councilman Cashman and Councilwoman Ortega expressed concerns about the lack of detailed information upfront and voted against the contracts to encourage more transparency and reporting.",
+      "Councilman Espinosa proposed a block vote for resolutions 1276 through 1289 and companion bills 56 and 58, which were adopted in a block.",
+      "A public hearing is required for Council Bill 55 and Council Bill 57, which are related to the Saint Anthony Urban Redevelopment Plan amendments for the Sloan's Lake projects."
+    ]
+  },
+  "metadata": {
+    "model": "small",
+    "finish_reason": "stop",
+    "usage": {
+      "prompt_tokens": 4624,
+      "total_tokens": 5001,
+      "completion_tokens": 377,
+      "prompt_tokens_details": null
+    }
+  }
+}

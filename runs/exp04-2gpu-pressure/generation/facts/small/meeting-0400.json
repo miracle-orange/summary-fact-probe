@@ -1,0 +1,49 @@
+{
+  "status": "ok",
+  "request_hash": "8f5b4be36aee88d704a786254d67aa84e5fa61ac0c90ff129747658e328cb89e",
+  "output": {
+    "key_facts": [
+      "The Welsh Government has been working with higher education (HE) and further education (FE) institutions since September 2016 to assess the impact of Brexit.",
+      "Cardiff University conducted research that has superseded previous sector analyses, including reports on the impact of Brexit on the Welsh economy.",
+      "The Welsh Government has not yet released formal risk assessments for HE and FE sectors regarding Brexit.",
+      "The European transition team within Welsh Government coordinates efforts across departments to prepare for Brexit impacts.",
+      "The Welsh Government is concerned about the potential impact of a 'no deal' Brexit on the FE sector, particularly in sectors like farming, health and social care, construction, and hospitality and tourism.",
+      "Under a 'no deal' scenario, the Welsh Government expects that ESF funding will continue until 2020, but there are concerns about future funding.",
+      "The Welsh Government has allocated £3.5 million to the Global Wales initiative to support international recruitment and marketing for HE institutions.",
+      "The Welsh Government has committed to implementing the Diamond review proposals for HE funding.",
+      "The Welsh Government has made an additional £5 million available to HEFCW to mitigate the freeze in tuition fees and support postgraduate studies.",
+      "There is a concern among Welsh Government officials that the removal of the tuition fee grant for EU students has impacted recruitment, leading to a drop in EU student applications.",
+      "The Welsh Government has not yet received clarity from the Treasury on future funding for EU students.",
+      "The Welsh Government has engaged with FE colleges to understand their preparedness for Brexit, particularly in relation to apprenticeships and ESF funding.",
+      "The Welsh Government is concerned about the potential loss of multi-year European funding for HE and FE sectors, which affects planning and stability.",
+      "The Welsh Government has stated that they expect to maintain a level of funding for apprenticeships, assuming the UK government fulfills its commitments.",
+      "The Welsh Government has been working with the FE sector to align training with employer needs through regional skills partnerships.",
+      "The Welsh Government has expressed concerns about the impact of Brexit on the ability of HE institutions to charge international fees, depending on the outcome of negotiations.",
+      "The Welsh Government has not yet confirmed any specific actions to prevent Brexit from exacerbating the drop in EU student applications.",
+      "The Welsh Government has emphasized the importance of maintaining the current level of funding for HE and FE sectors, as promised during the Brexit referendum."
+    ]
+  },
+  "metadata": {
+    "attempts": 1,
+    "input_tokens_local": 10888,
+    "context_limit": 65536,
+    "request_parameters": {
+      "temperature": 0.7,
+      "top_p": 0.8,
+      "top_k": 20,
+      "min_p": 0.0,
+      "repetition_penalty": 1.05,
+      "presence_penalty": 1.0,
+      "seed": 42,
+      "max_tokens": 8192
+    },
+    "model": "small",
+    "finish_reason": "stop",
+    "usage": {
+      "prompt_tokens": 10888,
+      "total_tokens": 11376,
+      "completion_tokens": 488,
+      "prompt_tokens_details": null
+    }
+  }
+}

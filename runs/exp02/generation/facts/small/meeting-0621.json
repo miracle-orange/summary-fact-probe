@@ -1,0 +1,20 @@
+{
+  "status": "ok",
+  "request_hash": "ef217fbc98650a44aac516f915dcedb4e1c226b4be1b5042205e4cd43dedd203",
+  "output": {
+    "key_facts": [
+      "Council Bill 245 proposes a rezoning of a 75,000 square foot property in University Park neighborhood from G or General Urban Mixed Use Annex three Story to General Urban Residential Mixed Use five Story.",
+      "The rezoning requires an affirmative vote of ten out of twelve council members to pass, as there was a petition of protest filed by the neighborhood group which constitutes a legal protest under the zoning code."
+    ]
+  },
+  "metadata": {
+    "model": "small",
+    "finish_reason": "stop",
+    "usage": {
+      "prompt_tokens": 31044,
+      "total_tokens": 31137,
+      "completion_tokens": 93,
+      "prompt_tokens_details": null
+    }
+  }
+}

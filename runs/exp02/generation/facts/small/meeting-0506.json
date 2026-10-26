@@ -1,0 +1,48 @@
+{
+  "status": "ok",
+  "request_hash": "a8a6497ad9a0366664077bb20a2f324d94f5fc0c4b31400c8cb90dcd131d7332",
+  "output": {
+    "key_facts": [
+      "The company ended the year with more than $1.5 billion of premium now in force.",
+      "The company experienced a record-setting frequency of weather events during the 2020 winter season, impacting its 4th quarter and full year results.",
+      "The company was impacted by Hurricane Sally, PCS, Zeta, and Eta in 2020, with minimal exposure to Hurricane Delta and the Midwest Derecho.",
+      "The company had over 10,000 claims in the fourth quarter from named 2020 storms and other PCS events.",
+      "The company had no exposure to hurricane Laura or any other weather in Texas or Louisiana, including recent winter storms.",
+      "The company does not write business in the West Coast markets and thus had no exposure to the West Coast wildfires.",
+      "The company increased primary rates in Florida by close to 20% for the full year, including a 7% increase in the 4th quarter.",
+      "The company implemented new binding guidelines to address emerging loss trends.",
+      "The company maintained a resilient balance sheet that self-funded its risk-bearing entities' capital requirements and enhanced its reserves.",
+      "The company secured close to 75% of its first event reinsurance capacity for June 1, 2021.",
+      "The company expanded geographically in 2020 and implemented catastrophe rapid response teams during the COVID-19 pandemic, accelerating the use of digital technology for adjusting claims.",
+      "The company developed adaptive adjusting approaches to address claims loss cost trends.",
+      "Total revenue for 2020 increased by 14.2% to $1.1 billion, driven by growth in net premiums earned, realized gains on investments, and increases in service revenue.",
+      "GAAP EPS for the quarter was a loss of $0.57, while non-GAAP adjusted EPS was a loss of $0.84.",
+      "GAAP EPS for the year was $0.60, while non-GAAP adjusted EPS was a loss of $0.90.",
+      "Weather events in 2020 and related social dynamics, along with increased reinsurance costs, significantly impacted the results.",
+      "Direct premiums written grew by 21.9% in Q4 compared to the prior year's quarter, led by rate increases in Florida and other states, as well as strong direct premium growth in Q4 of 18.9% in states outside of Florida.",
+      "For the full year, direct premiums written increased by 7%, driven by rate increases, increased volume, and strong direct premium written growth of 17.7% in other states, along with slightly improved policy retention.",
+      "The combined ratio decreased 18.9 points for the quarter to 124% but increased 9.7 points for the full year to 113.6%.",
+      "The full year increase in the combined ratio was primarily driven by an increase of 13 points due to increased weather in 2020.",
+      "The increase in the combined ratio was also attributed to an increase in the core loss pick compared to the full prior year and the effect of increased reinsurance costs.",
+      "The increase in the combined ratio was partially offset by a lower level of prior years' reserve development on prior year's losses in LAE reserves, which accounted for 4.1 loss ratio points.",
+      "A benefit from the claims adjusting business and a 90 basis point improvement in the expense ratio contributed to the combined ratio.",
+      "Net investment income decreased by 62.7% for the quarter and 33.7% for the full year, primarily due to lower yields on cash and fixed income investments during 2020 compared to 2019.",
+      "Realized gains for the quarter and full year were primarily from taking advantage of increased market prices on available-for-sale debt investments, with a lesser contribution from the sale of equity securities.",
+      "Unrealized gains were driven by market fluctuations in equity securities, resulting in a favorable outcome for the quarter and the full year.",
+      "The company repurchased approximately 193,000 shares at an aggregate cost of $2.4 million in the fourth quarter and approximately 1.6 million shares at an aggregate cost of $28.9 million for the full year.",
+      "For 2021, the company expects a GAAP and non-GAAP adjusted earnings per share range of $2.75 to $3, assuming no extraordinary weather events.",
+      "The 2021 guidance also assumes a return on average equity of 17% to 19%.",
+      "The 2021 guidance assumes no extraordinary weather events, and if weather events exceed expectations, it anticipates a benefit from its claims adjusting business and increased loss cost."
+    ]
+  },
+  "metadata": {
+    "model": "small",
+    "finish_reason": "stop",
+    "usage": {
+      "prompt_tokens": 1362,
+      "total_tokens": 2355,
+      "completion_tokens": 993,
+      "prompt_tokens_details": null
+    }
+  }
+}

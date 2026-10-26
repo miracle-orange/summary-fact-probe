@@ -1,0 +1,528 @@
+meeting-0136 dataset=QMSum-Product source_chars=25930
+
+PILOT SMALL FACTS
+1. The Project Manager mentioned that the remote control should only be used for television and not for lighting adaptive functions.
+2. The Industrial Designer proposed using a battery and two programmable chips for the remote control, with one chip handling communication via infrared and the other for functionalities.
+3. The User Interface suggested integrating speech recognition with a limited vocabulary to allow users to select TV programs by voice commands.
+4. Marketing pointed out that the remote control should be slim, small, and have a reasonable cost while including features like speech recognition and multilingual teletext support.
+5. The Industrial Designer indicated that the remote control should not be wired and that it should be designed to work with conventional TVs without requiring a specific model.
+6. The Marketing team suggested adding a microphone to the remote control to enable speech recognition functionality.
+7. The Project Manager confirmed that the team would not need lighting adaptive options due to the new project requirements.
+8. The Industrial Designer proposed anticipating future demands by designing the remote control to be compatible with internet-enabled TVs.
+9. The Marketing team emphasized that the remote control should include features such as speech recognition, multilingual teletext, and be affordable to consumers.
+10. The User Interface noted that the processing of data should occur on the TV set rather than the remote control, given the TV's processing capabilities.
+
+PILOT LARGE FACTS
+1. The meeting aims to present progress and make decisions on the design and functionality of a new television remote control.
+2. Teletext is considered outdated due to the popularity of the internet, and it is decided that adaptive lighting is unnecessary for the remote control.
+3. The industrial designer proposes using batteries embedded in the remote control instead of relying on external power sources.
+4. Communication between the remote control and TV will be via infrared technology.
+5. Two programmable chips are suggested: one for software functionalities (FPGA) and another for communication (Bluetooth).
+6. A charger is proposed as an alternative to replaceable batteries to improve user convenience.
+7. The user interface design emphasizes simplicity, focusing on navigation buttons rather than numerous small ones.
+8. Speech recognition is proposed for limited tasks such as channel selection and volume adjustment, but its feasibility on small devices is questioned.
+9. Processing should ideally occur on the TV set itself rather than the remote controller to ensure compatibility with existing models.
+10. Feedback from users collected via magazine forms indicates interest in slim, inexpensive remotes with speech interfaces and multilingual support.
+11. There is debate over including teletext and language options, though it is noted that these may not be essential for the current project.
+12. The team agrees to consider future-proofing the remote control for potential internet-based TV features in upcoming models.
+
+REFERENCE FACTS (NOT EXHAUSTIVE GROUND TRUTH)
+1. The Project Manager states that teletext functions are outdated due to the popularity of the internet.
+2. The Project Manager establishes that lighting adaptive features are not required for the remote control.
+3. The Project Manager specifies that the remote control must be designed exclusively for television use.
+4. The Industrial Designer proposes a hardware configuration consisting of a battery and two programmable chips.
+5. The Industrial Designer specifies that an FPGA chip will handle software functionalities while a second chip handles communication.
+6. The team agrees to use a docking charger for the remote control rather than replaceable battery cells.
+7. The Marketing Expert rejects the use of PDAs as controllers to prioritize selling the proprietary remote control.
+8. The User Interface Designer proposes a prototype where users navigate menus directly on the television screen.
+9. The User Interface Designer suggests that data processing should occur on the television set rather than on the remote control.
+10. The team agrees on a simplified physical design featuring approximately four to five navigation buttons.
+11. The User Interface Designer suggests the remote control should emit a sound to assist users in locating it when lost.
+12. The Marketing Expert reports that users desire a speech interface, a slim form factor, and a low price.
+13. The team agrees to implement a speech interface with a limited vocabulary focused on numbers.
+14. The Industrial Designer suggests designing the remote control to accommodate future internet access via television.
+
+SOURCE (EXACT CONTIGUOUS 800-CHAR BLOCKS; ZERO-BASED OFFSETS)
+
+[C000000]
+Project Manager: So we come again for the the second meeting .
+User Interface: Mm-hmm .
+Project Manager: Uh for the aim of this meeting now is to to make presentation about uh the work for each one .
+User Interface: {vocalsound}
+Project Manager: And {gap} take the the decision about the the design and the functionality of the the remote control .
+User Interface: Okay . {vocalsound}
+Project Manager: And we have {disfmarker} think I got a new project requirement .
+Industrial Designer: Okay .
+Project Manager: So I think uh teletext becomes outdated . So the popularity of the {disfmarker} since the popularity of the internet ,
+Industrial Designer: Okay .
+Project Manager: and I think we don't need lighting adaptive , so the remote control should be only used for the the television . And of cour
+
+[C000800]
+se we should have our image {gap} in the in the design . So , let's start with the the industrial designer .
+User Interface: {vocalsound}
+Project Manager: {gap} .
+User Interface: {vocalsound}
+Industrial Designer: Yeah , alright .
+Project Manager: Or y you can use the whiteboard if you want .
+Industrial Designer: So uh {disfmarker} Well I have a PowerPoint pr presentation stored in my in my personal folder
+Project Manager: Here .
+Industrial Designer: so I I I think you can reach it from here .
+Marketing: Just go to explorer .
+Project Manager: Oh okay .
+Marketing: Or open . Participant two .
+Industrial Designer: Participant two .
+Project Manager: This one .
+Industrial Designer: Yeah .
+Marketing: Open uh .
+Industrial Designer: Uh open . {vocalsound}
+Project Manager: Do you want to open {disfm
+
+[C001600]
+arker}
+User Interface: Because it's open you mean . {vocalsound}
+Project Manager: {vocalsound}
+Industrial Designer: {vocalsound} Right , so um I will talk about the the w working design and {disfmarker}
+User Interface: {vocalsound} F_ five .
+Marketing: Slide show , view slide show , {gap} .
+Project Manager: Ah .
+Industrial Designer: And um well I I will present my my first idea on how to build the {disfmarker} our new remote control for television .
+User Interface: {vocalsound}
+Industrial Designer: So uh can you go one page down , please . So I think the first things to do is to define the hardware components neededs to achieve uh what we want to do .
+User Interface: {vocalsound}
+Industrial Designer: So uh mm I'm thin uh {vocalsound} I think uh I I'll do a survey about what is uh what is a
+
+[C002400]
+vailable on the market and what what is the the cheapest possible {vocalsound} things we hav we can use . Then uh I will try with the technical team to to build a prototype and to see uh with uh h how this little box {vocalsound} would uh look look like .
+User Interface: {vocalsound}
+Industrial Designer: And how an and we can uh start troubleshooting first uh com communication problems or things like that .
+User Interface: {vocalsound}
+Industrial Designer: And when we are ready with this first prototype I I think we can add some software functionalities on a programmable chip like browsing by content or um things like that . Okay so can you go down uh {disfmarker} So , wha what I think {vocalsound} for now {vocalsound} is {vocalsound} we don't want to have a remote control w which is wired
+
+[C003200]
+
+User Interface: {vocalsound}
+Project Manager: {vocalsound}
+Industrial Designer: so uh I think we u we can use a battery for the {gap} . Then two programmable chips for both software functionalities and communication . And the communication with the T_V_ set is uh made through uh infrared communication So uh this is the {vocalsound} the schema of the {vocalsound} o of the future uh remote controls
+User Interface: Did you draw it ? {vocalsound}
+Marketing: {vocalsound}
+Project Manager: {vocalsound} Wow . {vocalsound}
+Industrial Designer: so uh you can you can see the components , uh battery and uh the two chips goes to the infrared uh connection to the T_V_ set .
+User Interface: This {gap} .
+Project Manager: This {disfmarker}
+User Interface: What is the other chip for ? The one on top .
+Indu
+
+[C004000]
+strial Designer: The one on top is for the um {disfmarker} well the functionali the functionalities
+User Interface: {vocalsound}
+Marketing: One is a communication .
+Industrial Designer: and the the th red um {disfmarker} sorry the green one is is to {disfmarker} well , putting things together , um f transform the data into uh qu into the format to to {gap} uh to communicate with the T_V_ set .
+User Interface: For men . To the {disfmarker} in {disfmarker} {vocalsound} Okay .
+Industrial Designer: And , that's it . I think we should use a F_P_G_A_ for {vocalsound} for the functionalities which is easy to to t
+User Interface: Mm . What is F_P_G_A_ ?
+Industrial Designer: It's field programmable uh something array .
+Marketing: {vocalsound} Gateway arrays .
+Industrial Designer: {vocalsound} Yeah 
+
+[C004800]
+.
+Marketing: It's a field programmable gateway arrays .
+User Interface: So why's it {disfmarker} how is it different from the Bluetooth ?
+Industrial Designer: Well , uh a F_P_G_A_ is just a chip you can uh you can {gap} pr programme it uh wi with wh whatever you want .
+User Interface: Yeah . Programme it .
+Marketing: Yeah {gap} .
+User Interface: Okay .
+Industrial Designer: And uh well the Bluetooth chip is just responsible to uh make the communication uh between uh the two devices .
+User Interface: Yeah . {vocalsound} Uh {disfmarker} So this are the {disfmarker} they have to work together ? Or ? Do they have to work together or two separate choice {disfmarker}
+Industrial Designer: No . Well , th the F_P_G_A_ will produce the the data to send .
+User Interface: Okay .
+Marketing: Or it's some
+
+[C005600]
+thing like {disfmarker} isn't hardware the first one ? And the second one is for the software .
+User Interface: Is the is the software par alri okay .
+Industrial Designer: Yeah .
+Marketing: Yeah to run th to make it run .
+User Interface: Okay , okay .
+Marketing: That's it .
+User Interface: So you can control {gap} if you want , right ?
+Industrial Designer: Yeah {vocalsound} .
+Marketing: No .
+Industrial Designer: Alright and that's it for the working design .
+User Interface: {vocalsound}
+Industrial Designer: So if you have any questions ?
+User Interface: Mm .
+Marketing: Okay , and how about the battery power ? Uh you mean that battery would be somewhere there and the remote contro the power to the battery comes through infrared ?
+Industrial Designer: Uh no no no no , I think uh we have uh t
+
+[C006400]
+o to uh have uh embedded uh b batteries in in the {disfmarker}
+Project Manager: {gap} .
+Marketing: Into the {vocalsound}
+Industrial Designer: yeah into the t .
+Marketing: more compact and uh {disfmarker} okay , {gap}
+Industrial Designer: Yeah , yeah .
+User Interface: {vocalsound}
+Industrial Designer: And uh I I don't think it will need um {vocalsound} very uh much power to make it run , so {disfmarker}
+User Interface: {vocalsound} Mm . Mm .
+Marketing: Yeah , yeah . Okay .
+User Interface: Mm . You can put it on the charger when uh you when you don't need to use it .
+Industrial Designer: Yeah . It's a good idea .
+Marketing: Yeah , that's right .
+User Interface: Yeah .
+Marketing: Having a charger rather than putting the battery cells always .
+User Interface: Yeah , yeah .
+Industrial Designer:
+
+[C007200]
+ Yeah .
+Marketing: People don't like it to have to buy the batteries when they run out .
+User Interface: Yeah . Mm . Uh {disfmarker} mm .
+Marketing: We just make a small charger
+User Interface: Y yeah , yeah .
+Marketing: and put it {disfmarker}
+Project Manager: You can i yeah .
+User Interface: Because you are using because you are using Bluetooth , if some people have P_D_A_ they can use their P_D_A_ to control the T_V_ if they want to , right ?
+Industrial Designer: That's a good idea .
+Marketing: {vocalsound}
+Project Manager: Ma
+Industrial Designer: Also , but but {vocalsound} I I I think uh the the goal is to sell our remote {vocalsound} control .
+Project Manager: {vocalsound}
+User Interface: {vocalsound} I dunno . {vocalsound}
+Marketing: Bu {vocalsound}
+Project Manager: Yeah we can chan
+
+[C008000]
+ge the b {gap} .
+Marketing: Our remote ,
+Project Manager: Yeah .
+Marketing: we do not want to make it P_D_A_ . {vocalsound}
+User Interface: {vocalsound}
+Industrial Designer: {vocalsound} S {vocalsound} okay , so charger for {gap} is the {gap} .
+Project Manager: Um .
+User Interface: {vocalsound} So is mine .
+Project Manager: It's mine . Participant one , no ?
+User Interface: Oh . Yeah , this your {disfmarker}
+Project Manager: Mm . Oh we have {gap} so let's move to to user interface design {gap} .
+User Interface: Yeah . {vocalsound} So you can open uh {vocalsound}
+Project Manager: Participant {disfmarker}
+User Interface: three . Yeah . {vocalsound} So {disfmarker} So I'm working on the technical functions design . {gap} can you show the next slide . So the the purpose is to to find uh the im
+
+[C008800]
+portant questions to ask is what effect should the apparatus have . So {vocalsound} so I found on a webs on the internet
+Project Manager: {vocalsound} During the weekend .
+Industrial Designer: {vocalsound}
+User Interface: {vocalsound} {disfmarker} yeah . {vocalsound} I spent a lot of time searching {vocalsound}
+Industrial Designer: {vocalsound}
+Project Manager: That's good . {vocalsound}
+User Interface: and uh and I found that uh the function of remote control is to send messages to television set .
+Industrial Designer: {vocalsound} {vocalsound} {vocalsound}
+Project Manager: Mm-hmm .
+User Interface: {vocalsound} For example switch on , switch off , switch the next channel and so on and so on .
+Marketing: G
+User Interface: So I found two very good prototypes for {vocalsound} for this interf
+
+[C009600]
+ace from our competitors
+Industrial Designer: {vocalsound}
+User Interface: so can you {vocalsound} {disfmarker}
+Industrial Designer: {vocalsound}
+Project Manager: This are usual functionality {gap} .
+User Interface: Yeah , yeah , yeah . Ours is a bit uh different . So these are two example . One is from {vocalsound} {gap} the other one is from , yeah , uh engineering centr yeah .
+Project Manager: Tasks .
+Industrial Designer: {vocalsound}
+User Interface: This is the most competing prototypes I've found {vocalsound} .
+Industrial Designer: {vocalsound}
+User Interface: But then uh loo but then I found if you look at {disfmarker} you see on the left one there are too many buttons {disfmarker}
+Industrial Designer: {vocalsound}
+Project Manager: And they are small {gap} .
+User Interface: Yeah . O 
+
+[C010400]
+on the right I tried to play with {vocalsound} the problem is that uh if I have hundred channels I have uh I have to choo press the other button to choose the hundred channels and I have to compose the number
+Industrial Designer: {vocalsound} Yeah .
+User Interface: so it's very lousy .
+Project Manager: Mm-hmm .
+User Interface: {vocalsound} So you {vocalsound} so you move to the next the next one .
+Industrial Designer: Of course .
+User Interface: Yeah , so I talk about the problem . And then I I look at the user manual they are a hundred pages thick , so we don't want that .
+Project Manager: Yeah .
+User Interface: {vocalsound} So I propose the easy to use uh prototype . You can navigate on T_V_ screen and we can {gap} the user's preference and we need to have the T_V_ connected to internet 
+
+[C011200]
+so we end {disfmarker} in order to access the T_V_ programmes by X_M_L_ and we need some {disfmarker} to do some preprocessing . From the technical aspect , the processing should be done on the T_V_ set than on the {vocalsound} on the remote controller , right ?
+Industrial Designer: {vocalsound}
+User Interface: {vocalsound} And then we {disfmarker} the speech recognition as uh Harry says we may just put in {disfmarker} we may K_I_V_ .
+Project Manager: What do you mean by the pa pa processing will be done on the T_V_
+User Interface: Yeah , all the processing is done {disfmarker} the T_V_ is a compu has some processing power the {disfmarker} {vocalsound}
+Project Manager: than the {disfmarker}
+Industrial Designer: {vocalsound} So we have to t
+Project Manager: So we should have specific T_V_ ?
+
+[C012000]
+ Or ? We can use this .
+User Interface: Yeah .
+Industrial Designer: We have to sell a T_V_ with the remote control too . {vocalsound}
+Project Manager: Yeah , we don't {vocalsound} {disfmarker}
+Marketing: {vocalsound}
+User Interface: {vocalsound} Yeah because {disfmarker} {vocalsound} are you just wondering what controller {disfmarker} okay .
+Project Manager: Yeah , I think so . J j just the remote control .
+Marketing: Yeah , not the T_V_s .
+Industrial Designer: I think there there is there is al there there is a a technology like show view who is already available on most of the T_V_ set on recorders or thing like that
+User Interface: Yeah .
+Industrial Designer: and we can try t to get this information on to the remote control to to do the processing on the remote control because {disfmark
+
+[C012800]
+er}
+User Interface: Okay .
+Marketing: Yeah .
+User Interface: Yeah . {vocalsound} Okay .
+Marketing: Yeah , that's right .
+Project Manager: Mm .
+User Interface: So i the processing on on the remote controller {disfmarker}
+Project Manager: Yeah ,
+User Interface: so it can u be used in any T_V_ , any conventional T_V_ sets ?
+Project Manager: we {gap} . Yeah .
+User Interface: Mm . Okay . {vocalsound}
+Project Manager: Speech recognition .
+User Interface: N yeah , that's all . The next one ? So I come up with a simple design , just keep the v navigation buttons . {vocalsound}
+Industrial Designer: Yes , that's a good idea , I think .
+Project Manager: Keep the navigation
+Industrial Designer: We d we don't we we don't need really much buttons to {disfmarker} i if we have a screen to navigate on on t
+
+[C013600]
+he T_V_ so uh {vocalsound} {disfmarker}
+Project Manager: but {disfmarker}
+User Interface: Yeah . {vocalsound} Yeah . {vocalsound}
+Industrial Designer: Well , f four five buttons , it's sufficient .
+User Interface: Yeah . Mm .
+Industrial Designer: It's easy to build ,
+User Interface: {vocalsound} {vocalsound}
+Industrial Designer: it does not consume much power . {vocalsound}
+Marketing: Yeah , that's right .
+Project Manager: {gap} .
+User Interface: {vocalsound} Okay , that's all . {vocalsound}
+Marketing: Oh , but you have a catch there , um assume that um if you want to go to {disfmarker} if you are watching channel two and if you want to go to channel ninety nine , then {vocalsound} .
+User Interface: {vocalsound}
+Industrial Designer: Well , then y you you go to the main menu and uh you have
+
+[C014400]
+ uh go to channel
+User Interface: Mm .
+Industrial Designer: and then uh you {gap} can {disfmarker}
+User Interface: Mm . No , because you choose by channel , so {disfmarker} you choose by T_V_ program
+Industrial Designer: Yeah .
+Marketing: Uh-huh huh huh huh .
+Industrial Designer: Maybe you {disfmarker}
+User Interface: so you don't have hundred channels to choose from . If you go by channel , you don't have to do that .
+Industrial Designer: {gap} .
+Marketing: Mm-hmm hmm hmm .
+Industrial Designer: {gap} but uh I I think i i {gap} if you if you want to to make uh {disfmarker} well a a big jump {vocalsound} {gap} but uh well you you have to to have a a a device when you could you could {disfmarker}
+Marketing: But {disfmarker}
+Project Manager: So you are {disfmarker}
+User Interface: Ah . Ah , a
+
+[C015200]
+ big jump .
+Marketing: Yeah then yeah that's right .
+User Interface: A mouse or {disfmarker}
+Industrial Designer: Well , not a mouse but uh something that that says more clearly that uh right , left , up , down ,
+User Interface: Yeah .
+Industrial Designer: well , the to have the ability to to to write something to the navigator , maybe directly , or {disfmarker}
+Marketing: Mm hmm hmm . Okay .
+Project Manager: Mm .
+Industrial Designer: So ,
+Marketing: Okay .
+User Interface: Mm . {vocalsound}
+Industrial Designer: we can think of buttons like in the telephone to send messages or things like that .
+User Interface: Mm-hmm .
+Project Manager: How the {gap} this remote ?
+Industrial Designer: But we'll see . {vocalsound}
+User Interface: Uh it's gonna be small .
+Industrial Designer: {vocalsound}
+Pro
+
+[C016000]
+ject Manager: Yeah , of course {vocalsound} small .
+User Interface: {vocalsound} {vocalsound} Yeah . So it'll beep if you wanna find it
+Marketing: {vocalsound} {gap} too small that it goes under the sofa and we can't find it . {vocalsound}
+Project Manager: {vocalsound}
+User Interface: you just uh shout {disfmarker} y h just {disfmarker} it just has to re respond to you when you look for the device .
+Marketing: Yeah ,
+Industrial Designer: {vocalsound}
+Marketing: that's {gap} .
+User Interface: {vocalsound} I dunno how bu {vocalsound}
+Marketing: {gap} just {gap} give it a name and we call him .
+User Interface: {vocalsound} And {gap} responds to you , and {gap} {vocalsound}
+Industrial Designer: {vocalsound}
+Marketing: {vocalsound} Yeah , that's right . Yeah , that's right .
+Industrial Designer
+
+[C016800]
+: Okay , so uh next presentation {disfmarker} {vocalsound}
+User Interface: {vocalsound}
+Project Manager: Participant four . So Harry .
+Marketing: Okay , after having the inputs from {vocalsound} industrial design and user interface , I think most of the points which I want to are already covered here .
+Industrial Designer: Mm . {vocalsound}
+User Interface: {vocalsound}
+Marketing: And to find the most interesting features what the users would be interested , then what we have done is we have put a feedback forms in all the magazines , and the users send the feedbacks , and based on that {disfmarker} These are the findings which we got and {disfmarker} yeah adding of a speech interface is always good for a T_V_ remote but the technology {disfmarker} We already know that {disfmarker} as discu
+
+[C017600]
+ssed earlier {disfmarker}
+Industrial Designer: Well I I think it will be a , yes , a bit complicated to um make a speech recognisers runs on the small uh ts
+User Interface: {vocalsound} {vocalsound}
+Project Manager: {vocalsound}
+Marketing: An {vocalsound} it does {gap} how feasible it is .
+User Interface: I- {vocalsound} mm . But I think if you {gap} to recognise numbers it's a well-studied problem . I if you just recognise uh numbers is a limited {disfmarker} you have limited vocabulary {disfmarker}
+Marketing: Oh we can put an limited vocabulary as in the mobile phones .
+Industrial Designer: Yeah .
+Marketing: We just have the {disfmarker}
+User Interface: Mm .
+Industrial Designer: And this can allow to choose the the program , for instance without uh adding uh buttons
+User Interface: Yeah 
+
+[C018400]
+.
+Industrial Designer: so it's a good idea .
+Marketing: {gap} it's not going to take much space also . It's going to be very slim .
+User Interface: Mm . Mm .
+Marketing: And next one was the size of the remote control . It has to be of course a very slim and small one . And of course most of the people are interested in if it's less expensive ,
+Project Manager: Mm-hmm .
+User Interface: Mm .
+Marketing: so this is an important criteria here is {disfmarker}
+User Interface: {vocalsound} But {disfmarker} {vocalsound}
+Project Manager: But do you think what they sug suggested s possibility {gap} .
+User Interface: {vocalsound} Mm .
+Marketing: I mean we have to look for a trade-off .
+User Interface: Yeah .
+Marketing: The features and the cost .
+User Interface: {vocalsound} I no {disfmarker} I I thin
+
+[C019200]
+k that uh i if we go for quality people may tolerate for high quality and of course comes with uh reasonable cost .
+Industrial Designer: {vocalsound}
+Project Manager: Yeah . {vocalsound}
+Marketing: {vocalsound}
+User Interface: Maybe not less , but they may be willing to pay little bit more for comfort ,
+Marketing: Little bit more if it's with extra features .
+Project Manager: It {disfmarker}
+Industrial Designer: Yeah .
+Project Manager: Yeah .
+User Interface: yeah , extra features .
+Industrial Designer: Yeah , s s speech is a important extra feature I think {disfmarker}
+Marketing: Okay .
+User Interface: Mm . {vocalsound} Yeah .
+Marketing: Yeah , yeah . That's right .
+Project Manager: But is it useful or not u I don't know .
+Industrial Designer: Well , uh {vocalsound} {disfmarker}
+Project Ma
+
+[C020000]
+nager: There is {gap} in the {vocalsound} {disfmarker}
+Marketing: I mean , for a lazy guys they could say nine and the nine channel comes .
+User Interface: Mm .
+Industrial Designer: {vocalsound}
+Marketing: Or they say movie name {disfmarker} or I don't go for movie names but only for the numbers on the channel , or volume up , volume down , brightness , contrast .
+User Interface: Mm .
+Project Manager: Mm .
+User Interface: Mm .
+Marketing: So , I think this should be a good idea , to put this features . And the fourth one was the teletext in various languages .
+Industrial Designer: we we just have to find a mean how to to add a m a a a microphone or uh well {disfmarker} yes a microphone into the the remote control , so {disfmarker}
+Marketing: Mm , I think {disfmarker}
+User Interface: {vocals
+
+[C020800]
+ound}
+Industrial Designer: I {disfmarker} well {disfmarker}
+Project Manager: I think i {vocalsound}
+Industrial Designer: it will be alright . {vocalsound}
+Marketing: {vocalsound}
+Project Manager: {vocalsound} If it's necessary can {disfmarker} you can do that .
+User Interface: What is the teletext ? Mm .
+Project Manager: We can integrate small microphone in the remote
+Industrial Designer: Yeah .
+Project Manager: so it's not really a problem .
+Industrial Designer: Okay .
+Project Manager: What about lighting adaptive options ?
+Marketing: Yeah as discussed in the earlier meeting , but {vocalsound} I think uh not much people are really interested in this point if it's not really required .
+Project Manager: According to the re to the new requirements I think we don't need that . Yeah .
+User Int
+
+[C021600]
+erface: It is interesting but we are only concerned with the remote controller .
+Project Manager: Mm .
+User Interface: So you need s special T_V_ sets to do that ? Or it's it's done via this remote controller ? It's very complex .
+Marketing: I mean {disfmarker}
+Industrial Designer: Yeah , I think it's a bit complex too {disfmarker}
+User Interface: {vocalsound}
+Marketing: I mean {disfmarker} yeah , it's for the um industrial design and users interface designers to decide if it's going to be working or not .
+User Interface: Mm .
+Industrial Designer: For our next product , our new T_V_ set with uh automatical uh sound adjustment {vocalsound} light {gap} {disfmarker}
+Marketing: I think {disfmarker}
+Project Manager: {vocalsound}
+User Interface: Yeah , then we can conclude that . Yeah . Yeah , b
+
+[C022400]
+ut it's quite possible but maybe not in this project .
+Project Manager: So we have {disfmarker} I think we have s still we have couple of minutes . Mm-mm . {vocalsound} So any things to to discuss ? Or any suggestions ?
+User Interface: {vocalsound}
+Marketing: I think as I discussed th that four points would be good for um marketing .
+User Interface: {vocalsound}
+Marketing: The speech interface and uh less uh reasonable uh cost .
+Project Manager: Expensive . Price .
+User Interface: Mm .
+Marketing: And the lighting adaptation
+User Interface: Mm .
+Marketing: and the teletext . And regarding the teletext uh these are the subtitl these are the text information which you got on the televisions .
+User Interface: {vocalsound} Okay .
+Marketing: If you are watching an foreign movie , you get {gap} s
+
+[C023200]
+ubtitles sometimes .
+User Interface: Yeah . {vocalsound} Okay .
+Marketing: And uh if you are a French guy watching an English movie you would like to have it in French .
+User Interface: Mm .
+Industrial Designer: {gap} .
+Marketing: And if I am a German then I would like to have the {disfmarker} my options in German .
+Industrial Designer: {vocalsound}
+Marketing: So , the remote {disfmarker} it should have some {disfmarker} it should give me some flexibility of choosing the ch languages .
+Industrial Designer: Function .
+Marketing: That should be a good uh point .
+Industrial Designer: Yeah , but well what about the the new project's requirement ? I I I think we should give up with teletext , no ?
+Project Manager: I think we we can we {disfmarker} {gap} is the {gap} .
+Industrial Designer: Yes .
+
+[C024000]
+ Well , so maybe we we can j we can already think uh {vocalsound} about a way to to access the internet via the television .
+User Interface: Mm .
+Industrial Designer: Because if {disfmarker}
+User Interface: Using the T_V_ to access the internet ? Or what ? I didn't quite understand {disfmarker}
+Industrial Designer: Yeah , but uh we can think that in a few years there will be T_V_ set that can access the internet .
+Project Manager: Yeah .
+User Interface: Yeah , okay .
+Industrial Designer: So it's a good idea if i i if we i if if we uh think about how to to to build up our remote uh control w with this functionality in a {disfmarker} w which will c which will come in a few years .
+Marketing: We already have some {gap} .
+Industrial Designer: So if we already have it in our remote control {dis
+
+[C024800]
+fmarker}
+Project Manager: So you have to anticipate the the future ?
+Industrial Designer: Yeah . {vocalsound} Yeah .
+User Interface: Yeah . {vocalsound} The future demand , market demand . {vocalsound}
+Industrial Designer: Yeah , to desi
+Marketing: {vocalsound} Yeah , that's right .
+Industrial Designer: well , not not to implement it , but to {disfmarker} well , to find a way to to add to add this functionality in a {disfmarker} yeah , in an in an easy manner , if is possible . {vocalsound}
+Project Manager: {gap} .
+User Interface: The functionality in the future .
+Project Manager: In future .
+User Interface: Alright . Yeah . Because all the T_V_ sets will be digital , right . All the programmes , everything will be in digital than analog . Th the system will change and we have to anticipat
+
+[C025600]
+e for those change .
+Industrial Designer: {vocalsound} Yeah , yeah .
+Marketing: Yeah , {gap} .
+Industrial Designer: Okay . So {disfmarker}
+Project Manager: Okay . So let's go for the the lunch break , and we will meet after .
+Industrial Designer: Okay , thank you .
+User Interface: Okay . Thank you .
+Marketing: Okay , thank you .

@@ -1,0 +1,28 @@
+{
+  "status": "ok",
+  "request_hash": "acab5e268ef7434077ac11ee9a9edea255d8e1a7800563bf041d75b979b8b9f6",
+  "output": {
+    "key_facts": [
+      "The group plans to take a field trip to OGI next week and will meet at 6 AM to ensure timely departure.",
+      "The group is working on a multidimensional 'cube' to analyze different feature sets, training corpora, and testing conditions for speech recognition systems.",
+      "The training corpus includes data from English, Spanish, French, Italian, and Finnish, with plans to include German and Danish in the final test.",
+      "The group is considering using the TIMIT database for broader training and has discussed the need to convert labels from different formats to a common format for neural network training.",
+      "The group is planning to use on-line normalization for their experiments and has discussed the potential benefits of using a superset of phonemes for cross-language testing.",
+      "The group has discussed the computational resources available, including multiple machines and SPERT boards, and the need to manage disk space effectively.",
+      "The group has mentioned the possibility of using articulatory features as an alternative to phoneme classes for feature generation.",
+      "The group has discussed the use of JRASTA as a more complex feature extraction method compared to PLP and has considered its potential benefits.",
+      "The group has considered the use of a multilingual neural network trained on a combination of languages and has discussed the challenges of creating a superset of phonemes for different languages.",
+      "The group has discussed the need to manage the complexity of the 'cube' by focusing on well-defined tasks and prioritizing experiments that can be realistically completed within the available time and resources."
+    ]
+  },
+  "metadata": {
+    "model": "small",
+    "finish_reason": "stop",
+    "usage": {
+      "prompt_tokens": 27399,
+      "total_tokens": 27710,
+      "completion_tokens": 311,
+      "prompt_tokens_details": null
+    }
+  }
+}

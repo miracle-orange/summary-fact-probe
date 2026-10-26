@@ -1,0 +1,28 @@
+{
+  "status": "ok",
+  "request_hash": "d2663bbd12c6787f3151e285d3ae27a53f4eb01319e4e5ce105b7a678837f661",
+  "output": {
+    "key_facts": [
+      "The on call contracts have a total capacity of up to $4 million each over the next three years, with a total potential spending of $56 million.",
+      "These on call contracts are used for projects under $500,000, including engineering services for intersection designs, signal design, small roadway projects, and general rehab projects.",
+      "A regular report on the spending of on call contracts will be sent to the council by the end of the week, including details on how much has been used and capacity remaining.",
+      "The Park Hill Drainage Project and the National Western Center are separate from the on call contracts, as they exceed the on call contract limits and are publicly procured separately.",
+      "The city has a website listing all ongoing construction projects, including those using on call contracts, at Denver.gov/DPW.",
+      "Projects exceeding $500,000 are typically subject to a formal bidding process rather than being handled through on call contracts.",
+      "Councilman Espinosa moved to adopt resolutions 1276 through 1289 in a block.",
+      "Councilman Cashman voted no to encourage more detailed reporting on the use of on call contracts.",
+      "Councilwoman Ortega also voted no, stating that detailed information with each bill should be available before voting.",
+      "Councilman Espinosa plans to request more granularity on how the money was used in prior years."
+    ]
+  },
+  "metadata": {
+    "model": "small",
+    "finish_reason": "stop",
+    "usage": {
+      "prompt_tokens": 4624,
+      "total_tokens": 4915,
+      "completion_tokens": 291,
+      "prompt_tokens_details": null
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "status": "ok",
+  "request_hash": "010da819f211be0466e2ae5513575ea053b2801b884f3b0fc271faf97651394b",
+  "output": {
+    "key_facts": [
+      "Devon's third quarter results were outstanding, showcasing the power of its Delaware focused asset portfolio and the benefits of its financially driven business model.",
+      "Devon's team's focus on operations excellence has established impressive momentum, allowing the company to capture efficiencies, accelerate free cash flow, reduce leverage, and return a market-leading amount of cash to shareholders.",
+      "Devon's 2022 upstream capital program is directionally planned to be in the range of $1.9 billion to $2.2 billion, with a WTI breakeven price of around $30.",
+      "Devon's free cash flow is expected to grow by more than 40% compared to 2021, with an 18% free cash flow yield at an $80 WTI price.",
+      "Devon has authorized a $1 billion share repurchase program through year-end 2022, equivalent to approximately 4% of its current market capitalization.",
+      "Devon's implied dividend yield in 2022 is more than double that of the energy sector and more than seven times higher than the average company in the S&P 500 Index.",
+      "Devon's Delaware Basin assets account for roughly 80% of its capital deployment, with 13 operated rigs and four frac crews running during the quarter.",
+      "Devon's third quarter average D&C costs improved to $554 per lateral foot, a 41% decrease from a few years ago.",
+      "Devon has a concentrated 300,000 net acre position in the liquids-rich window of the Anadarko Basin, with a joint venture agreement with Dow providing drilling carry.",
+      "Devon's financial strategy includes a fixed plus variable dividend framework, with the board approving a 71% increase in dividend payout to $0.84 per share for the quarter.",
+      "Devon has retired over $1.2 billion of outstanding notes and built a $2.3 billion cash balance at quarter end, reaching a debt-to-EBITDA leverage target of one turn or less.",
+      "Devon's free cash flow yield is expected to strengthen in 2022, with the company on pace to nearly double its dividend next year.",
+      "Devon's financial strategy includes a focus on reducing debt and improving the balance sheet, with plans to retire approximately $1.0 billion of low-premium debt in 2022 and 2023.",
+      "Devon's third quarter operating cash flow totaled $1.6 billion, an increase of 46% compared to last quarter, and generated $1.1 billion of free cash flow, the highest amount ever in a single quarter.",
+      "Devon's financial strategy includes a share buyback program, which will be executed opportunistically when equity trades at a discounted valuation to historical multiples and in multiple levels of its highest quality peers.",
+      "Devon's capital allocation process is rigorous, with a focus on the competitiveness of investment mix and a detailed subsurface evaluation across its portfolio.",
+      "Devon has a deep inventory of opportunities concentrated in the best U.S. resource plays, with more than a decade of low-risk and high-return inventory in the Delaware Basin.",
+      "Devon's financial strategy includes a focus on achieving short-term, midterm, and long-term ESG targets, with a laser focus on meeting the needs of investors, the market, and society."
+    ]
+  },
+  "metadata": {
+    "model": "small",
+    "finish_reason": "stop",
+    "usage": {
+      "prompt_tokens": 4536,
+      "total_tokens": 5245,
+      "completion_tokens": 709,
+      "prompt_tokens_details": null
+    }
+  }
+}

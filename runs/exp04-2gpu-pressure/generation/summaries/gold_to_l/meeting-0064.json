@@ -1,0 +1,29 @@
+{
+  "status": "ok",
+  "request_hash": "64be842251480368c212475eabc4233a2f5a923f22a92b6e6902186627bcb98d",
+  "output": {
+    "summary": "In the meeting, Grad F presented revised semantic specifications and construction formalisms, distributing a handout with updates. The formalism now allows for specifying both a general construction type and a specific meaning type for constructs. The \"designates\" feature was introduced to identify a constituent acting as a head for both meaning and form. However, the integration of mental space notation into the formalism remains incomplete, and the group acknowledged the need to revisit it after Robert returns. They discussed treating \"past\" as a feature, while recognizing its role as a mental space. The concepts of \"focus\" and \"stress\" were differentiated, with \"focus\" seen as an information structure term and \"stress\" as a form device. The semantic specification was outlined to include blocks for \"Scenario,\" \"Referent,\" and \"Discourse Segment,\" with \"Referent\" representing utterance-specific referring expressions. Professor C emphasized that the semantic specification serves as a toolkit for constructing semantic components and tasked Grad E with listing necessary constructions for the tourist and child language domains. The group postponed exploring construction inheritance until basic constructions are fully defined. Grad A shared updates on the JavaBayes interface, noting the need to query variables separately and proposed a construal method involving dynamically generated Bayes-nets. Finally, the group scheduled a follow-up meeting for Thursday at 4:00 PM to review Grad A's thesis proposal."
+  },
+  "metadata": {
+    "attempts": 1,
+    "input_tokens_local": 30844,
+    "context_limit": 65536,
+    "request_parameters": {
+      "temperature": 0.7,
+      "top_p": 0.8,
+      "top_k": 20,
+      "min_p": 0.0,
+      "repetition_penalty": 1.05,
+      "seed": 42,
+      "max_tokens": 4096
+    },
+    "model": "large",
+    "finish_reason": "stop",
+    "usage": {
+      "prompt_tokens": 30844,
+      "total_tokens": 31129,
+      "completion_tokens": 285,
+      "prompt_tokens_details": null
+    }
+  }
+}

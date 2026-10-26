@@ -1,0 +1,29 @@
+{
+  "status": "ok",
+  "request_hash": "868960487f3d7058803f8ca4cbc175ee73dc76361a5ec9b64d97873ef9a2c7c4",
+  "output": {
+    "summary": "The team discussed various aspects of a remote control design, primarily focusing on cost reduction and functionality. They decided to drop the speech recognition feature due to its high cost and usability challenges, while retaining the LCD screen as a key component. To streamline the interface, they opted for an integrated scroll-wheel push-button instead of multiple physical buttons, reducing complexity. The design was simplified to a single curved shape, and the casing was chosen to be made of plastic with a special color to maintain a trendy appearance. The team noted that the remote control is not particularly easy to use, scoring a six on the evaluation scale, and they concluded that the overall design scored 28 points across nine criteria, indicating it is better than average. They renamed the remote as 'Real Remote,' incorporating the initials into the logo. During the meeting, technical difficulties with the drawing tool required recalibration. The project process was reviewed, and while initially stressful, the team felt the collaboration improved significantly over time. Finally, the team confirmed that the next step involves completing the report and finalizing the presentation."
+  },
+  "metadata": {
+    "attempts": 1,
+    "input_tokens_local": 19462,
+    "context_limit": 65536,
+    "request_parameters": {
+      "temperature": 0.7,
+      "top_p": 0.8,
+      "top_k": 20,
+      "min_p": 0.0,
+      "repetition_penalty": 1.05,
+      "seed": 42,
+      "max_tokens": 4096
+    },
+    "model": "large",
+    "finish_reason": "stop",
+    "usage": {
+      "prompt_tokens": 19462,
+      "total_tokens": 19682,
+      "completion_tokens": 220,
+      "prompt_tokens_details": null
+    }
+  }
+}

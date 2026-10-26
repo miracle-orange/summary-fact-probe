@@ -1,0 +1,187 @@
+{
+  "pilot_count": 30,
+  "pilot_datasets": {
+    "ECTSum": 6,
+    "QMSum-Academic": 6,
+    "MeetingBank": 6,
+    "QMSum-Product": 6,
+    "QMSum-Committee": 6
+  },
+  "snapshot_equal": true,
+  "current_configs_equal": {
+    "experiment": true,
+    "prompts": true,
+    "profile": true
+  },
+  "processed_sha256": "2C5175912EFBED9729A118E2381EE063C003DA249055704BEFE64024FB6772FC",
+  "raw_source_exists": true,
+  "raw_sha256_matches": true,
+  "all_processed_rows_match_raw": true,
+  "generation_check": {
+    "expected": 300,
+    "completed": 300,
+    "complete": true,
+    "failures": [],
+    "duplicate_fact_warnings": []
+  },
+  "all_hashes_match": true,
+  "all_token_counts_match": true,
+  "all_parameters_match": true,
+  "models": {
+    "small": {
+      "facts": {
+        "median": 11.0,
+        "min": 2,
+        "max": 79
+      },
+      "completion_tokens": {
+        "median": 318.5,
+        "min": 62,
+        "max": 1885
+      },
+      "prompt_tokens": {
+        "median": 11489.0,
+        "min": 1362,
+        "max": 31044
+      },
+      "two_fact_count": 7,
+      "two_fact_share": 0.23333333333333334,
+      "exact_duplicates_total": 0,
+      "normalized_duplicates_total": 0
+    },
+    "large": {
+      "facts": {
+        "median": 16.0,
+        "min": 9,
+        "max": 53
+      },
+      "completion_tokens": {
+        "median": 426.5,
+        "min": 207,
+        "max": 1235
+      },
+      "prompt_tokens": {
+        "median": 11489.0,
+        "min": 1362,
+        "max": 31044
+      },
+      "two_fact_count": 0,
+      "two_fact_share": 0.0,
+      "exact_duplicates_total": 0,
+      "normalized_duplicates_total": 0
+    }
+  },
+  "by_dataset": [
+    {
+      "dataset": "ECTSum",
+      "model": "small",
+      "facts": {
+        "median": 23.0,
+        "min": 2,
+        "max": 79
+      },
+      "two_fact_count": 2
+    },
+    {
+      "dataset": "MeetingBank",
+      "model": "small",
+      "facts": {
+        "median": 5.0,
+        "min": 2,
+        "max": 22
+      },
+      "two_fact_count": 3
+    },
+    {
+      "dataset": "QMSum-Academic",
+      "model": "small",
+      "facts": {
+        "median": 11.5,
+        "min": 11,
+        "max": 18
+      },
+      "two_fact_count": 0
+    },
+    {
+      "dataset": "QMSum-Committee",
+      "model": "small",
+      "facts": {
+        "median": 14.0,
+        "min": 2,
+        "max": 35
+      },
+      "two_fact_count": 2
+    },
+    {
+      "dataset": "QMSum-Product",
+      "model": "small",
+      "facts": {
+        "median": 10.5,
+        "min": 8,
+        "max": 16
+      },
+      "two_fact_count": 0
+    },
+    {
+      "dataset": "ECTSum",
+      "model": "large",
+      "facts": {
+        "median": 29.5,
+        "min": 16,
+        "max": 44
+      },
+      "two_fact_count": 0
+    },
+    {
+      "dataset": "MeetingBank",
+      "model": "large",
+      "facts": {
+        "median": 15.0,
+        "min": 10,
+        "max": 34
+      },
+      "two_fact_count": 0
+    },
+    {
+      "dataset": "QMSum-Academic",
+      "model": "large",
+      "facts": {
+        "median": 12.0,
+        "min": 10,
+        "max": 15
+      },
+      "two_fact_count": 0
+    },
+    {
+      "dataset": "QMSum-Committee",
+      "model": "large",
+      "facts": {
+        "median": 24.0,
+        "min": 19,
+        "max": 53
+      },
+      "two_fact_count": 0
+    },
+    {
+      "dataset": "QMSum-Product",
+      "model": "large",
+      "facts": {
+        "median": 12.5,
+        "min": 9,
+        "max": 20
+      },
+      "two_fact_count": 0
+    }
+  ],
+  "pressure_common_results": 14,
+  "pressure_content_equal": 1,
+  "errors": [
+    {
+      "run": "pilot",
+      "sample_id": "meeting-0761",
+      "model": "small",
+      "problem": "output_truncated",
+      "hash_matches": true
+    }
+  ]
+}

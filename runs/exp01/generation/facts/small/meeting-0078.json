@@ -1,0 +1,33 @@
+{
+  "status": "ok",
+  "request_hash": "268d46c432b79390d67cb8fc66aa819234fcf0d6a226009e30460c2d982abd2d",
+  "output": {
+    "key_facts": [
+      "A call for review by the City Council requires two council members to initiate the appeal and state a reason for the appeal.",
+      "A recent call for review of a planning board decision involved a private property owner who spent $28,000 on experts and $4,500 on council preparation, resulting in a 4 to 1 council vote upholding the planning board decision.",
+      "The Chamber of Commerce expressed concern that the current call for review process places an unfair burden on businesses and could deter investment.",
+      "A planning board decision regarding a Victorian cottage on Morton Street was overturned by the council after a referral process, with the property being restored and now serving as a community asset.",
+      "The Planning Board member's decision on a homeowners association rule regarding garage use was later changed after a call for review, with the rule being removed due to lack of familiarity with existing rules.",
+      "The business community expressed support for requiring two council members to initiate a call for review, citing the potential for abuse of the one-council-member rule.",
+      "The current call for review process allows for a single council member to initiate an appeal without stating a reason, which has been criticized for being arbitrary and not cost-effective for applicants.",
+      "The proposed change to the call for review process would require a modification to the municipal code, which would take 6 to 10 months to implement.",
+      "A planning board decision regarding cell phone towers on apartment buildings was called for review by a single council member, and the council ultimately decided to prioritize safer locations for such towers.",
+      "The council voted to reject a planning board decision on a hotel project at Harbor Bay after a call for review, with the project being modified to accommodate parking concerns.",
+      "The council voted to reject a planning board decision on a shipping container development project after a call for review, leading to a complete modification of the use permit.",
+      "The council voted to reject a planning board decision on an assisted living development project after a call for review, with three council members agreeing to the rejection.",
+      "The council voted to reject a planning board decision on a project at St. Charles Street after a call for review, with the decision being upheld on a 4 to 1 vote.",
+      "The council motioned to consider revising the call for review process to require two council members to initiate an appeal and state a reason, passing with a 3 to 2 vote.",
+      "A resolution in support of a Congressional investigation regarding the impeachment of President Donald Trump was considered and adopted."
+    ]
+  },
+  "metadata": {
+    "model": "small",
+    "finish_reason": "stop",
+    "usage": {
+      "prompt_tokens": 8545,
+      "total_tokens": 9057,
+      "completion_tokens": 512,
+      "prompt_tokens_details": null
+    }
+  }
+}

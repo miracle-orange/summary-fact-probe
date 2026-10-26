@@ -1,0 +1,39 @@
+{
+  "status": "ok",
+  "request_hash": "c659ce02ac290556555d273e1655fce729bf5c36c47a0967bdb282f0cb083f77",
+  "output": {
+    "key_facts": [
+      "The Welsh Government has been working with higher education (HE) and further education (FE) institutions since September 2016 to assess the impact of Brexit.",
+      "The Welsh Government has been conducting its own research on the impact of Brexit on HE, FE, and apprenticeship providers, alongside research by Cardiff University and the Bevan Foundation.",
+      "The Higher Education Funding Council for Wales (HEFCW) has been conducting specific work on the impact of Brexit, but has not shared the results widely.",
+      "The Welsh Government has been engaging with FE colleges, particularly through ColegauCymru, to understand the impact of Brexit on the sector, especially regarding European Social Fund (ESF) funding and apprenticeships.",
+      "The Welsh Government has been working with the European transition team, which coordinates efforts across departments to prepare for Brexit.",
+      "The Welsh Government has been advocating for a 'no deal' Brexit to be avoided, emphasizing the potential catastrophic effects on the HE and FE sectors.",
+      "The Welsh Government has been working with Universities Wales to boost international marketing of the HE sector through the Global Wales initiative, with a funding commitment of £3.5 million.",
+      "The Welsh Government has been pushing for the inclusion of Welsh institutions in the post-study work visa scheme, which was initially limited to certain English institutions.",
+      "The Welsh Government has been committed to implementing the Diamond review proposals for HE funding, with clear communication to HEFCW about the implications.",
+      "The Welsh Government has been advocating for the exclusion of international students from immigration targets, arguing that they are not considered immigrants by the public.",
+      "The Welsh Government has been working with the FE sector to maintain learning opportunities funded by EU programs, with a focus on apprenticeships and skills training.",
+      "The Welsh Government has been collaborating with other departments to safeguard the interests of the FE sector, particularly through regional skills partnerships.",
+      "The Welsh Government has been developing policies on rural skills, aiming to address potential impacts of Brexit on sectors like agriculture, health, and construction.",
+      "The Welsh Government has been working to ensure that FE colleges align their courses with employer needs, using a £10 million initiative to support this alignment.",
+      "The Welsh Government has been seeking assurances from the UK Government regarding the continuation of ESF funding for FE until 2023, beyond the transition period.",
+      "The Welsh Government has been maintaining a commitment to supporting the FE sector's ability to provide training aligned with local economic needs, despite uncertainties surrounding Brexit.",
+      "The Welsh Government has been advocating for a sustainable funding model for HE, including multi-year funding settlements, to provide stability for institutions.",
+      "The Welsh Government has been working to ensure that HE institutions are prepared for a 'no deal' Brexit scenario, including securing funding for EU students and maintaining access to Horizon 2020 and Erasmus+ programs.",
+      "The Welsh Government has been pushing for the UK Government to honor its commitments regarding funding for the FE sector, including the Shared Prosperity Fund.",
+      "The Welsh Government has been highlighting the importance of maintaining the current level of funding for the FE sector, with a focus on apprenticeships and skills training.",
+      "The Welsh Government has been emphasizing the need for continued collaboration with the HE sector to ensure that institutions are prepared for Brexit-related challenges, including changes in immigration policies and funding structures."
+    ]
+  },
+  "metadata": {
+    "model": "small",
+    "finish_reason": "stop",
+    "usage": {
+      "prompt_tokens": 10888,
+      "total_tokens": 11562,
+      "completion_tokens": 674,
+      "prompt_tokens_details": null
+    }
+  }
+}

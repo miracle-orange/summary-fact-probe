@@ -1,0 +1,32 @@
+{
+  "status": "ok",
+  "request_hash": "913e4897b2f04d563376563f30719cbfd19b31df5d373b5c0d801225192ed704",
+  "output": {
+    "key_facts": [
+      "The team decided to drop the speech recognition feature.",
+      "The team agreed to keep the LCD screen and the advanced chip-on-print.",
+      "The team decided to use a single curved design for the product.",
+      "The team planned to replace multiple buttons with an integrated scroll-wheel push-button.",
+      "The team discussed the cost implications and determined that the integrated scroll-wheel push-button would cost three Euros.",
+      "The team concluded that the product design would save a total of thirteen Euros.",
+      "The team decided to keep the power button and the menu button.",
+      "The team considered using a hand dynamo as a power source but ultimately decided against it.",
+      "The team agreed to use plastic with a special color for the product casing.",
+      "The team evaluated the design using a seven-point scale and scored it a total of twenty-eight.",
+      "The team decided to name the product the Real Remote.",
+      "The team discussed the use of a digital pen for design and noted its advantages over traditional tools.",
+      "The team acknowledged the need for recalibration of the drawing tool during the meeting.",
+      "The team expressed satisfaction with the progress made and the improvements in the design process."
+    ]
+  },
+  "metadata": {
+    "model": "small",
+    "finish_reason": "stop",
+    "usage": {
+      "prompt_tokens": 19324,
+      "total_tokens": 19560,
+      "completion_tokens": 236,
+      "prompt_tokens_details": null
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "status": "ok",
+  "request_hash": "47fce606a4c80731fe0a510b9471c04287ed88aba0c7e2a3da31eaa070bad7d2",
+  "output": {
+    "summary": "During the sixth meeting of the House of Commons Special Committee on the COVID-19 pandemic, several members presented petitions covering maternal mental health, cystic fibrosis treatment access, family doctor shortages, firearms legislation, and environmental concerns related to aquaculture. Discussions then shifted to questioning ministers on various issues, including the handling of CERB fraud, the impact of the pandemic on seniors and the lobster fishing industry, the rollout of financial support for businesses, and the government’s approach to the Wet’suwet’en land rights issue. Additional topics included the economic fallout from the pandemic, PPE procurement, support for tourism, and concerns about the government’s transparency and decision-making processes. Questions also addressed the financial struggles of small businesses, the treatment of seniors in care homes, and the need for universal pharmacare. The session concluded with comments on the importance of maintaining linguistic accessibility and fairness in proceedings, and the Chair expressed appreciation for the members’ cooperation and professionalism."
+  },
+  "metadata": {
+    "attempts": 1,
+    "input_tokens_local": 21902,
+    "context_limit": 65536,
+    "request_parameters": {
+      "temperature": 0.7,
+      "top_p": 0.8,
+      "top_k": 20,
+      "min_p": 0.0,
+      "repetition_penalty": 1.05,
+      "seed": 42,
+      "max_tokens": 4096
+    },
+    "model": "large",
+    "finish_reason": "stop",
+    "usage": {
+      "prompt_tokens": 21902,
+      "total_tokens": 22101,
+      "completion_tokens": 199,
+      "prompt_tokens_details": null
+    }
+  }
+}

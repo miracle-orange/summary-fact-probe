@@ -1,0 +1,29 @@
+{
+  "status": "ok",
+  "request_hash": "36e2a8dc261cd1e71a37e0ba01d4ea84ed387cc282a53ae36ed8ec1219361077",
+  "output": {
+    "summary": "The conversation revolves around a proposed rezoning of a property in the University Park neighborhood of Denver, Council Bill 245, which seeks to change the zoning from GMC's 3 (General Urban Mixed Use) to GM x 5 (General Urban Residential Mixed Use). The debate involves the community, city officials, and the developer, with arguments for and against the rezoning. Supporters argue that the rezoning aligns with the University Park Neighborhood Plan and Blueprint Denver, promoting mixed-use development, pedestrian-friendly designs, and utilizing the area's potential for infill development. Opponents express concerns about increased traffic, loss of neighborhood character, and the impact on property values and quality of life. The discussion includes detailed considerations of the neighborhood context, public health and safety, and the need for predictability in zoning. The City Council ultimately votes to approve the rezoning, requiring a supermajority of ten affirmative votes, which is achieved."
+  },
+  "metadata": {
+    "attempts": 1,
+    "input_tokens_local": 30932,
+    "context_limit": 65536,
+    "request_parameters": {
+      "temperature": 0.7,
+      "top_p": 0.8,
+      "top_k": 20,
+      "min_p": 0.0,
+      "repetition_penalty": 1.05,
+      "seed": 42,
+      "max_tokens": 4096
+    },
+    "model": "small",
+    "finish_reason": "stop",
+    "usage": {
+      "prompt_tokens": 30932,
+      "total_tokens": 31127,
+      "completion_tokens": 195,
+      "prompt_tokens_details": null
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "expected": 80,
+  "completed": 80,
+  "complete": true,
+  "failures": [],
+  "duplicate_fact_warnings": [
+    {
+      "sample_id": "meeting-0761",
+      "model": "small",
+      "fact_count": 34,
+      "exact_duplicate_count": 2,
+      "path": "/home/ma-user/work/dataset/summary-fact-probe/runs/exp04-2gpu-pressure/generation/facts/small/meeting-0761.json"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "status": "ok",
+  "request_hash": "836cdf4353bd61fcae46e4656d7f4a9a63f1920b47e39c47eb3d39d84f234770",
+  "output": {
+    "key_facts": [
+      "The McKay Avenue Open Space Fiscal Responsibility Measure (Item 60) and the Carrying Alameda Act (Item 66) are two ballot measures being considered for submission to voters.",
+      "A motion was passed to delay the fiscal responsibility measure to a special meeting on January 15th, while the Carrying Alameda Act was approved to be submitted to voters in the April 9th, 2019 special election."
+    ]
+  },
+  "metadata": {
+    "model": "small",
+    "finish_reason": "stop",
+    "usage": {
+      "prompt_tokens": 8257,
+      "total_tokens": 8354,
+      "completion_tokens": 97,
+      "prompt_tokens_details": null
+    }
+  }
+}

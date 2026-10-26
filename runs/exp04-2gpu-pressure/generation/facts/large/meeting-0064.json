@@ -1,0 +1,45 @@
+{
+  "status": "ok",
+  "request_hash": "2abd64fb05dbb2202e1f907c02cb82ab580f1470d50cb5bf23f60cde6d012380",
+  "output": {
+    "key_facts": [
+      "Grad F presented a revised semantic specification and construction formalism on a single sheet.",
+      "The semantic specification includes a designation of head constituents for meaning and form.",
+      "There was discussion about renaming \"constraints\" due to potential bias or misinterpretation.",
+      "Semantic bindings were discussed, including the idea of mental spaces and their implications for meaning.",
+      "Professor C suggested deferring detailed mental space implementation until Robert returns.",
+      "Grad F mentioned challenges with stress and focus in relation to information structure.",
+      "Grad A noted that focus is not always determined by stress but can be inferred from context.",
+      "Discourse segments include roles like speaker, hearer, and referents, with some uncertainty about how they are resolved.",
+      "The group plans to refine constructions for tourist and child language learning domains over the summer.",
+      "Inheritance among constructions was acknowledged as a possible future refinement but not prioritized now.",
+      "Grad A shared updates regarding JavaBayes integration and ontology-based modeling ideas for construal.",
+      "A Bayes-net approach for dynamic construal was proposed, involving instantiating domain ontologies and contextual modules.",
+      "Grad A will present a thesis proposal draft shortly before leaving on Thursday.",
+      "The group agreed to meet again at 4 PM on Thursday for further discussion."
+    ]
+  },
+  "metadata": {
+    "attempts": 1,
+    "input_tokens_local": 30558,
+    "context_limit": 65536,
+    "request_parameters": {
+      "temperature": 0.7,
+      "top_p": 0.8,
+      "top_k": 20,
+      "min_p": 0.0,
+      "repetition_penalty": 1.05,
+      "presence_penalty": 1.0,
+      "seed": 42,
+      "max_tokens": 8192
+    },
+    "model": "large",
+    "finish_reason": "stop",
+    "usage": {
+      "prompt_tokens": 30558,
+      "total_tokens": 30816,
+      "completion_tokens": 258,
+      "prompt_tokens_details": null
+    }
+  }
+}

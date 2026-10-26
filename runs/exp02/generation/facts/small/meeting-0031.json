@@ -1,0 +1,38 @@
+{
+  "status": "ok",
+  "request_hash": "618ffd0057a876be15c2652943a2137ada63df4c6d799366487531903b7c84c9",
+  "output": {
+    "key_facts": [
+      "Devon's third quarter results were outstanding, showcasing the power of its Delaware focused asset portfolio and the benefits of its financially driven business model.",
+      "Devon's team's focus on operations excellence led to capturing efficiencies, accelerating free cash flow, reducing leverage, and returning a market-leading amount of cash to shareholders.",
+      "Devon's 2022 upstream capital program is planned to be in the range of $1.9 billion to $2.2 billion, with a WTI breakeven price of around $30.",
+      "Devon expects cash flow growth of more than 40% compared to 2021 at today's prices, with an 18% free cash flow yield at an $80 WTI price.",
+      "Devon has authorized a $1 billion share repurchase program through year-end 2022, equivalent to approximately 4% of its current market capitalization.",
+      "Devon's free cash flow in the third quarter was more than eightfold compared to previous periods, and the company reduced net debt by 16%.",
+      "Devon's implied dividend yield in 2022 is more than double that of the energy sector and more than seven times higher than the average company in the S&P 500 Index.",
+      "Devon's Delaware Basin assets account for roughly 80% of its capital deployment, with 13 operated rigs and four frac crews running during the quarter.",
+      "Devon's Boundary Raider project achieved initial 30-day production rates of 7,300 BOE per day, with over 60% being oil.",
+      "Devon's Cobra project in Lea County outperformed predrill expectations by more than 10%, with the top well achieving 30-day rates as high as 6,300 BOE per day.",
+      "Devon's high-margin oil production in the Delaware Basin grew 39% year over year, with average D&C costs improving to $554 per lateral foot in the third quarter.",
+      "Devon has a concentrated 300,000 net acre position in the liquids-rich window of the Anadarko Basin, with a joint venture agreement with Dow providing drilling carry.",
+      "Devon's financial strategy includes a fixed plus variable dividend framework, with the board approving a 71% increase in dividend payout to $0.84 per share.",
+      "Devon retired over $1.2 billion of outstanding notes this year and built a $2.3 billion cash balance at quarter end, reaching a debt-to-EBITDA leverage target of one turn or less.",
+      "Devon expects to retire approximately $1.0 billion of low-premium debt in 2022 and 2023 using cash already accumulated on the balance sheet.",
+      "Devon's financial strategy includes a share buyback program, which will be executed opportunistically when equity trades at a discounted valuation to historical multiples.",
+      "Devon's third quarter operating cash flow totaled $1.6 billion, an increase of 46% compared to last quarter, and generated $1.1 billion of free cash flow, the highest amount ever recorded in a single quarter.",
+      "Devon's financial strategy is working well, with excellent liquidity and substantial free cash flow generation, positioning the company to significantly grow its dividend payout over the next year.",
+      "Devon has a deep inventory of opportunities in the very best U.S. resource plays, with more than a decade of low-risk and high-return inventory in the Delaware Basin.",
+      "Devon is meeting the demands of investors, the market, and society by demonstrating capital discipline, earnings and cash flow growth, market-leading dividend payout, debt reduction, and a share buyback program."
+    ]
+  },
+  "metadata": {
+    "model": "small",
+    "finish_reason": "stop",
+    "usage": {
+      "prompt_tokens": 4536,
+      "total_tokens": 5317,
+      "completion_tokens": 781,
+      "prompt_tokens_details": null
+    }
+  }
+}

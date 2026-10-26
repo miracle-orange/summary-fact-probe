@@ -1,0 +1,29 @@
+{
+  "status": "ok",
+  "request_hash": "7c50d27711af35f812cdcad1e436127458b141bc1f1c030a31c2be098e5cdc66",
+  "output": {
+    "summary": "During the seventh meeting of the Special Committee on the COVID-19 Pandemic, several petitions were presented, including a call to ban animal testing for cosmetics and one seeking mandatory life jackets for children under 14 on small vessels. The session turned to questioning ministers, where Hon. Andrew Scheer pressed the government on its alleged inaction regarding 200,000 suspected fraudulent benefit applications, with Prime Minister Justin Trudeau emphasizing efforts to detect and recover funds. Trudeau reaffirmed Canada’s one China policy but supported Taiwan’s meaningful participation in international organizations like the WHO. Yves-François Blanchet sought clarity on increasing health transfers to provinces, and Patty Hajdu affirmed provincial jurisdiction over health care while referencing ongoing discussions. Jagmeet Singh criticized the government for not adequately addressing long-term care home failures, and Trudeau reiterated support for provincial efforts. Pierre Poilievre and others questioned the number of fraudulent and prisoner benefit recipients, but the government did not provide clear figures. Navdeep Bains and Marie-Claude Bibeau addressed concerns about small business and farm support, acknowledging eligibility gaps but noting program expansions. John Barlow highlighted the exclusion of sole proprietorships and owner-operators from aid, urging for more inclusive measures. Pat Kelly criticized the underfunding of the Auditor General, while Michael Chong raised a potential criminal breach of the Statistics Act due to leaked data. Maxime Blanchette-Joncas and others highlighted the inadequacy of rent and wage subsidies for seasonal businesses, with Morneau dismissing criticism as premature. Pierre Poilievre repeatedly demanded details on the national debt, but the finance minister avoided providing concrete figures. Finally, Scott Duvall raised concerns about seniors’ financial insecurity and delayed disability support, with Deb Schulte outlining temporary payments but no long-term solution."
+  },
+  "metadata": {
+    "attempts": 1,
+    "input_tokens_local": 31062,
+    "context_limit": 65536,
+    "request_parameters": {
+      "temperature": 0.7,
+      "top_p": 0.8,
+      "top_k": 20,
+      "min_p": 0.0,
+      "repetition_penalty": 1.05,
+      "seed": 42,
+      "max_tokens": 4096
+    },
+    "model": "large",
+    "finish_reason": "stop",
+    "usage": {
+      "prompt_tokens": 31062,
+      "total_tokens": 31432,
+      "completion_tokens": 370,
+      "prompt_tokens_details": null
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "status": "ok",
+  "request_hash": "009db4616060cde2dcb363a823d1ff3a795bb93da06a0f9b98759a64e1f58ff4",
+  "output": {
+    "key_facts": [
+      "The project aims to create a remote control that can generate a profit of fifty million Euros.",
+      "The remote control is expected to be sold for twenty five Euros, which is about fifteen Pounds.",
+      "The remote control needs to be trendy to achieve the desired profit.",
+      "The team is considering the design of the remote control, including color and size.",
+      "The remote control should have unique features to differentiate it from existing products.",
+      "The Marketing team suggests evaluating market potential, competition, and design before finalizing the project.",
+      "The team plans to allocate tasks, with the User Interface and Industrial Designer researching other remote controls and their designs.",
+      "The remote control should be attractive and have a good look to appeal to users.",
+      "The team is considering a design similar to a P_D_A_ but not focusing on the screen.",
+      "The team will have another meeting in half an hour to discuss further details."
+    ]
+  },
+  "metadata": {
+    "model": "small",
+    "finish_reason": "stop",
+    "usage": {
+      "prompt_tokens": 1719,
+      "total_tokens": 1908,
+      "completion_tokens": 189,
+      "prompt_tokens_details": null
+    }
+  }
+}

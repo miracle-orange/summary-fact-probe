@@ -1,0 +1,46 @@
+{
+  "status": "ok",
+  "request_hash": "d862a8fdc72dc194af0032f0b879f326a05632ecf5b5c22c92660aa69b24402c",
+  "output": {
+    "key_facts": [
+      "Council Bill 1421 seeks to rezone a parcel at 14 2038 street from its current R.M. 30 with waivers zoning to CMC's eight zoning.",
+      "The property is currently vacant with some building footings remaining and is located directly across the street from the 38th and Blake RTD Station.",
+      "The request is to allow the relocation of the tiny home village currently operating on a property on Walnut, just over the alley from the subject site.",
+      "The tiny home village operates under a six-month temporary unlisted use permit, which does not apply to former Chapter 59 zoning.",
+      "The rezoning request is consistent with the recommendations of the 38th and Blake Station area height amendments adopted in 2016.",
+      "The tiny home village has provided nearly 2700 nights of safe, dignified housing to people who would otherwise be on the streets in 180 days of operation.",
+      "The village has operated at a cost of $5.80 per person per night.",
+      "The proposed rezoning is supported by the Urban Land Conservancy, the Colorado Village Collaborative, and the Black Star Action Movement for Self-defense.",
+      "The rezoning request is part of the larger 38th and Blake Project base rezoning, which is set to be considered next month.",
+      "The rezoning request has had extensive public outreach and multiple meetings and workshops.",
+      "The rezoning request meets the five criteria from the Denver zoning code for adopting a zone change.",
+      "The rezoning request is expected to pass with a unanimous vote.",
+      "The tiny home village is scheduled to move from its current location by January 12th.",
+      "The proposed rezoning is intended to allow for a long-term home for the tiny home village.",
+      "The city has not made a commitment to earmark payment in lieu of dollars for the 38th and Walnut site yet.",
+      "The payment in lieu of amount for the 335 unit project is in the range of $1.7 to $1.9 million.",
+      "The city has used the TOD Fund to assist in the purchase of the 38th and Blake site.",
+      "The TOD loan for the 38th and Blake site was paid off in 2015 or early 2016.",
+      "The proposed development includes 65 units of affordable housing on the 38th and Walnut site and 325 market rate apartments on the Blake Street side.",
+      "The affordable housing units are intended to be at 30 to 40% of the area median income.",
+      "The city has not yet finalized the process for the overlay and approval of the payment in lieu of arrangement.",
+      "The city has not yet established a formal process for the renewability of temporary use permits for tiny home villages.",
+      "The city has not yet determined the exact number of units that would satisfy the affordability requirements for the 38th and Walnut site.",
+      "The city has not yet identified a permanent home for the tiny home village.",
+      "The city has not yet determined the exact number of units that would be required to meet the affordability targets for the 38th and Walnut site.",
+      "The city has not yet determined the exact number of units that would be required to meet the affordability targets for the 38th and Walnut site.",
+      "The city has not yet determined the exact number of units that would be required to meet the affordability targets for the 38th and Walnut site.",
+      "The city has not yet determined the exact number of units that would be required to meet the affordability targets for the 38th and Walnut site."
+    ]
+  },
+  "metadata": {
+    "model": "small",
+    "finish_reason": "stop",
+    "usage": {
+      "prompt_tokens": 9697,
+      "total_tokens": 10456,
+      "completion_tokens": 759,
+      "prompt_tokens_details": null
+    }
+  }
+}

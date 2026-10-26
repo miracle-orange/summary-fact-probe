@@ -1,0 +1,29 @@
+{
+  "status": "ok",
+  "request_hash": "bb0bf65f0cd7bc80632208e619aab79633a4f294404f4c89f9f5db86f86ad940",
+  "output": {
+    "summary": "The sixth meeting of the House of Commons Special Committee on the COVID-19 pandemic was held via videoconference. Various members presented petitions concerning perinatal mental health, cystic fibrosis treatment access, family doctor shortages, open-net salmon farming, Indigenous rights, airline refunds, and more. Following the presentation of petitions, members questioned ministers about topics including fraud in benefit programs, tax evasion, the handling of the Canada Emergency Response Benefit (CERB), the impact of the pandemic on the tourism and agriculture sectors, and the government's response to the crisis in long-term care facilities. The discussion also touched on issues such as the ban on certain firearms, the support for seniors, the procurement of personal protective equipment (PPE), and the government's economic recovery plans. Ministers addressed these concerns, emphasizing the government's focus on supporting Canadians during the pandemic, addressing gaps in support, and working with provinces and territories to implement solutions."
+  },
+  "metadata": {
+    "attempts": 1,
+    "input_tokens_local": 23146,
+    "context_limit": 65536,
+    "request_parameters": {
+      "temperature": 0.7,
+      "top_p": 0.8,
+      "top_k": 20,
+      "min_p": 0.0,
+      "repetition_penalty": 1.05,
+      "seed": 42,
+      "max_tokens": 4096
+    },
+    "model": "small",
+    "finish_reason": "stop",
+    "usage": {
+      "prompt_tokens": 23146,
+      "total_tokens": 23341,
+      "completion_tokens": 195,
+      "prompt_tokens_details": null
+    }
+  }
+}

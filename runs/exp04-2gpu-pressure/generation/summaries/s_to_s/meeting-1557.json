@@ -1,0 +1,29 @@
+{
+  "status": "ok",
+  "request_hash": "868960487f3d7058803f8ca4cbc175ee73dc76361a5ec9b64d97873ef9a2c7c4",
+  "output": {
+    "summary": "The team met to discuss the redesign of a remote control, focusing on cost reduction, functionality, and aesthetics. They decided to drop the speech recognition feature and the special color of the buttons, while keeping the LCD screen and adopting a single curved design. They opted for an integrated scroll-wheel push-button instead of multiple physical buttons, which saved some costs. The team concluded that the design would cost 28 points on a seven-point evaluation scale, indicating it's better than average. They discussed using a hand dynamo as a power source but ultimately decided against it due to energy concerns. The team chose plastic with a special color for the casing. They found the remote control not very easy to use, scoring a six on the evaluation scale. The team decided to rename the remote control as 'Real Remote' and incorporate the initials into the logo. They also discussed the need for recalibration of the drawing tool during the meeting."
+  },
+  "metadata": {
+    "attempts": 1,
+    "input_tokens_local": 19462,
+    "context_limit": 65536,
+    "request_parameters": {
+      "temperature": 0.7,
+      "top_p": 0.8,
+      "top_k": 20,
+      "min_p": 0.0,
+      "repetition_penalty": 1.05,
+      "seed": 42,
+      "max_tokens": 4096
+    },
+    "model": "small",
+    "finish_reason": "stop",
+    "usage": {
+      "prompt_tokens": 19462,
+      "total_tokens": 19655,
+      "completion_tokens": 193,
+      "prompt_tokens_details": null
+    }
+  }
+}

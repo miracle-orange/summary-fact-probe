@@ -1,0 +1,49 @@
+{
+  "status": "ok",
+  "request_hash": "8f5b4be36aee88d704a786254d67aa84e5fa61ac0c90ff129747658e328cb89e",
+  "output": {
+    "key_facts": [
+      "The Welsh Government has been working with higher education (HE) and further education (FE) sectors since September 2016 to assess the impact of Brexit.",
+      "Nine sector analyses were initially conducted, but more recent work by Cardiff University has influenced current thinking.",
+      "The Welsh Government is collaborating with HE institutions to develop preparedness plans for both 'no deal' and 'deal' scenarios.",
+      "Funding for European programs in HE and FE is guaranteed until December 2020 according to a letter from the UK Treasury.",
+      "There is concern that in a 'no deal' scenario, Wales would lose access to around 50% of Horizon 2020 activities currently supported by the EU.",
+      "Welsh Government has allocated £3.5 million to the Global Wales initiative to support international recruitment efforts for universities.",
+      "EU student applications to Welsh universities have seen a significant drop this year, attributed to changes in tuition fee grants and Brexit uncertainty.",
+      "Swansea University has demonstrated success in attracting international students despite challenges, serving as a model for others.",
+      "The Welsh Government continues to advocate for the inclusion of EU students in post-study work visa provisions.",
+      "A new regional skills partnership approach has been introduced to align training with employer needs, particularly in construction, manufacturing, and health sectors.",
+      "Welsh Government officials are engaged in discussions with the UK Department for Exiting the European Union, No. 10 Downing Street, and the Joint Ministerial Committee regarding Brexit transition.",
+      "Multi-annual European funding has provided security for HE and FE institutions, and its loss is a major concern.",
+      "The Welsh Government expects continued collaboration with the UK Government to uphold commitments on replacing lost EU funding for apprenticeships and other programs.",
+      "The National Union of Students (NUS) is actively involved in providing feedback and shaping policy responses related to Brexit impacts on education.",
+      "The Welsh Government remains committed to implementing the recommendations of the Diamond and Reid reviews for HE funding reform.",
+      "Regional skills partnerships are being developed to address potential skills shortages caused by Brexit, especially in rural areas.",
+      "Welsh Government has initiated a review of how FE is funded, aiming to improve responsiveness to employer demands.",
+      "£10 million has been invested in regional skills initiatives to ensure alignment with economic needs."
+    ]
+  },
+  "metadata": {
+    "attempts": 1,
+    "input_tokens_local": 10888,
+    "context_limit": 65536,
+    "request_parameters": {
+      "temperature": 0.7,
+      "top_p": 0.8,
+      "top_k": 20,
+      "min_p": 0.0,
+      "repetition_penalty": 1.05,
+      "presence_penalty": 1.0,
+      "seed": 42,
+      "max_tokens": 8192
+    },
+    "model": "large",
+    "finish_reason": "stop",
+    "usage": {
+      "prompt_tokens": 10888,
+      "total_tokens": 11356,
+      "completion_tokens": 468,
+      "prompt_tokens_details": null
+    }
+  }
+}

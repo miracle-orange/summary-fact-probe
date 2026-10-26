@@ -1,0 +1,58 @@
+{
+  "status": "ok",
+  "request_hash": "9bb296b8e022d79898f06da687c6fbe829fb75f320bbc92c7658f62ad94c6083",
+  "output": {
+    "key_facts": [
+      "Third quarter sales were $122.4 million, up 8% compared to the third quarter of 2020 and down 6% sequentially from the second quarter.",
+      "Customer demand remains robust, while supply challenges persist, especially for transportation products.",
+      "Third quarter gross margin was 37.3%, up 490 basis points from 32.4% in the third quarter of 2020 and up 50 basis points sequentially from the second quarter of 2021.",
+      "Third quarter EBITDA margin was 21.7%, up 270 basis points from 19% in the third quarter of 2020.",
+      "Third quarter adjusted earnings per share were $0.46, up 35% from $0.34 in the third quarter of 2020.",
+      "Operating cash flow for the third quarter was $21 million, down from $26 million in the third quarter of 2020.",
+      "New business awards for the third quarter were $179 million, up from $127 million in the same period last year.",
+      "Sales to transportation customers declined by 5% compared to the third quarter of 2020 and 13% sequentially.",
+      "Sales to other end markets increased 24% year-over-year and 3% sequentially.",
+      "The non-transportation related revenue accounted for nearly 50% of total revenue in the third quarter.",
+      "The semiconductor shortage is expected to reduce vehicle builds by nine million to 10 million units this year.",
+      "The U.S. light vehicle transportation market SAAR dropped closer to $12 million in September, with an expected range of 13 to 13.5 million units for the year.",
+      "On-hand days supply are now closer to 20 days, the lowest in recent history, down over 60% from the five-year average of 55 days.",
+      "The third quarter reported a loss of $1.97 per share, while adjusted earnings were $0.46 per diluted share compared to $0.34 per diluted share in the same period last year.",
+      "A noncash charge of $106 million before tax was recorded as part of the U.S. pension plan termination process.",
+      "The third quarter tax rate was 28.9%, with an anticipated 2021 tax rate range of 19% to 21% excluding the pension settlement and other discrete items.",
+      "The company's cash balance was $129 million as of September 30, 2021, up from $92 million on December 31, 2020.",
+      "Long-term debt balance was $50 million at the end of the third quarter, down from $55 million on December 31, 2020.",
+      "The debt to capitalization ratio was 9.9% at the end of the third quarter, compared to 11.4% at the end of 2020.",
+      "The company is near the end of its SAP system rollout, with most sites now running on SAP and completion expected in early 2022.",
+      "The company is committed to further diversifying its business, with a focus on non-transportation related revenue growth.",
+      "The company repurchased approximately 148,000 shares for slightly less than $5 million as part of its stock buyback program.",
+      "The company's M&A strategy focuses on enhancing technology and product capabilities, geographic reach, and EV offerings, targeting acquisitions up to $50 million in sales.",
+      "The company expects supply chain challenges to persist for the rest of the year and into 2022, impacting both material availability and costs.",
+      "The company's restructuring program achieved $0.03 in earnings per share savings in the third quarter, with targeted annualized savings of $0.22 to $0.26 of earnings per share by the end of 2022.",
+      "The company's balance sheet is strong, bolstered by solid cash flow generation, providing a competitive advantage for its diversification strategy.",
+      "The company's guidance for full year 2021 was updated to sales in the range of $495 million to $505 million and adjusted earnings in the range of $1.85 to $1.95 per share.",
+      "The company's focus on diversification includes expanding into industrial, medical, aerospace, and defense markets, with notable growth in temperature sensing, RF filters, and transducer applications.",
+      "The company added two new industrial customers in the third quarter, one for an RF filter application and the other for a temperature-controlled crystal component applied in a GPS application.",
+      "The company's non-transportation end market performed strongly, with sales increasing 24% year-over-year and 3% sequentially.",
+      "The company's industrial sales advanced due to robust demand for temperature products in pool and spa, HVAC, and other applications.",
+      "The company's medical end market showed continued growth, with wins in drug delivery, ultrasound, and temperature sensing applications.",
+      "The company's defense market saw growth with undersea sonar and RF filter programs, and it is testing samples for underwater unmanned vehicle applications.",
+      "The company's transportation business is expected to continue facing supply challenges, but it performed better than the outlook provided in the last quarterly update.",
+      "The company's long-term strategy includes diversifying its end market profile, expanding technologies, products, customers, and geographic reach.",
+      "The company's focus on extending into hot side applications is gaining momentum, with shipments to a new customer expected later in the year.",
+      "The company's restructuring activities are on track to achieve targeted annualized savings of $0.22 to $0.26 of earnings per share by the end of 2022.",
+      "The company's global team continues to demonstrate strong execution and commitment to operational excellence and long-term goals.",
+      "The company launched CTS Cares, a new platform for community engagement and charitable giving, as part of its efforts to bolster engagement in its communities.",
+      "The company's 125th anniversary is being celebrated with a focus on giving back to communities through the CTS Cares program."
+    ]
+  },
+  "metadata": {
+    "model": "small",
+    "finish_reason": "stop",
+    "usage": {
+      "prompt_tokens": 3887,
+      "total_tokens": 5203,
+      "completion_tokens": 1316,
+      "prompt_tokens_details": null
+    }
+  }
+}

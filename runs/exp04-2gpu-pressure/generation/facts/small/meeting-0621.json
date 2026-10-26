@@ -1,0 +1,52 @@
+{
+  "status": "ok",
+  "request_hash": "c49568b6031cee086f010b9bdead1ecdacaea04e75f414774447aab4dd914242",
+  "output": {
+    "key_facts": [
+      "Council Bill 245 proposes a rezoning from Gmc's 32grx5 to General Urban Residential Mixed Use five story.",
+      "The property is located at 2423-2490 South University in southeast Denver, within Council District six.",
+      "The current site contains commercial business and retail uses 1 to 2 stories built between 1951 and 1972.",
+      "There was a petition of protest filed by the neighborhood, which constitutes a legal protest under the zoning code.",
+      "The rezoning requires an affirmative vote of ten out of twelve council members to pass.",
+      "The planning board voted 9 to 0 to recommend support of this application.",
+      "The proposed rezoning is consistent with the University Park Neighborhood Plan and Blueprint Denver.",
+      "University Boulevard is identified as an enhanced transit corridor in Blueprint Denver.",
+      "The rezoning would allow for up to 70 feet in height, compared to the current allowance of 45 feet in the three storey district.",
+      "Staff concludes the proposed amendment will support uniform application of the district regulations and maintain public health, safety, and welfare.",
+      "The rezoning is justified due to changed conditions and the need for redevelopment.",
+      "The neighborhood context includes single family residential areas to the east and commercial areas to the west.",
+      "The proposed development includes 236 units, 25,000 square feet of retail, and parking below grade.",
+      "A traffic study was conducted by the developer and shared with the neighborhood, indicating that traffic volumes on University Boulevard would not be significantly impacted.",
+      "The project has generated significant public discussion and debate with both supporters and opponents expressing concerns about traffic, safety, and neighborhood character.",
+      "The University Park Community Council opposed the rezoning, stating that it does not align with the neighborhood plan and character.",
+      "The rezoning was initially considered in 2010 but was not approved due to the property being split among multiple owners.",
+      "The applicant, no doubt Colorado, recently acquired the majority of the block outside of a 7-Eleven.",
+      "The rezoning is part of a broader effort to encourage infill development and mixed-use projects along University Boulevard.",
+      "The rezoning proposal was supported by the City Planning Department and the developer's team.",
+      "The final vote on the rezoning passed with 13 affirmative votes."
+    ]
+  },
+  "metadata": {
+    "attempts": 1,
+    "input_tokens_local": 31044,
+    "context_limit": 65536,
+    "request_parameters": {
+      "temperature": 0.7,
+      "top_p": 0.8,
+      "top_k": 20,
+      "min_p": 0.0,
+      "repetition_penalty": 1.05,
+      "presence_penalty": 1.0,
+      "seed": 42,
+      "max_tokens": 8192
+    },
+    "model": "small",
+    "finish_reason": "stop",
+    "usage": {
+      "prompt_tokens": 31044,
+      "total_tokens": 31532,
+      "completion_tokens": 488,
+      "prompt_tokens_details": null
+    }
+  }
+}

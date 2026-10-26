@@ -1,0 +1,20 @@
+{
+  "status": "ok",
+  "request_hash": "95caf331402ffd0a5bc051c8166c5527eff1d7d069df3dae5fd2caa301532696",
+  "output": {
+    "key_facts": [
+      "The Children (Abolition of Defence of Reasonable Punishment) (Wales) Bill is supported by the Association of Directors of Social Services (ADSS) and the Welsh Local Government Association (WLGA) as it brings clarity to the treatment of children and aligns with the United Nations Convention on the Rights of the Child (UNCRC).",
+      "The bill is expected to have a minimal impact on the number of referrals to children's services, as physical punishment is a rare occurrence and the number of cases using the defence of reasonable punishment is small, with a likely peak and then settling over time."
+    ]
+  },
+  "metadata": {
+    "model": "small",
+    "finish_reason": "stop",
+    "usage": {
+      "prompt_tokens": 12090,
+      "total_tokens": 12220,
+      "completion_tokens": 130,
+      "prompt_tokens_details": null
+    }
+  }
+}

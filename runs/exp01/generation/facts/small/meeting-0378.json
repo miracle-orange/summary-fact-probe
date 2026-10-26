@@ -1,0 +1,38 @@
+{
+  "status": "ok",
+  "request_hash": "86131c24ebe3b5d7c32ad4d27b503a07416bfcab5f17a6404f078e1caf2794c6",
+  "output": {
+    "key_facts": [
+      "PhD A and others have been working on experiments involving PLP features with on-line normalization and delta features, resulting in improved recognition accuracy compared to baseline systems.",
+      "The multi-English training set has shown better performance than other languages, and the use of delta features significantly improves accuracy over non-delta features.",
+      "The baseline system has an accuracy of 82% on the Italian mismatched digits task.",
+      "The TIMIT database, being hand-labeled, has shown better performance than other databases which are Viterbi-aligned.",
+      "The use of neural networks with PLP features and on-line normalization has resulted in accuracy improvements, reaching up to 89.7% in some cases.",
+      "The MSG feature stream has not shown significant improvement in accuracy for the Italian database, and it is suspected that the issue may be related to the processing of the features.",
+      "The team has started training on a large database containing data from multiple languages including French, Spanish, TIMIT, SPINE, and Italian digits.",
+      "The team has been experimenting with feature combination methods, including combining features with MLP outputs, but the results are not yet conclusive.",
+      "The team is considering the use of different training targets, such as articulatory or soft targets, to improve performance.",
+      "The team is planning to integrate their MLP system into the OGI system, and they are working on obtaining VAD labels and features from OGI for testing.",
+      "The team is exploring the use of multi-band and TRAP systems as potential methods to improve robustness to noise and other variations.",
+      "The team has been working on a variety of neural network configurations, including different hidden layer sizes and training set sizes, but no definitive conclusions have been reached.",
+      "The team is concerned about the variability in the test set and the ability of their current neural network configurations to handle this variability.",
+      "The team is considering the use of different normalization techniques and the impact of variance scaling on the performance of their system.",
+      "The team has been addressing CPU and memory constraints, and they are considering the use of smaller neural networks if the current ones do not provide significant improvements.",
+      "The team is planning to test their MLP system on a range of different test sets, including TI-digits, to evaluate its performance across different conditions.",
+      "Grad C is working on a project involving multi-band belief-net structures and is exploring the use of bidirectional dependency arrows between sub-bands.",
+      "The team has been using a Linux machine called 'Swede' for running neural network experiments, and Dan Ellis is believed to have knowledge about using this machine.",
+      "The team has been discussing the potential of using different training strategies, including the use of multiple training sets and the impact of language and noise dependencies on performance.",
+      "The team has been working on a variety of experiments, including the use of different feature streams and the integration of neural networks into existing systems, but the results are still inconclusive and require further testing and analysis."
+    ]
+  },
+  "metadata": {
+    "model": "small",
+    "finish_reason": "stop",
+    "usage": {
+      "prompt_tokens": 18532,
+      "total_tokens": 19135,
+      "completion_tokens": 603,
+      "prompt_tokens_details": null
+    }
+  }
+}

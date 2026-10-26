@@ -1,0 +1,19 @@
+{
+  "run": "/home/ma-user/work/dataset/summary-fact-probe/runs/exp04-2gpu",
+  "pilot_count": 30,
+  "fact_metrics_recomputed": 60,
+  "summary_metrics_recomputed": 240,
+  "generation_hashes_verified": 300,
+  "judge_hashes_verified": 840,
+  "existing_report_rows_verified": 48,
+  "processed_data_sha256": "2C5175912EFBED9729A118E2381EE063C003DA249055704BEFE64024FB6772FC",
+  "snapshot_sha256": "795FAA1855857FC0C2026731049E9ABA008FACA79D59B2A2FA1D82E1B63B83BF",
+  "evaluation_status": {
+    "requested": 300,
+    "failures": []
+  },
+  "facts_unchanged_since_prior_audit": true,
+  "total_reference_facts": 601,
+  "total_judge_unsupported_claims": 275,
+  "errors_retained": 5
+}

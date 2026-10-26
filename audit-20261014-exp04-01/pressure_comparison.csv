@@ -1,0 +1,15 @@
+sample_id,dataset,model,pressure_facts,pilot_facts,pressure_completion_tokens,pilot_completion_tokens,hash_equal,parameters_equal,prompt_tokens_equal,content_equal
+meeting-0064,QMSum-Academic,small,11,12,242,275,True,True,True,False
+meeting-0064,QMSum-Academic,large,14,14,258,263,True,True,True,False
+meeting-0400,QMSum-Committee,small,18,18,488,426,True,True,True,False
+meeting-0400,QMSum-Committee,large,18,19,468,527,True,True,True,False
+meeting-0621,MeetingBank,small,21,22,488,518,True,True,True,False
+meeting-0621,MeetingBank,large,32,27,867,575,True,True,True,False
+meeting-0761,QMSum-Committee,small,34,2,1187,104,True,True,True,False
+meeting-0761,QMSum-Committee,large,28,28,879,802,True,True,True,False
+meeting-1469,QMSum-Committee,small,44,35,1235,1119,True,True,True,False
+meeting-1469,QMSum-Committee,large,22,27,656,770,True,True,True,False
+meeting-1557,QMSum-Product,small,10,10,193,200,True,True,True,False
+meeting-1557,QMSum-Product,large,19,20,354,379,True,True,True,False
+meeting-1776,ECTSum,small,2,2,100,100,True,True,True,True
+meeting-1776,ECTSum,large,43,44,1148,991,True,True,True,False

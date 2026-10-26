@@ -1,0 +1,37 @@
+[
+  {
+    "path": "evaluation/facts/large/match/meeting-0290.error.json",
+    "status": "error",
+    "problem": null,
+    "error": "Expected 21 fact matches",
+    "finish_reason": "stop"
+  },
+  {
+    "path": "evaluation/summaries/l_to_l/match/meeting-0400.error.json",
+    "status": "error",
+    "problem": null,
+    "error": "Expected 22 fact matches",
+    "finish_reason": "stop"
+  },
+  {
+    "path": "generation/facts/small/meeting-0761.error.json",
+    "status": "error",
+    "problem": "output_truncated",
+    "error": "output_truncated: finish_reason=length, prompt_tokens=22014, completion_tokens=8192; inspect the saved .error.json; output was not repaired or cached as success",
+    "finish_reason": "length"
+  },
+  {
+    "path": "metrics/errors/facts-large-meeting-0290.json",
+    "status": "error",
+    "problem": null,
+    "error": "ValueError('Expected 21 fact matches')",
+    "finish_reason": null
+  },
+  {
+    "path": "metrics/errors/l_to_l-meeting-0400.json",
+    "status": "error",
+    "problem": null,
+    "error": "ValueError('Expected 22 fact matches')",
+    "finish_reason": null
+  }
+]

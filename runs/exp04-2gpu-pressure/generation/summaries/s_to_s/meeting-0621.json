@@ -1,0 +1,29 @@
+{
+  "status": "ok",
+  "request_hash": "d48d8fcd0cf0de2034abe552eb838a8d683060b390abbbf211eaefc605ec14f0",
+  "output": {
+    "summary": "The conversation revolves around a proposed rezoning of Council Bill 245, which seeks to rezone a property located at 2423-2490 South University in southeast Denver, within Council District six, from Gmc's 32grx5 to General Urban Residential Mixed Use five story. The property, owned by no doubt Colorado, is situated in the University Park neighborhood, adjacent to commercial areas to the west and single-family residential areas to the east. The current site features commercial and retail uses built between 1951 and 1972, and the proposed rezoning aims to allow for a five-story building with up to 70 feet in height, compared to the current allowance of 45 feet in the three-story district. The planning board recommended support for the application, and the City Planning Department concluded that the proposal aligns with the University Park Neighborhood Plan and Blueprint Denver, which identify University Boulevard as an enhanced transit corridor. The rezoning is justified by changed conditions, including the recent assembly of the property by the applicant and the need for redevelopment. A petition of protest was filed by the neighborhood, constituting a legal protest under the zoning code, and the rezoning requires an affirmative vote of ten council members to pass. The proposed development includes 236 units, 25,000 square feet of retail, and below-grade parking. The project has sparked significant public debate, with supporters emphasizing its alignment with city plans and the benefits of infill development, while opponents express concerns about traffic, safety, and the character of the neighborhood. A traffic study was conducted by the developer and shared with the neighborhood, indicating that traffic volumes on University Boulevard would not be significantly impacted. The final vote on the rezoning passed with 13 affirmative votes."
+  },
+  "metadata": {
+    "attempts": 1,
+    "input_tokens_local": 31477,
+    "context_limit": 65536,
+    "request_parameters": {
+      "temperature": 0.7,
+      "top_p": 0.8,
+      "top_k": 20,
+      "min_p": 0.0,
+      "repetition_penalty": 1.05,
+      "seed": 42,
+      "max_tokens": 4096
+    },
+    "model": "small",
+    "finish_reason": "stop",
+    "usage": {
+      "prompt_tokens": 31477,
+      "total_tokens": 31851,
+      "completion_tokens": 374,
+      "prompt_tokens_details": null
+    }
+  }
+}

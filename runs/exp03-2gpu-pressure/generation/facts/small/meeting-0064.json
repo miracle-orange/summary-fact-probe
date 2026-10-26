@@ -1,0 +1,42 @@
+{
+  "status": "ok",
+  "request_hash": "f4ead6f4082b8309be7a7aa8cbbcb0f844e9c6d7c4012d733861a9b58182c733",
+  "output": {
+    "key_facts": [
+      "Grad F presented a sheet containing revised semantic specifications and construction formalisms.",
+      "The sheet includes two sides, with one side focusing on semantic specifications and the other on construction formalisms.",
+      "Grad F mentioned that the sheet is just one sheet and there are very few changes from previous versions.",
+      "Grad F discussed the syntax of the notation, mentioning that the key word is 'construct' followed by a name and type specification.",
+      "The concept of 'designate' was discussed, with Grad F explaining it refers to the semantic head of a phrase.",
+      "Grad F mentioned that 'semantic constraints' and 'meaning bindings' are used in the notation, though there was some confusion about terminology.",
+      "There was a discussion about the use of 'constraints' versus 'bindings', with Grad F suggesting that the term should remain as 'constraints' due to its flexibility.",
+      "Grad F explained that the notation allows for both form and meaning types, with the former being more about formal structure and the latter about semantic content.",
+      "The group discussed the integration of mental spaces and how they relate to the formalism, with Professor C noting that the mental space concept is not yet fully integrated into the formalism.",
+      "Grad F mentioned that the notation includes slots for scenario, referent, discourse segment, and other elements, with the scenario representing the basic predication of an event.",
+      "Grad F suggested that the 'scenario' block should be used to represent grammatically specifiable information about a referent, including category, status, and other attributes.",
+      "The group discussed the importance of distinguishing between topic and focus in information structure, with Grad F noting that topic is background information and focus is the new information.",
+      "Grad F mentioned that the group had previously discussed the use of 'designate' in FrameNet, which refers to required elements in a frame.",
+      "Grad F noted that the notation includes a slot for 'predications' which can be used for additional information about a referent.",
+      "Grad F proposed that the group should focus on defining the set of constructions they want to develop, rather than attempting to do them in detail at this stage.",
+      "Professor C suggested that the group should not attempt to do everything at once and should instead focus on the subset of things they are responsible for.",
+      "Grad A mentioned that Eva modified the JavaBayes GUI to include a button for saving data in the embedded JavaBayes format.",
+      "Grad A proposed an idea involving probabilistic relational models and Bayes-nets for construal, though it was noted that the models are not currently good enough to implement this idea.",
+      "Grad A mentioned that they would prepare a draft of their thesis proposal and present it to the group before leaving.",
+      "The group agreed to meet again on Thursday at 1 PM to discuss the thesis proposal and make any necessary changes.",
+      "Grad F agreed to the meeting time and mentioned that they would be available for the meeting."
+    ]
+  },
+  "metadata": {
+    "attempts": 1,
+    "input_tokens_local": 30558,
+    "context_limit": 65536,
+    "model": "small",
+    "finish_reason": "stop",
+    "usage": {
+      "prompt_tokens": 30558,
+      "total_tokens": 31153,
+      "completion_tokens": 595,
+      "prompt_tokens_details": null
+    }
+  }
+}

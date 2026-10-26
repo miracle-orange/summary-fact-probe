@@ -1,0 +1,29 @@
+{
+  "status": "ok",
+  "request_hash": "bf1a3481a01c73cf55b934cb9a20d17b1925f0cf4477a51a234af9b4e5774ea7",
+  "output": {
+    "key_facts": [
+      "PhD C explains that combo is a system where features go through a network, then a low-pass filtered version of the same features goes through another MLP, and the linear outputs of both MLPs are combined by adding the values.",
+      "The weighting scheme used for evaluating results is 40% for TI-digit, 60% for all SpeechDat-Cars, with match levels of 40%, 35%, and 25% for well, medium, and high mismatch respectively.",
+      "The results for the highly mismatched Italian show some funny behavior, with some results around 36 and others around 42.",
+      "The test sets contain between five hundred and two thousand sentences, with each sentence containing between one and sixteen digits.",
+      "The second row of the table represents a baseline with OGI features without the combo processing.",
+      "The last row of the table represents the second row with combo processing added.",
+      "There is a delay issue preventing the implementation of a second silence detection method at the server side.",
+      "The system is planned to be fixed on Tuesday, with the results to be written up shortly after.",
+      "The deadline for submitting the data is three PM on Wednesday in European time, which corresponds to six AM on the same day in the local time zone.",
+      "Jeff at the University of Washington has access to a server farm with ten IBM RS 6000 machines, each with four processors, offering significant processing power for scheduling tasks.",
+      "A new data collection of digits is being recorded and is expected to reach a good size, providing another source of data for future work."
+    ]
+  },
+  "metadata": {
+    "model": "small",
+    "finish_reason": "stop",
+    "usage": {
+      "prompt_tokens": 8009,
+      "total_tokens": 8341,
+      "completion_tokens": 332,
+      "prompt_tokens_details": null
+    }
+  }
+}

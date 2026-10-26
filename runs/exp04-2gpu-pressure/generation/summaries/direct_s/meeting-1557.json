@@ -1,0 +1,29 @@
+{
+  "status": "ok",
+  "request_hash": "1b7029a31db6b4d7d42174bd86e3cb0b92a44b66b26f470ece82d4e8dc1c8416",
+  "output": {
+    "summary": "The conversation involves a team discussing the design and development of a remote control product. Key topics include cost reduction, design changes, and evaluating the product's features. They consider removing certain elements like the speech recognition feature and special button colors to save costs, while keeping the LCD screen and some essential buttons. The team also debates the use of an integrated scroll-wheel push-button versus traditional buttons, considering usability and aesthetics. They finalize on a design that includes a single button, a curved shape, and a special color for the button. The discussion also touches on the product's evaluation criteria, the use of technology, and the overall user experience. The meeting concludes with plans to create a report and present the final design."
+  },
+  "metadata": {
+    "attempts": 1,
+    "input_tokens_local": 19212,
+    "context_limit": 65536,
+    "request_parameters": {
+      "temperature": 0.7,
+      "top_p": 0.8,
+      "top_k": 20,
+      "min_p": 0.0,
+      "repetition_penalty": 1.05,
+      "seed": 42,
+      "max_tokens": 4096
+    },
+    "model": "small",
+    "finish_reason": "stop",
+    "usage": {
+      "prompt_tokens": 19212,
+      "total_tokens": 19360,
+      "completion_tokens": 148,
+      "prompt_tokens_details": null
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "status": "ok",
+  "request_hash": "87c672646ac20182418df0db17488c131dd2cbaa6bc890159d50868bb0f0d5da",
+  "output": {
+    "key_facts": [
+      "The Chair called the meeting to order and noted that today's proceedings would be televised.",
+      "Mr. Paul Manly presented a petition calling for a ban on cosmetic testing using animals in Canada, following the European Union model.",
+      "Hon. Pierre Poilievre tabled an e-petition regarding a tragedy involving a 11-year-old boy who drowned in a boating accident and called for mandatory life jackets for children under 14 on small vessels.",
+      "The Prime Minister stated that the government's priority was to get money out to Canadians quickly and that fraud is unacceptable, with measures in place to detect and recover fraudulent benefits.",
+      "Hon. Andrew Scheer questioned the Prime Minister about whether the government instructed public servants to ignore red flags of fraud, and the Prime Minister responded that the priority was to get money out as quickly as possible.",
+      "The Prime Minister stated that the government would continue to tweak and improve programs to ensure more people receive emergency response benefits.",
+      "Mr. Yves-Franois Blanchet questioned the Prime Minister about the inclusion of Canada in the WHO and the government's stance on the issue, with the Prime Minister stating that Canada would support meaningful inclusion.",
+      "The Prime Minister acknowledged the importance of supporting students who cannot get summer jobs and mentioned programs like Canada Summer Jobs and a program with 76,000 new jobs for young people.",
+      "Mr. Jagmeet Singh questioned the Prime Minister about the federal government's responsibility in addressing the crisis in long-term care homes, with the Prime Minister stating that the federal government would work with provinces to address the issue.",
+      "The Prime Minister acknowledged the tragedy at the CHSLD Herron in Dorval and stated that the Government of Quebec would be supported in its efforts to find answers.",
+      "Hon. Pierre Poilievre asked about the number of emergency response benefit cheques sent to people flagged as fraudulent, and the Treasury Board President stated that 7.7 million Canadians had received the benefit.",
+      "The Treasury Board President stated that the number of cheques sent to people flagged as fraudulent was 200,000.",
+      "Hon. Pierre Poilievre asked about the number of prisoners who received the Canada emergency response benefit, and the Treasury Board President did not provide a specific number.",
+      "The Treasury Board President stated that the benefit was an emergency measure and that the government would continue to support institutions like the Auditor General.",
+      "Hon. Pierre Poilievre questioned the Auditor General's funding and the Treasury Board President stated that the government had increased funding for the Auditor General.",
+      "The National Post reported that 200,000 people had fraudulently used emergency assistance, and the Treasury Board President stated that the information was not for fraudulent reasons but because people needed it.",
+      "Mrs. Tracy Gray questioned the government about the CEBA program and the issue of small business owners not qualifying due to not having a business account, with the Minister of Innovation stating that the program had been adjusted to lower the payroll threshold.",
+      "The Minister of Innovation stated that the CEBA program had been modified to allow for a lower payroll threshold and a higher upper limit.",
+      "Mrs. Tracy Gray mentioned that the Canadian Craft Brewers Association reported that 38% of craft brewers did not qualify for the Canadian emergency wage subsidy in March, and 53% were unsure or predicted they would not qualify in April.",
+      "The Minister of Innovation stated that the wage subsidy had been adjusted to lower the revenue threshold from 30% to 15%.",
+      "Mr. John Barlow questioned the government about the impact of losing 30,000 family farms and the minister stated that the government had provided additional funding for the processing sector and for pork and beef producers.",
+      "The Minister of Agriculture stated that the government had added $77.5 million to the processing sector and $50 million for pork and beef producers under the AgriRecovery program.",
+      "Mr. John Barlow questioned the minister about the carbon tax and the minister stated that the government had provided various exemptions to the agriculture sector.",
+      "The Minister of Agriculture stated that the government had provided exemptions for the agriculture sector, including for gasoline, the access card, and the greenhouse sector.",
+      "Mr. Pat Kelly questioned the government about fully funding the Office of the Auditor General, and the Treasury Board President stated that the government had increased funding for the Auditor General.",
+      "The Treasury Board President stated that the government had increased funding for the Auditor General and that they would continue to support the office.",
+      "Mr. Pat Kelly questioned the government about the death of the Auditor General and the Treasury Board President stated that the government had not named a permanent replacement.",
+      "The Minister of Finance stated that the government had committed to providing transparency on the numbers of loans and support measures as they became available.",
+      "The Minister of Finance stated that the government had deferred GST and HST payments for businesses for the next three months.",
+      "Mr. Michael Chong questioned the government about the leak of Statistics Canada data and the minister stated that the government would ensure proper processes and protocols were followed.",
+      "The Minister of Industry stated that the government would ensure proper processes and protocols were followed and that the leak was completely unacceptable.",
+      "Mr. Yves-Franois Blanchet questioned the Prime Minister about the increase in health transfers to Quebec and the provinces, and the Minister of Health stated that the government had increased health transfers significantly since 2015.",
+      "The Minister of Health stated that the government would continue to work with provinces and territories to ensure health care needs were met.",
+      "Mr. Maxime Blanchette-Joncas questioned the government about specific measures taken to support the tourism industry, and the Minister of Industry stated that the government had invested in regional development and provided assistance for festivals and other initiatives.",
+      "The Minister of Industry stated that the government had introduced a $71 million investment to support businesses and organizations in rural communities.",
+      "Mr. Scott Duvall questioned the government about increasing OAS and GIS benefits for seniors, and the Minister of Seniors stated that the government had provided a one-time tax-free payment of $300 for OAS recipients and $200 for GIS recipients.",
+      "The Minister of Seniors stated that the government had invested over $3.8 billion in financial assistance for seniors this year, compared to $1.56 billion in the platform.",
+      "Mr. Greg McLean questioned the government about the design of the Canada emergency commercial rent assistance program and the Minister of Finance stated that the program was designed to help both landlords and tenants.",
+      "The Minister of Finance stated that the program was designed to help both landlords and tenants and that the government would continue to support businesses through loans and other measures.",
+      "Hon. Pierre Poilievre questioned the finance minister about the total assets and liabilities of the Government of Canada, and the finance minister stated that the government had a strong fiscal position and that the national debt was not specified.",
+      "The finance minister stated that the government had a strong fiscal position and that the national debt was not specified, but that the government would continue to invest in Canadians."
+    ]
+  },
+  "metadata": {
+    "model": "small",
+    "finish_reason": "stop",
+    "usage": {
+      "prompt_tokens": 30461,
+      "total_tokens": 31914,
+      "completion_tokens": 1453,
+      "prompt_tokens_details": null
+    }
+  }
+}

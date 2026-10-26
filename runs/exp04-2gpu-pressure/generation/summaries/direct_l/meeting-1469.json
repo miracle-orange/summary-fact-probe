@@ -1,0 +1,29 @@
+{
+  "status": "ok",
+  "request_hash": "9a1c3c5362ae55310dd46f5af308f194224b6d9cc11086c0464aaf78999cdbff",
+  "output": {
+    "summary": "During the Special Committee on the COVID-19 Pandemic, various topics were discussed, including fraud in benefit applications, support for students, seniors, and seasonal workers, as well as economic relief for small businesses and industries like agriculture and tourism. Concerns were raised about the government's response to fraud claims, the exclusion of certain businesses from financial aid, and the need for more inclusive policies. Additionally, issues such as the role of the federal government in long-term care, the impact of the carbon tax on farmers, and the need for improved infrastructure like high-speed internet in rural areas were debated. The committee also touched on international relations, the role of the Auditor General, and the government's financial strategies amid the pandemic."
+  },
+  "metadata": {
+    "attempts": 1,
+    "input_tokens_local": 30349,
+    "context_limit": 65536,
+    "request_parameters": {
+      "temperature": 0.7,
+      "top_p": 0.8,
+      "top_k": 20,
+      "min_p": 0.0,
+      "repetition_penalty": 1.05,
+      "seed": 42,
+      "max_tokens": 4096
+    },
+    "model": "large",
+    "finish_reason": "stop",
+    "usage": {
+      "prompt_tokens": 30349,
+      "total_tokens": 30500,
+      "completion_tokens": 151,
+      "prompt_tokens_details": null
+    }
+  }
+}

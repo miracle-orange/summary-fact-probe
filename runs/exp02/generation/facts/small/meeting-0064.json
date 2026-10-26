@@ -1,0 +1,43 @@
+{
+  "status": "ok",
+  "request_hash": "b92247685be9429a25656e6fd6917ba6542f3117db812355b454730e1e72f3a5",
+  "output": {
+    "key_facts": [
+      "Grad F presented a sheet containing revised semantic specifications and construction formalisms.",
+      "The sheet includes two sides: one with semantic specifications and the other with construction formalisms.",
+      "Grad F mentioned that the sheet is just one sheet and contains minimal changes from previous versions.",
+      "Grad F discussed the concept of 'designates' and its role in identifying the semantic head of a phrase.",
+      "Grad F noted that 'designates' is used in both semantic and formal contexts, with the latter being related to the head of a phrase.",
+      "Grad F mentioned the idea of having form-meaning pairs for a type, but found it potentially complex.",
+      "Grad F discussed the distinction between semantic constraints and semantic bindings, noting that the former might be more flexible.",
+      "Grad F mentioned the potential renaming of 'semantic constraints' to 'semantic bindings' due to concerns about restrictiveness.",
+      "Grad F discussed the use of 'semantic constraints' and 'meaning bindings' in the context of constructional and meaning types.",
+      "Grad F mentioned the idea of having a notation for semantic constraints and meaning bindings, but noted that it might be deferred.",
+      "Grad F discussed the use of 'profile' in two different contexts: one related to semantic highlighting and another related to FrameNet's required elements.",
+      "Grad F mentioned the use of 'designate' in the context of FrameNet, where it refers to required elements in a frame.",
+      "Grad F discussed the use of 'focus' and 'topic' in information structure, noting that they are distinct but related concepts.",
+      "Grad F mentioned the idea of having a 'focused' slot in the semantic side of the notation.",
+      "Grad F discussed the use of 'speaker' and 'hearer' in the context of discourse segments, noting that the speaker is typically known from the situation.",
+      "Grad F mentioned the idea of using the same mechanism for handling mental spaces and discourse-related elements.",
+      "Grad F suggested that the team should focus on defining a set of constructions for the tourist domain and child language learning.",
+      "Grad F proposed that Keith should describe the constructions he thinks they ought to have, and then Robert can review them upon his return.",
+      "Grad F mentioned the idea of using JavaBayes for probabilistic modeling, noting that it allows for querying posterior probabilities of variables.",
+      "Grad A mentioned that Eva modified the JavaBayes GUI to include a button for saving into the embedded JavaBayes format.",
+      "Grad A proposed an idea involving probabilistic relational models (PRMs) and Bayesian networks for construal, but noted that it might be complex and not yet fully developed.",
+      "Grad A mentioned that he would prepare a draft of his thesis proposal and present it to the group before leaving.",
+      "Grad A mentioned that he would give a talk at EML highlighting the group's work, and the group could make last-minute changes to it.",
+      "Grad A mentioned that the group would meet again on Thursday at one PM or four PM, with the final decision being made by Grad A.",
+      "Grad A mentioned that Liz prefers meetings at four PM as it forces discussions to be shorter."
+    ]
+  },
+  "metadata": {
+    "model": "small",
+    "finish_reason": "stop",
+    "usage": {
+      "prompt_tokens": 30558,
+      "total_tokens": 31189,
+      "completion_tokens": 631,
+      "prompt_tokens_details": null
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "status": "ok",
+  "request_hash": "fddbf856de2e55fb9f630a31faae7c39d9f826b1dad6bcdca0fdb8a9b7a3ed23",
+  "output": {
+    "key_facts": [
+      "The Eurospeech paper was accepted and will be presented in Aalborg, Denmark, in September.",
+      "PhD C discussed experiments on online normalization, including varying time constants and using different means for silence and speech, but found no significant improvement.",
+      "Adding white noise at a level 15 dB below the peak energy of utterances resulted in smoother MFCC features without worsening speech recognition performance.",
+      "PhD C mentioned that the LDA filter derived from clean speech improved recognition rates on TI-Digits compared to the one from noisy speech.",
+      "Grad A plans to conduct experiments on phone recognition using TIMIT, incorporating knowledge of voicing to improve results.",
+      "Grad G encountered issues with Wiener filtering, suspecting a bug in the implementation, and considered using a modified approach from Carlos' thesis.",
+      "PhD E is working on VTS (Vectorial Taylor Series) for noise removal, using a single Gaussian for noise estimation and a codebook for clean speech.",
+      "PhD E's experiments with VTS showed that using only the first ten frames for noise estimation did not yield significant improvements.",
+      "Professor B suggested using known nonspeech sections for noise estimation to better isolate the effects of different methods.",
+      "PhD E mentioned that the dimensionality of the Gaussian used for noise estimation is 23, resulting in 40 numbers for each frame."
+    ]
+  },
+  "metadata": {
+    "model": "small",
+    "finish_reason": "stop",
+    "usage": {
+      "prompt_tokens": 17633,
+      "total_tokens": 17912,
+      "completion_tokens": 279,
+      "prompt_tokens_details": null
+    }
+  }
+}

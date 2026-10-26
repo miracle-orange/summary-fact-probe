@@ -1,0 +1,277 @@
+{
+  "logs": [
+    {
+      "run": "exp04-2gpu",
+      "role": "small",
+      "sha256": "20D89D32F970C4C5B82E53D68F9A10B3354712E322A204CFC17D811C04C1DE64",
+      "starts": [
+        {
+          "splitlines_line": 4,
+          "time": "10-13 18:16:13",
+          "settings": {
+            "model": "/home/ma-user/work/dataset/summary-fact-probe/models/Qwen3-8B",
+            "served_model_name": [
+              "small"
+            ],
+            "dtype": "bfloat16",
+            "seed": 42,
+            "rope_scaling": {
+              "rope_type": "yarn",
+              "factor": 2.0,
+              "original_max_position_embeddings": 32768
+            },
+            "max_model_len": 65536,
+            "tensor_parallel_size": 2,
+            "max_num_seqs": 8,
+            "max_num_batched_tokens": 8192,
+            "enable_prefix_caching": true,
+            "enable_chunked_prefill": true,
+            "generation_config": "vllm",
+            "gpu_memory_utilization": null
+          }
+        },
+        {
+          "splitlines_line": 190,
+          "time": "10-13 19:15:07",
+          "settings": {
+            "model": "/home/ma-user/work/dataset/summary-fact-probe/models/Qwen3-8B",
+            "served_model_name": [
+              "small"
+            ],
+            "dtype": "bfloat16",
+            "seed": 42,
+            "rope_scaling": {
+              "rope_type": "yarn",
+              "factor": 2.0,
+              "original_max_position_embeddings": 32768
+            },
+            "max_model_len": 65536,
+            "tensor_parallel_size": 2,
+            "max_num_seqs": 8,
+            "max_num_batched_tokens": 8192,
+            "enable_prefix_caching": true,
+            "enable_chunked_prefill": true,
+            "generation_config": "vllm",
+            "gpu_memory_utilization": null
+          }
+        },
+        {
+          "splitlines_line": 434,
+          "time": "10-13 19:29:24",
+          "settings": {
+            "model": "/home/ma-user/work/dataset/summary-fact-probe/models/Qwen3-8B",
+            "served_model_name": [
+              "small"
+            ],
+            "dtype": "bfloat16",
+            "seed": 42,
+            "rope_scaling": {
+              "rope_type": "yarn",
+              "factor": 2.0,
+              "original_max_position_embeddings": 32768
+            },
+            "max_model_len": 65536,
+            "tensor_parallel_size": 2,
+            "max_num_seqs": 8,
+            "max_num_batched_tokens": 8192,
+            "enable_prefix_caching": true,
+            "enable_chunked_prefill": true,
+            "generation_config": "vllm",
+            "gpu_memory_utilization": null
+          }
+        }
+      ],
+      "max_running": 4,
+      "max_running_plus_waiting": 4,
+      "http_status_counts": {
+        "200": 151
+      },
+      "anomalies": []
+    },
+    {
+      "run": "exp04-2gpu",
+      "role": "large",
+      "sha256": "16EC6F14AFAAAE912A859472417388D602332737F6C192FDBE6EC5D69FAB20C9",
+      "starts": [
+        {
+          "splitlines_line": 4,
+          "time": "10-13 19:17:56",
+          "settings": {
+            "model": "/home/ma-user/work/dataset/summary-fact-probe/models/Qwen3-32B",
+            "served_model_name": [
+              "large"
+            ],
+            "dtype": "bfloat16",
+            "seed": 42,
+            "rope_scaling": {
+              "rope_type": "yarn",
+              "factor": 2.0,
+              "original_max_position_embeddings": 32768
+            },
+            "max_model_len": 65536,
+            "tensor_parallel_size": 2,
+            "max_num_seqs": 8,
+            "max_num_batched_tokens": 8192,
+            "enable_prefix_caching": true,
+            "enable_chunked_prefill": true,
+            "generation_config": "vllm",
+            "gpu_memory_utilization": null
+          }
+        }
+      ],
+      "max_running": 4,
+      "max_running_plus_waiting": 4,
+      "http_status_counts": {
+        "200": 150
+      },
+      "anomalies": []
+    },
+    {
+      "run": "exp04-2gpu-pressure",
+      "role": "small",
+      "sha256": "0DE490E5AC7C674BD3C9A4EDD8BC542059B8688774B9A057F7AEF7A254B10A4E",
+      "starts": [
+        {
+          "splitlines_line": 4,
+          "time": "10-13 17:55:39",
+          "settings": {
+            "model": "/home/ma-user/work/dataset/summary-fact-probe/models/Qwen3-8B",
+            "served_model_name": [
+              "small"
+            ],
+            "dtype": "bfloat16",
+            "seed": 42,
+            "rope_scaling": {
+              "rope_type": "yarn",
+              "factor": 2.0,
+              "original_max_position_embeddings": 32768
+            },
+            "max_model_len": 65536,
+            "tensor_parallel_size": 2,
+            "max_num_seqs": 8,
+            "max_num_batched_tokens": 8192,
+            "enable_prefix_caching": true,
+            "enable_chunked_prefill": true,
+            "generation_config": "vllm",
+            "gpu_memory_utilization": null
+          }
+        },
+        {
+          "splitlines_line": 183,
+          "time": "10-13 18:02:48",
+          "settings": {
+            "model": "/home/ma-user/work/dataset/summary-fact-probe/models/Qwen3-8B",
+            "served_model_name": [
+              "small"
+            ],
+            "dtype": "bfloat16",
+            "seed": 42,
+            "rope_scaling": {
+              "rope_type": "yarn",
+              "factor": 2.0,
+              "original_max_position_embeddings": 32768
+            },
+            "max_model_len": 65536,
+            "tensor_parallel_size": 2,
+            "max_num_seqs": 8,
+            "max_num_batched_tokens": 8192,
+            "enable_prefix_caching": true,
+            "enable_chunked_prefill": true,
+            "generation_config": "vllm",
+            "gpu_memory_utilization": null
+          }
+        }
+      ],
+      "max_running": 4,
+      "max_running_plus_waiting": 4,
+      "http_status_counts": {
+        "200": 40
+      },
+      "anomalies": []
+    },
+    {
+      "run": "exp04-2gpu-pressure",
+      "role": "large",
+      "sha256": "175B12C2D3C73D18F946C3C82F3B3619B6191090124FA2935A32B559414E0982",
+      "starts": [
+        {
+          "splitlines_line": 4,
+          "time": "10-13 17:57:43",
+          "settings": {
+            "model": "/home/ma-user/work/dataset/summary-fact-probe/models/Qwen3-32B",
+            "served_model_name": [
+              "large"
+            ],
+            "dtype": "bfloat16",
+            "seed": 42,
+            "rope_scaling": {
+              "rope_type": "yarn",
+              "factor": 2.0,
+              "original_max_position_embeddings": 32768
+            },
+            "max_model_len": 65536,
+            "tensor_parallel_size": 2,
+            "max_num_seqs": 8,
+            "max_num_batched_tokens": 8192,
+            "enable_prefix_caching": true,
+            "enable_chunked_prefill": true,
+            "generation_config": "vllm",
+            "gpu_memory_utilization": null
+          }
+        }
+      ],
+      "max_running": 4,
+      "max_running_plus_waiting": 4,
+      "http_status_counts": {
+        "200": 40
+      },
+      "anomalies": []
+    }
+  ],
+  "models": [
+    {
+      "role": "small",
+      "path": "/home/ma-user/work/dataset/summary-fact-probe/models/Qwen3-8B",
+      "snapshot_revision": "b968826d9c46dd6066d109eabc6255188de91218",
+      "metadata_count": 15,
+      "metadata_commits": [
+        "b968826d9c46dd6066d109eabc6255188de91218"
+      ],
+      "configuration": {
+        "architectures": [
+          "Qwen3ForCausalLM"
+        ],
+        "model_type": "qwen3",
+        "max_position_embeddings": 40960,
+        "rope_scaling": null,
+        "torch_dtype": "bfloat16"
+      },
+      "weight_bytes_verified": false
+    },
+    {
+      "role": "large",
+      "path": "/home/ma-user/work/dataset/summary-fact-probe/models/Qwen3-32B",
+      "snapshot_revision": "9216db5781bf21249d130ec9da846c4624c16137",
+      "metadata_count": 27,
+      "metadata_commits": [
+        "9216db5781bf21249d130ec9da846c4624c16137"
+      ],
+      "configuration": {
+        "architectures": [
+          "Qwen3ForCausalLM"
+        ],
+        "model_type": "qwen3",
+        "max_position_embeddings": 40960,
+        "rope_scaling": null,
+        "torch_dtype": "bfloat16"
+      },
+      "weight_bytes_verified": false
+    }
+  ],
+  "diagnostic_package_versions": {
+    "transformers": "4.55.4",
+    "tokenizers": "0.21.4",
+    "vllm": "0.10.2",
+    "httpx": "0.28.1"
+  }
+}

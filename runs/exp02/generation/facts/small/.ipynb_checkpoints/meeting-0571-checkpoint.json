@@ -1,0 +1,43 @@
+{
+  "status": "ok",
+  "request_hash": "64df6e2f5ab0b3a70a109d5dca9bcc82e4bb63d3a938ba9e112620a426038078",
+  "output": {
+    "key_facts": [
+      "Third quarter sales were $122.4 million, up 8% compared to the third quarter of 2020 and down 6% sequentially from the second quarter.",
+      "Customer demand remains robust, while supply challenges persist, especially for transportation products.",
+      "Third quarter gross margin was 37.3%, up 490 basis points from 32.4% in the third quarter of 2020 and up 50 basis points sequentially from the second quarter of 2021.",
+      "Third quarter EBITDA margin was 21.7%, up 270 basis points from 19% in the third quarter of 2020.",
+      "Third quarter adjusted earnings per share were $0.46, up 35% from $0.34 in the third quarter of 2020.",
+      "Operating cash flow for the third quarter was $21 million, down from $26 million in the third quarter of 2020.",
+      "New business awards for the third quarter were $179 million, up from $127 million in the same period last year.",
+      "Non-transportation related revenue accounted for nearly 50% of total revenue in the third quarter, up from historically around 1/3 of sales.",
+      "Sales to transportation customers declined by 5% compared to the third quarter of 2020 and 13% sequentially.",
+      "Sales to other end markets increased 24% year-over-year and 3% sequentially.",
+      "The company expects an improving trend in 2022 despite ongoing supply chain challenges.",
+      "The semiconductor shortage is expected to reduce vehicle builds by nine million to 10 million units this year.",
+      "The U.S. light vehicle transportation market SAAR dropped closer to $12 million in September, with an expected range of 13 to 13.5 million units for the year.",
+      "On-hand days supply are now closer to 20 days, the lowest in recent history, down over 60% from the five-year average of 55 days.",
+      "The company reported a loss of $1.97 per share for the third quarter of 2021.",
+      "Adjusted earnings for the third quarter were $0.46 per diluted share compared to $0.34 per diluted share in the same period last year.",
+      "The company recorded a noncash charge of $106 million before tax as part of the U.S. pension plan termination process.",
+      "The third quarter tax rate was 28.9% due to the impact of the final pension settlement charge.",
+      "The company anticipates a 2021 tax rate in the range of 19% to 21%, excluding the impact of the pension settlement and other discrete items.",
+      "The company's cash balance was $129 million as of September 30, 2021, up from $92 million on December 31, 2020.",
+      "Long-term debt balance was $50 million at the end of the third quarter, down from $55 million on December 31, 2020.",
+      "Debt to capitalization ratio was 9.9% at the end of the third quarter, compared to 11.4% at the end of 2020.",
+      "The company is near the end of its SAP system rollout, with most sites now running on SAP and completion expected in early 2022.",
+      "The company updated its full year 2021 guidance to sales between $495 million and $505 million, and adjusted earnings between $1.85 and $1.95 per share.",
+      "The company repurchased approximately 148,000 shares for slightly less than $5 million as part of its stock buyback program."
+    ]
+  },
+  "metadata": {
+    "model": "small",
+    "finish_reason": "stop",
+    "usage": {
+      "prompt_tokens": 3887,
+      "total_tokens": 4711,
+      "completion_tokens": 824,
+      "prompt_tokens_details": null
+    }
+  }
+}

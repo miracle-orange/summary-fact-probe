@@ -1,0 +1,29 @@
+{
+  "status": "ok",
+  "request_hash": "6cebb6b79d4fd01a011480ac560beacb2c0a25d9eaad58cf29be826cb13aa4ab",
+  "output": {
+    "summary": "The conversation centers around a public hearing for Council Bill 1089, which proposes extending the minimum affordability period for affordable housing projects from 20 to 60 years. An amendment was introduced to delay the effective date of this extension to February 1st, 2019, allowing time for rulemaking and stakeholder input. The amendment was supported and passed, and there was a motion to postpone the final consideration of the bill until February 19th, 2019. The discussion included perspectives from various stakeholders, including nonprofit organizations, for-profit developers, and community members, highlighting concerns about the feasibility of implementing the extended affordability period, the need for adequate funding and rehabilitation support, and the importance of involving all relevant parties in shaping the policy. The hearing concluded with the amendment passing and the postponement motion failing, leading to the bill being ordered published as amended."
+  },
+  "metadata": {
+    "attempts": 1,
+    "input_tokens_local": 31500,
+    "context_limit": 65536,
+    "request_parameters": {
+      "temperature": 0.7,
+      "top_p": 0.8,
+      "top_k": 20,
+      "min_p": 0.0,
+      "repetition_penalty": 1.05,
+      "seed": 42,
+      "max_tokens": 4096
+    },
+    "model": "small",
+    "finish_reason": "stop",
+    "usage": {
+      "prompt_tokens": 31500,
+      "total_tokens": 31688,
+      "completion_tokens": 188,
+      "prompt_tokens_details": null
+    }
+  }
+}

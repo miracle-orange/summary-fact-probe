@@ -1,0 +1,23 @@
+# Local caches and large generated assets
+cache/
+models/
+.Trash-1000/
+__pycache__/
+*.pyc
+*.pyo
+*.log
+.DS_Store
+
+# Keep only the compressed run archives in GitHub; uncompressed large dirs stay local.
+runs/*
+!runs/*.tar.gz
+!runs/exp01/
+!runs/exp02/
+!runs/exp03-2gpu/
+!runs/exp03-2gpu-pressure/
+!runs/exp04-before-all-OMMc2H/
+!runs/exp04-2gpu-pressure/
+!runs/preparation/
+
+# The nested project repo is already versioned elsewhere.
+meeting-fact-probe/

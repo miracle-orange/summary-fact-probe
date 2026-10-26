@@ -1,0 +1,40 @@
+{
+  "status": "ok",
+  "request_hash": "0361f9a09a70b31f11fa60a78ca08b2883d63d7d49f4544d7d1cfe92ea17007f",
+  "output": {
+    "key_facts": [
+      "Grad F presented a sheet with two sides, one containing a revised semantic specification and the other a revised construction formalism.",
+      "The sheet includes a block for constituents, with the examples showing constructions having a type, name, and possibly a formal or meaning type.",
+      "Grad F mentioned that the syntax of the construction is often determined by the type, with examples like 'I' being typed as a meaning category.",
+      "The discussion included the idea of having semantic constraints and meaning bindings, with Grad F noting that the bottom block should be semantic constraints.",
+      "Grad F discussed the concept of 'designates' as a term that refers to the semantic head of a phrase, such as 'ball' in 'the big red ball'.",
+      "The group discussed the distinction between form and meaning types, with Grad F indicating that the current notation allows for both.",
+      "Grad F mentioned the issue of terminology, such as 'constraints' being a term that some linguists found misleading, and suggested alternatives like 'semantic bindings'.",
+      "The group agreed that the formalism should be decoupled from the parsing strategy, regardless of whether it is used for matching or verification.",
+      "Grad F discussed the idea of having a notation for information structure, including focus and topic, with the focus being related to the new information in a sentence.",
+      "The group considered the possibility of having a notation for mental spaces, which would involve a more complex structure and would be addressed after Robert returns.",
+      "Grad F mentioned the idea of having a slot for 'predications' in the semantic side of constructions, which could include things like 'the guy I know from school'.",
+      "The group discussed the idea of having a tool kit for semantic specifications, which includes various schemas and image schemata, and that this tool kit is used in the semantic side of constructions.",
+      "Grad F mentioned the idea of having a slot for 'cause' in the semantic side of constructions, which could be a frame that refers to other frames.",
+      "The group discussed the idea of having a slot for 'speaker' and 'hearer' in the discourse segment, with the speaker being known from the situation and the hearer being more complex.",
+      "Grad F mentioned the idea of having a slot for 'hedges' in the semantic side of constructions, which could include things like 'I think' or 'about', but noted that it was not included in the current notation.",
+      "Grad F mentioned the idea of having a slot for 'inheriting' from other constructions, but noted that it was not included in the current notation and that it could be addressed later.",
+      "Grad A suggested that the group should focus on defining the set of constructions they want to work on, and that this should be done before Robert returns.",
+      "Grad A mentioned that Eva modified the GUI of JavaBayes to include a button menu item for saving it into the embedded JavaBayes format.",
+      "Grad A proposed an idea for construal using probabilistic relational models, which could be unfolded into a Bayes-net, but noted that it was still a tentative idea and required further discussion.",
+      "Grad A mentioned that they would send a draft of their thesis proposal to the group for feedback before leaving on Thursday.",
+      "The group agreed to meet again on Thursday at one PM to discuss the thesis proposal and make any last-minute changes to the talk Grad A had to give at EML.",
+      "Grad F agreed to meet on Thursday at four PM if needed, but ultimately agreed to the one PM meeting time."
+    ]
+  },
+  "metadata": {
+    "model": "small",
+    "finish_reason": "stop",
+    "usage": {
+      "prompt_tokens": 30558,
+      "total_tokens": 31275,
+      "completion_tokens": 717,
+      "prompt_tokens_details": null
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "status": "ok",
+  "request_hash": "cab4fc4dd98a69e63d06178bb57abe13b383ab5a18a44fe5cd9f6670695ba544",
+  "output": {
+    "summary": "The Children, Young People and Education Committee discussed the impact of Brexit on higher and further education in Wales with Cabinet Secretary for Education Kirsty Williams AM and Minister for Welsh Language and Lifelong Learning Eluned Morgan AM. The Welsh Government has been collaborating with HE and FE institutions since September 2016 to evaluate potential effects, including conducting scenario planning for 'no deal' and 'deal' outcomes. Cardiff University’s recent research has influenced current assessments, while the Treasury has guaranteed funding for European programs in HE and FE until December 2020. Concerns were raised about losing 50% of Horizon 2020 activities in a 'no deal' scenario and the decline in EU student applications, attributed to changes in tuition fee grants and Brexit-related uncertainty. Swansea University serves as a model for attracting international students, and the Welsh Government has allocated £3.5 million to the Global Wales initiative to enhance international recruitment. A new regional skills partnership approach is being implemented to align training with employer needs, especially in sectors vulnerable to Brexit impacts like construction, manufacturing, and healthcare. The committee emphasized the importance of multi-annual funding for HE and FE, noting that the loss of such funding poses significant challenges. The Welsh Government is advocating for the replacement of lost EU funding and maintaining support for apprenticeships and other programs. Officials are also engaged in ongoing discussions with the UK Department for Exiting the European Union and other bodies to secure Wales’ interests. Additionally, the Government is reviewing FE funding to improve responsiveness to employer demands and addressing potential skills shortages, particularly in rural areas. The National Union of Students is playing a key role in shaping policy responses, and the Welsh Government remains committed to implementing the Diamond and Reid reviews for HE funding reform. Overall, the Government is working to ensure continuity and resilience in the education sector amidst Brexit uncertainties."
+  },
+  "metadata": {
+    "attempts": 1,
+    "input_tokens_local": 11301,
+    "context_limit": 65536,
+    "request_parameters": {
+      "temperature": 0.7,
+      "top_p": 0.8,
+      "top_k": 20,
+      "min_p": 0.0,
+      "repetition_penalty": 1.05,
+      "seed": 42,
+      "max_tokens": 4096
+    },
+    "model": "large",
+    "finish_reason": "stop",
+    "usage": {
+      "prompt_tokens": 11301,
+      "total_tokens": 11677,
+      "completion_tokens": 376,
+      "prompt_tokens_details": null
+    }
+  }
+}

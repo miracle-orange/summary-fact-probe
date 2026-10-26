@@ -1,0 +1,42 @@
+{
+  "status": "ok",
+  "request_hash": "7fe44c66a204cfb4ce76b200366534da9cae748b4e07c0278cd8c58fae91c9d0",
+  "output": {
+    "key_facts": [
+      "The council is discussing Council Bill 1089, which aims to extend the minimum affordability period for affordable housing from 20 years to 60 years.",
+      "Councilwoman Kenny proposed an amendment to delay the effective date of the affordability extension to February 1st, 2019, allowing time for stakeholder discussions and rulemaking.",
+      "Developers and nonprofits expressed concerns about the feasibility of maintaining affordable housing for 60 years without additional funding or regulatory clarity.",
+      "Approximately 20,000 income-restricted units are in Denver's portfolio, with 5,000 funded by the city. About 2,000 of these units are at risk of losing their affordability restrictions over the next five years.",
+      "Some speakers supported immediate passage of the bill to address the housing crisis, while others advocated for a four-month delay to refine implementation details.",
+      "Representatives from organizations like Servicios de la Raza, All in Denver, and Northeast Denver Housing Center spoke in favor of long-term affordability and highlighted community needs.",
+      "The Office of Economic Development (OED) reported that peer cities such as Seattle and Boulder have longer affordability periods, ranging from 50 years to perpetuity.",
+      "Councilman Espinosa raised concerns about the lack of guaranteed rehabilitation funding for older affordable housing units under a 60-year affordability model.",
+      "Councilwoman Ortega proposed a postponement of final consideration of the bill until February 19, 2019, to allow for further stakeholder input, but the motion failed.",
+      "The amendment to delay the effective date of the affordability extension passed with 12 votes in favor.",
+      "There was a separate discussion and vote on Council Bill 975, which involves amendments to the inclusionary housing ordinance and compliance issues, ultimately passing with 11 votes in favor."
+    ]
+  },
+  "metadata": {
+    "attempts": 1,
+    "input_tokens_local": 31478,
+    "context_limit": 65536,
+    "request_parameters": {
+      "temperature": 0.7,
+      "top_p": 0.8,
+      "top_k": 20,
+      "min_p": 0.0,
+      "repetition_penalty": 1.05,
+      "presence_penalty": 1.0,
+      "seed": 42,
+      "max_tokens": 8192
+    },
+    "model": "large",
+    "finish_reason": "stop",
+    "usage": {
+      "prompt_tokens": 31478,
+      "total_tokens": 31865,
+      "completion_tokens": 387,
+      "prompt_tokens_details": null
+    }
+  }
+}

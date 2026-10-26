@@ -1,0 +1,42 @@
+{
+  "status": "ok",
+  "request_hash": "d112cefaaa90fc35e8f99ef93a1ba746f88101f98305418ff6ebf269a2ae34fd",
+  "output": {
+    "key_facts": [
+      "The Minister of Public Safety and Emergency Preparedness tabled the 2019 annual report on the RCMP's use of the law enforcement justification provisions.",
+      "The Minister of National Defence tabled the 2018-19 progress report on Canada's national action plan for the implementation of United Nations Security Council resolutions on women, peace and security.",
+      "Two petitions were presented, one concerning the protection of pollinators and the other regarding the southern resident killer whales.",
+      "A petition was presented concerning forced organ harvesting and trafficking, with the petitioner calling for the government to support Bill S-204.",
+      "A petition was presented concerning the implementation of a universal basic income system for all Canadians.",
+      "A petition was presented concerning the Coastal GasLink project and the rights of the Wet'suwet'en nation.",
+      "An e-petition was presented concerning the situation in Guyana and the need for advocacy for democracy.",
+      "Statements by members included recognition of community efforts during the pandemic, including homegrown innovations and volunteer work.",
+      "Statements by members included recognition of community efforts during the pandemic, including support for essential workers and local businesses.",
+      "Statements by members included calls for action on police brutality against Aboriginals and the need for a commission of inquiry.",
+      "The Bruce Oake Recovery Centre, a state-of-the-art addictions recovery facility, is under construction in Winnipeg.",
+      "The Liberal government tabled $87 billion in spending without allowing sufficient time for Parliament to study, debate, and pass it.",
+      "The Liberal government was criticized for not providing an economic update by the end of June, despite the provinces doing so.",
+      "The government was criticized for not providing clear and coherent plans for businesses to safely reopen.",
+      "The government was criticized for not producing enough personal protective equipment (PPE) domestically to meet Canadian demand.",
+      "The government was criticized for not providing a clear timeline for the extension of the Canada Emergency Response Benefit (CERB).",
+      "The government was criticized for not addressing the needs of Canadian veterans who are facing increased medical costs.",
+      "The government was criticized for not providing adequate support for Canadian seniors.",
+      "The government was criticized for not addressing the needs of black youth in Canada.",
+      "The government was criticized for not providing universal, publicly funded child care.",
+      "The government was criticized for not providing adequate support for the tourism industry.",
+      "The government was criticized for not lifting the gay blood ban, which is considered discriminatory and unscientific.",
+      "The government was criticized for not providing sufficient support for the agriculture sector.",
+      "The government was criticized for not removing unnecessary hurdles for sole proprietors to access the Canada Emergency Business Account (CEBA)."
+    ]
+  },
+  "metadata": {
+    "model": "small",
+    "finish_reason": "stop",
+    "usage": {
+      "prompt_tokens": 27117,
+      "total_tokens": 27660,
+      "completion_tokens": 543,
+      "prompt_tokens_details": null
+    }
+  }
+}

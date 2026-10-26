@@ -1,0 +1,5 @@
+{
+  "status": "error",
+  "request_hash": "56a289d639fac0e3ed0e9f3ad4b8296aa568b309020e7df209038f18629e1ffa",
+  "error": "RuntimeError('失败响应已保存，停止本次诊断运行。')"
+}

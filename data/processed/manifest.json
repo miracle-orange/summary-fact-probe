@@ -1,0 +1,14 @@
+{
+  "source": "/home/ma-user/work/dataset/summary-fact-probe/data/raw/OmniCSEval.json",
+  "sha256": "A6DC55E50F5399B562A1F51EEBBDE6834EC9FE6D94E60A79C2132DF362833A07",
+  "meeting_count": 300,
+  "pilot_count": 30,
+  "source_counts": {
+    "QMSum-Academic": 50,
+    "ECTSum": 75,
+    "QMSum-Product": 70,
+    "MeetingBank": 75,
+    "QMSum-Committee": 30
+  },
+  "seed": 42
+}

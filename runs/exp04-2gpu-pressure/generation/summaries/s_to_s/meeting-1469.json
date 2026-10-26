@@ -1,0 +1,29 @@
+{
+  "status": "ok",
+  "request_hash": "7657dca5f1b3b7bb3eb7c761a94c4397216274eedaf43723b324009f0cc29afc",
+  "output": {
+    "summary": "The Special Committee on the COVID-19 Pandemic convened with the Chair calling the meeting to order and noting that proceedings would be televised. Mr. Paul Manly presented a petition urging a ban on cosmetic testing using animals in Canada, modeled after the European Union. Hon. Pierre Poilievre tabled an e-petition concerning a tragic boating incident involving his constituent's son, Joshua, and called for regulatory changes to ensure life jackets are mandatory for children under 14 on small vessels. The Prime Minister emphasized the government's priority of quickly distributing financial support to Canadians, stating that fraud is unacceptable and measures are in place to detect it. Hon. Andrew Scheer questioned the government's handling of fraudulent applications, and the Prime Minister reiterated the government's focus on aiding as many Canadians as possible swiftly. Hon. Yves-Franois Blanchet inquired about employment incentives for the Canada emergency response benefit, while the Prime Minister outlined the job bank initiative for students. Hon. Jagmeet Singh highlighted the disproportionate impact of the pandemic on seniors, noting that 80% or more of deaths were among seniors in long-term care homes, and the Prime Minister acknowledged the federal government's role in supporting provinces. Hon. Pierre Poilievre pressed the government on the number of fraudulent beneficiaries and the Auditor General's funding, with responses indicating the government was addressing these concerns. Hon. Grard Deltell questioned the accuracy of reports on fraudulent use of emergency assistance, and Hon. Jean-Yves Duclos clarified that the numbers referred to legitimate recipients. Hon. Tracy Gray raised concerns about small business owners not qualifying for CEBA due to not having a business account or being owner-operators, with responses indicating adjustments to eligibility criteria. Hon. John Barlow discussed the impact of the pandemic on the agricultural sector, and Hon. Marie-Claude Bibeau outlined support measures for farmers. Hon. Michael Chong raised concerns about the leaking of labor force survey data, prompting a government commitment to investigate the leak. Hon. Marilne Gill questioned the government about specific support for seasonal industries like tourism and fishing, with responses indicating ongoing measures. Hon. Larry Maguire inquired about the wage subsidy program's applicability to high-growth businesses and merged companies, with responses indicating the government was considering changes. Hon. Paul Manly sought clarification on allowing dividend income for CEBA eligibility, with the government indicating it was working with businesses to find solutions. Hon. Scott Duvall questioned the government's refusal to increase OAS and GIS benefits for seniors, with responses highlighting one-time payments and additional support measures. Hon. Maxime Blanchette-Joncas critiqued the rent assistance program, and Hon. Bill Morneau stated the program was significant with more details forthcoming. Hon. Greg McLean questioned the design of the CECRA program, and Hon. Bill Morneau emphasized its aim to provide advantages for both landlords and tenants. Finally, Hon. Pierre Poilievre inquired about the government's financial position, with responses indicating a strong fiscal stance and focus on supporting Canadians."
+  },
+  "metadata": {
+    "attempts": 1,
+    "input_tokens_local": 31641,
+    "context_limit": 65536,
+    "request_parameters": {
+      "temperature": 0.7,
+      "top_p": 0.8,
+      "top_k": 20,
+      "min_p": 0.0,
+      "repetition_penalty": 1.05,
+      "seed": 42,
+      "max_tokens": 4096
+    },
+    "model": "small",
+    "finish_reason": "stop",
+    "usage": {
+      "prompt_tokens": 31641,
+      "total_tokens": 32272,
+      "completion_tokens": 631,
+      "prompt_tokens_details": null
+    }
+  }
+}

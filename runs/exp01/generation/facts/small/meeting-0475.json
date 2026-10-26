@@ -1,0 +1,32 @@
+{
+  "status": "ok",
+  "request_hash": "3182a8dc7a8f8bf1992831421a18f00d2a1c22f134a94803cbb8ba9086de53bd",
+  "output": {
+    "key_facts": [
+      "The Eurospeech paper was accepted and will be presented in Aalborg, Denmark, in September.",
+      "PhD C discussed experiments on online normalization, including varying time constants and using different means for silence and speech, but found no significant improvement.",
+      "Adding white noise at a level 15 dB below the peak energy of utterances made MFCCs smoother and did not worsen speech recognition performance.",
+      "PhD C mentioned that the LDA filter derived from clean speech improved recognition rates on TI-Digits from 82.7% to 85.1%.",
+      "Grad A plans to conduct experiments on phone recognition using TIMIT, incorporating knowledge of voicing to improve results.",
+      "Grad G mentioned that training a Broadcast News net takes two to three weeks, and scaling down the net can reduce training time by a quarter.",
+      "PhD D encountered issues with Wiener filtering, suspecting a bug in the implementation, and plans to try a modified approach using filters from Carlos' thesis.",
+      "PhD E is working on VTS for noise removal, using a single Gaussian for noise estimation and a codebook for clean speech, with plans to improve noise modeling.",
+      "Professor B suggested using known nonspeech sections for noise estimation to better understand the impact of different methods on performance.",
+      "PhD E explained the VTS method involves a Taylor series expansion to estimate the PDF of noisy speech based on statistics of clean and noisy speech.",
+      "PhD E mentioned that the noise estimation is done using only the first ten frames of an utterance and is fixed per utterance.",
+      "Professor B questioned whether using more parameters to characterize noise could improve performance, especially with better boundaries from VAD.",
+      "PhD E confirmed that only the first term of the vector Taylor series is used in the current implementation, and higher-order terms are complicated.",
+      "PhD F mentioned that some digit forms do not contain digits, and not everyone will be reading digits in the experiment."
+    ]
+  },
+  "metadata": {
+    "model": "small",
+    "finish_reason": "stop",
+    "usage": {
+      "prompt_tokens": 17633,
+      "total_tokens": 18035,
+      "completion_tokens": 402,
+      "prompt_tokens_details": null
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "status": "ok",
+  "request_hash": "d48d8fcd0cf0de2034abe552eb838a8d683060b390abbbf211eaefc605ec14f0",
+  "output": {
+    "summary": "Council Bill 245 proposes a rezoning of a 75,000-square-foot property at 2423–2490 South University in Council District Six from General Urban Mixed Use Annex Three Story (GMC-3) to General Urban Residential Mixed Use Five Story (GRC-5). The site, located on the westernmost edge of the University Park neighborhood, currently features commercial and retail uses built between 1951 and 1972, with a height limit of 45 feet. The rezoning would allow for buildings up to 70 feet tall, promoting mixed-use development with a focus on residential use. The property is now owned by Knowlton Colorado, which recently acquired most of the block after decades of fragmented ownership. The rezoning aligns with the University Park Neighborhood Plan and Blueprint Denver, both of which emphasize sustainable infill development and mixed-use projects along enhanced transit corridors like University Boulevard. The planning board unanimously supported the application in March 2014, and the Land Use Transportation Committee forwarded it to the City Council for a final vote on May 12, 2014. A neighborhood petition of protest was filed, requiring a supermajority of 10 out of 12 affirmative votes for the rezoning to pass. The proposed development includes 236 residential units, 25,000 square feet of neighborhood-oriented retail, and below-grade parking. A traffic study conducted by the developer indicated minimal impact on University Boulevard traffic, while concerns about neighborhood streets, pedestrian safety, and increased congestion were raised by residents. The project’s proponent emphasized collaboration with the community and adherence to design guidelines to minimize disruption. Despite opposition from the University Park Community Council and some residents, who argued the rezoning conflicts with the neighborhood’s character and existing zoning, the City Planning Department (CPD) recommended approval, citing consistency with the adopted plans and the need for redevelopment. After a lengthy public hearing with over 20 speakers, the council voted 13 to 1 in favor of the rezoning, allowing the project to move forward. The final design and development plan will involve further collaboration with the neighborhood and city departments to address traffic, design, and utility impacts."
+  },
+  "metadata": {
+    "attempts": 1,
+    "input_tokens_local": 31477,
+    "context_limit": 65536,
+    "request_parameters": {
+      "temperature": 0.7,
+      "top_p": 0.8,
+      "top_k": 20,
+      "min_p": 0.0,
+      "repetition_penalty": 1.05,
+      "seed": 42,
+      "max_tokens": 4096
+    },
+    "model": "large",
+    "finish_reason": "stop",
+    "usage": {
+      "prompt_tokens": 31477,
+      "total_tokens": 31946,
+      "completion_tokens": 469,
+      "prompt_tokens_details": null
+    }
+  }
+}

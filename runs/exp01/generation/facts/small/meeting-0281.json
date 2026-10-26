@@ -1,0 +1,25 @@
+{
+  "status": "ok",
+  "request_hash": "140ee27470b2f638a870c661d9e266ef92d500cc27d95cacd55cf3d737eb6772",
+  "output": {
+    "key_facts": [
+      "PhD C explains that combo is a system where features go through a network, then a low-pass filtered version of the same features goes through another MLP, and the linear outputs of these two MLPs are combined by adding the values.",
+      "The weighting scheme used for evaluation is forty percent for TI-digit, sixty percent for all the SpeechDat-Cars, with well match at forty, medium thirty-five, and high mismatch twenty-five.",
+      "The results for the highly mismatched Italian are significantly worse when the KLT size is reduced.",
+      "The test sets are between five hundred and two thousand sentences, with each sentence containing between one and sixteen digits.",
+      "The system is planned to be fixed on Tuesday, with the results to be written up soon.",
+      "There is an offer of processing power from Jeff at the University of Washington, with ten IBM RS 6000 machines, each with four processors.",
+      "The digits recording is starting to form a good size collection, which will be used alongside the SpeechDat data for further work."
+    ]
+  },
+  "metadata": {
+    "model": "small",
+    "finish_reason": "stop",
+    "usage": {
+      "prompt_tokens": 8009,
+      "total_tokens": 8225,
+      "completion_tokens": 216,
+      "prompt_tokens_details": null
+    }
+  }
+}

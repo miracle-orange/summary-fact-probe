@@ -1,0 +1,29 @@
+{
+  "status": "ok",
+  "request_hash": "10e2e6bf7af779578f064fc4286edb75f71197c1bc3c9128cec43a609f15fe67",
+  "output": {
+    "summary": "The Special Committee on the COVID-19 Pandemic convened to discuss various issues related to the pandemic's impact on Canadians. Petitions were presented, including one calling for a ban on animal testing in cosmetics, and another concerning mandatory life jackets for children under 14 on small vessels. Concerns were raised about suspected fraud in benefit applications, with the Prime Minister emphasizing the need for repayment of fraudulent funds. Discussions centered on the adequacy of support for seniors in long-term care, with the government stating its commitment to supporting provinces in addressing these challenges. The Canada Emergency Response Benefit (CERB) and Canada Emergency Business Account (CEBA) were discussed, with officials noting the number of beneficiaries and the expansion of eligibility criteria. The government faced criticism over the lack of support for certain sectors, including the tourism and agricultural industries, and the exclusion of some small businesses from financial assistance programs. Issues surrounding the Auditor General's funding, the carbon tax's impact on farmers, and the handling of the pandemic's economic fallout were also raised. Additionally, the government's approach to firearm regulation and the potential for a national debt reaching $1 trillion were debated. The meeting concluded with the committee adjourning as the House was recalled."
+  },
+  "metadata": {
+    "attempts": 1,
+    "input_tokens_local": 31162,
+    "context_limit": 65536,
+    "request_parameters": {
+      "temperature": 0.7,
+      "top_p": 0.8,
+      "top_k": 20,
+      "min_p": 0.0,
+      "repetition_penalty": 1.05,
+      "seed": 42,
+      "max_tokens": 4096
+    },
+    "model": "small",
+    "finish_reason": "stop",
+    "usage": {
+      "prompt_tokens": 31162,
+      "total_tokens": 31416,
+      "completion_tokens": 254,
+      "prompt_tokens_details": null
+    }
+  }
+}

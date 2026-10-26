@@ -1,0 +1,33 @@
+{
+  "status": "ok",
+  "request_hash": "01265fd355943aa5e30aee4156bedb05b309782975eb478257c6591adcf9fb15",
+  "output": {
+    "key_facts": [
+      "The baseline system achieved 82% accuracy on the Italian mismatched digits task.",
+      "The multi-English training set with PLP and delta features achieved 89.7% accuracy on the Italian mismatched digits task.",
+      "Using on-line normalization and a neural network improved accuracy to nearly 90% for the Italian mismatched digits task.",
+      "The PLP features performed similarly to mel cepstra features in terms of accuracy.",
+      "The MSG features did not significantly improve accuracy when combined with PLP features for the Italian mismatched digits task.",
+      "The TIMIT training set, which is hand-labeled, produced the best results among the training sets.",
+      "The use of delta features was found to be important for improving accuracy.",
+      "The researchers are considering using multi-band features and integrating neural networks into existing systems.",
+      "There are ongoing experiments with different training sets and feature combinations to determine the best approach for improving accuracy.",
+      "The researchers are planning to test the effectiveness of combining features and neural network outputs across various test sets.",
+      "The researchers are exploring the use of different training targets, including articulatory and soft targets, to reduce language dependency.",
+      "The researchers are addressing CPU and memory constraints in their experiments.",
+      "The researchers are working on integrating their neural network system with the OGI system.",
+      "The researchers are considering the use of variance scaling techniques to adjust the contribution of different feature streams.",
+      "The researchers are planning to evaluate the performance of their system across a range of different test conditions, including various languages and noise types."
+    ]
+  },
+  "metadata": {
+    "model": "small",
+    "finish_reason": "stop",
+    "usage": {
+      "prompt_tokens": 18532,
+      "total_tokens": 18848,
+      "completion_tokens": 316,
+      "prompt_tokens_details": null
+    }
+  }
+}

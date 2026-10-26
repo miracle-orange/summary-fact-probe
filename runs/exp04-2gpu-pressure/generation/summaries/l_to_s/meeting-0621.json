@@ -1,0 +1,29 @@
+{
+  "status": "ok",
+  "request_hash": "0be9935c1a41f73555201bad87564ab5067591325c7227180207aa714bccd150",
+  "output": {
+    "summary": "The conversation revolves around the proposed rezoning of a property located at 2423–2490 South University in Council District six, from GMC-3 (General Urban Mixed Use Annex) to GRX-5 (General Urban Residential Mixed Use). The applicant, Knowlton of Colorado, is seeking to increase the allowable height of the property from 45 feet to 70 feet, allowing for a five-story building. The Planning Board unanimously supported the rezoning application, and the Land Use Transportation Committee forwarded it to City Council for final consideration. A legal protest petition, signed by 20% of landowners within a 200-foot buffer zone, requires a supermajority of 10 affirmative votes for the bill to pass. The proposed development includes 236 rental housing units, 25,000 square feet of ground-floor retail, and parking below grade, which exceeds code requirements. Supporters argue that the rezoning aligns with the University Park Neighborhood Plan and Blueprint Denver, promoting mixed-use development and enhanced transit corridors. Opponents raise concerns about increased traffic, reduced sunlight, and potential negative effects on property values and neighborhood character. The developer has committed to working with the neighborhood on design details and addressing specific concerns like solar shading and traffic access points. The debate centers on whether the change in ownership and assembling the entire block constitutes a valid 'change in circumstances' justifying the zoning amendment. The University of Denver supports the rezoning as it aligns with their ongoing investments in the area and enhances the University and Evans corridors. City Council members expressed varied opinions, with some emphasizing the need for adherence to the neighborhood plan and others supporting the development’s potential benefits. The vote required 10 affirmative votes due to the legal protest and passed with 13 votes in favor."
+  },
+  "metadata": {
+    "attempts": 1,
+    "input_tokens_local": 31856,
+    "context_limit": 65536,
+    "request_parameters": {
+      "temperature": 0.7,
+      "top_p": 0.8,
+      "top_k": 20,
+      "min_p": 0.0,
+      "repetition_penalty": 1.05,
+      "seed": 42,
+      "max_tokens": 4096
+    },
+    "model": "small",
+    "finish_reason": "stop",
+    "usage": {
+      "prompt_tokens": 31856,
+      "total_tokens": 32232,
+      "completion_tokens": 376,
+      "prompt_tokens_details": null
+    }
+  }
+}

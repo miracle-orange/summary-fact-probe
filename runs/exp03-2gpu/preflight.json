@@ -1,0 +1,129 @@
+{
+  "samples": 300,
+  "context_limit": 65536,
+  "stages": [
+    {
+      "model": "small",
+      "stage": "extract",
+      "checked_samples": 300,
+      "input_tokens_max": 31478,
+      "longest_sample": "meeting-1126",
+      "output_budget": 8192,
+      "maximum_required_context": 39670
+    },
+    {
+      "model": "small",
+      "stage": "direct",
+      "checked_samples": 300,
+      "input_tokens_max": 31366,
+      "longest_sample": "meeting-1126",
+      "output_budget": 4096,
+      "maximum_required_context": 35462
+    },
+    {
+      "model": "small",
+      "stage": "gold_assisted",
+      "checked_samples": 300,
+      "input_tokens_max": 31998,
+      "longest_sample": "meeting-1126",
+      "output_budget": 4096,
+      "maximum_required_context": 36094
+    },
+    {
+      "model": "small",
+      "stage": "small_assisted",
+      "checked_samples": 0,
+      "input_tokens_max": null,
+      "longest_sample": null,
+      "output_budget": 4096,
+      "maximum_required_context": null
+    },
+    {
+      "model": "small",
+      "stage": "large_assisted",
+      "checked_samples": 0,
+      "input_tokens_max": null,
+      "longest_sample": null,
+      "output_budget": 4096,
+      "maximum_required_context": null
+    },
+    {
+      "model": "large",
+      "stage": "extract",
+      "checked_samples": 300,
+      "input_tokens_max": 31478,
+      "longest_sample": "meeting-1126",
+      "output_budget": 8192,
+      "maximum_required_context": 39670
+    },
+    {
+      "model": "large",
+      "stage": "direct",
+      "checked_samples": 300,
+      "input_tokens_max": 31366,
+      "longest_sample": "meeting-1126",
+      "output_budget": 4096,
+      "maximum_required_context": 35462
+    },
+    {
+      "model": "large",
+      "stage": "gold_assisted",
+      "checked_samples": 300,
+      "input_tokens_max": 31998,
+      "longest_sample": "meeting-1126",
+      "output_budget": 4096,
+      "maximum_required_context": 36094
+    },
+    {
+      "model": "large",
+      "stage": "small_assisted",
+      "checked_samples": 0,
+      "input_tokens_max": null,
+      "longest_sample": null,
+      "output_budget": 4096,
+      "maximum_required_context": null
+    },
+    {
+      "model": "large",
+      "stage": "large_assisted",
+      "checked_samples": 0,
+      "input_tokens_max": null,
+      "longest_sample": null,
+      "output_budget": 4096,
+      "maximum_required_context": null
+    }
+  ],
+  "overflow_count": 0,
+  "overflows": [],
+  "unavailable_assisted_inputs": 1200,
+  "unavailable_examples": [
+    {
+      "model": "small",
+      "stage": "small_assisted",
+      "sample_id": "meeting-0004"
+    },
+    {
+      "model": "small",
+      "stage": "small_assisted",
+      "sample_id": "meeting-0007"
+    },
+    {
+      "model": "small",
+      "stage": "small_assisted",
+      "sample_id": "meeting-0010"
+    },
+    {
+      "model": "small",
+      "stage": "small_assisted",
+      "sample_id": "meeting-0012"
+    },
+    {
+      "model": "small",
+      "stage": "small_assisted",
+      "sample_id": "meeting-0018"
+    }
+  ],
+  "all_assisted_inputs_checked": false,
+  "known_inputs_fit": true,
+  "note": "Missing model facts are checked on each real generation request; no source truncation."
+}
